@@ -1,0 +1,563 @@
+Code	Description
+81120	Idh1 common variants
+81121	Idh2 common variants
+81170	Abl1 gene
+81175	Asxl1 full gene sequence
+81176	Asxl1 gene target seq alys
+81206	Bcr/abl1 gene major bp
+81207	Bcr/abl1 gene minor bp
+81208	Bcr/abl1 gene other bp
+81210	Braf gene
+81218	Cebpa gene full sequence
+81219	Calr gene com variants
+81233	Btk gene common variants
+81235	Egfr gene com variants
+81236	Ezh2 gene full gene sequence
+81237	Ezh2 gene common variants
+81245	Flt3 gene
+81246	Flt3 gene analysis
+81261	Igh gene rearrange amp meth
+81262	Igh gene rearrang dir probe
+81263	Igh vari regional mutation
+81270	Jak2 gene
+81272	Kit gene targeted seq analys
+81273	Kit gene analys d816 variant
+81275	Kras gene variants exon 2
+81276	Kras gene addl variants
+81287	Mgmt gene prmtr mthyltn alys
+81292	Mlh1 gene full seq
+81293	Mlh1 gene known variants
+81294	Mlh1 gene dup/delete variant
+81301	Microsatellite instability
+81305	Myd88 gene p.leu265pro vrnt
+81310	Npm1 gene
+81311	Nras gene variants exon 2&3
+81313	Pca3/klk3 antigen
+81314	Pdgfra gene
+81315	Pml/raralpha com breakpoints
+81316	Pml/raralpha 1 breakpoint
+81320	Plcg2 gene common variants
+81321	Pten gene full sequence
+81322	Pten gene known fam variant
+81323	Pten gene dup/delet variant
+81327	Sept9 gen prmtr mthyltn alys
+81334	Runx1 gene targeted seq alys
+81340	Trb@ gene rearrange amplify
+81342	Trg gene rearrangement anal
+81345	Tert gene targeted seq alys
+81347	Sf3b1 gene common variants
+81348	Srsf2 gene common variants
+81351	Tp53 gene full gene sequence
+81352	Tp53 gene trgt sequence alys
+81353	Tp53 gene known famil vrnt
+81357	U2af1 gene common variants
+81360	Zrsr2 gene common variants
+81435	Hered colon ca-rlatd do 5+
+81437	Hered neuroend tum-rlt do 5+
+81445	So neo gsap 5-50dna/dna&rna
+81450	Hl neo gsap 5-50dna/dna&rna
+81479	Unlisted molecular pathology
+81503	Onco (ovar) five proteins
+81520	Onc breast mrna 58 genes
+81525	Oncology colon mrna
+81538	Oncology lung
+81540	Oncology tum unknown origin
+81546	Onc thyr mrna 10,196 gen alg
+0018U	Onc thyr 10 microrna seq alg
+0026U	Onc thyr dna&mrna 112 genes
+0245U	Onc thyr mut alys 10 gen&37
+C17.0	Malignant neoplasm of duodenum
+C17.1	Malignant neoplasm of jejunum
+C17.2	Malignant neoplasm of ileum
+C17.3	Meckel's diverticulum, malignant
+C17.8	Malignant neoplasm of overlapping sites of small intestine
+C17.9	Malignant neoplasm of small intestine, unspecified
+C18.0	Malignant neoplasm of cecum
+C18.1	Malignant neoplasm of appendix
+C18.2	Malignant neoplasm of ascending colon
+C18.3	Malignant neoplasm of hepatic flexure
+C18.4	Malignant neoplasm of transverse colon
+C18.5	Malignant neoplasm of splenic flexure
+C18.6	Malignant neoplasm of descending colon
+C18.7	Malignant neoplasm of sigmoid colon
+C18.8	Malignant neoplasm of overlapping sites of colon
+C18.9	Malignant neoplasm of colon, unspecified
+C19	Malignant neoplasm of rectosigmoid junction
+C20	Malignant neoplasm of rectum
+C21.0	Malignant neoplasm of anus, unspecified
+C21.1	Malignant neoplasm of anal canal
+C21.2	Malignant neoplasm of cloacogenic zone
+C21.8	Malignant neoplasm of overlapping sites of rectum, anus and anal
+canal
+Z85.030	Personal history of malignant carcinoid tumor of large intestine
+Z85.038	Personal history of other malignant neoplasm of large intestine
+Z85.040	Personal history of malignant carcinoid tumor of rectum
+Z85.048	Personal history of other malignant neoplasm of rectum,
+rectosigmoid junction, and anus
+C33	Malignant neoplasm of trachea
+C34.00	Malignant neoplasm of unspecified main bronchus
+C34.01	Malignant neoplasm of right main bronchus
+C34.02	Malignant neoplasm of left main bronchus
+C34.10	Malignant neoplasm of upper lobe, unspecified bronchus or lung
+C34.11	Malignant neoplasm of upper lobe, right bronchus or lung
+C34.12	Malignant neoplasm of upper lobe, left bronchus or lung
+C34.2	Malignant neoplasm of middle lobe, bronchus or lung
+C34.30	Malignant neoplasm of lower lobe, unspecified bronchus or lung
+C34.31	Malignant neoplasm of lower lobe, right bronchus or lung
+C34.32	Malignant neoplasm of lower lobe, left bronchus or lung
+C34.80	Malignant neoplasm of overlapping sites of unspecified bronchus
+and lung
+C34.81	Malignant neoplasm of overlapping sites of right bronchus and lung
+C34.82	Malignant neoplasm of overlapping sites of left bronchus and lung
+C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or
+lung
+C34.91	Malignant neoplasm of unspecified part of right bronchus or lung
+C34.92	Malignant neoplasm of unspecified part of left bronchus or lung
+C38.4	Malignant neoplasm of pleura
+C45.0	Mesothelioma of pleura
+C43.0	Malignant melanoma of lip
+C43.10	Malignant melanoma of unspecified eyelid, including canthus
+C43.111	Malignant melanoma of right upper eyelid, including canthus
+C43.112	Malignant melanoma of right lower eyelid, including canthus
+C43.121	Malignant melanoma of left upper eyelid, including canthus
+C43.122	Malignant melanoma of left lower eyelid, including canthus
+C43.20	Malignant melanoma of unspecified ear and external auricular
+canal
+C43.21	Malignant melanoma of right ear and external auricular canal
+C43.22	Malignant melanoma of left ear and external auricular canal
+C43.30	Malignant melanoma of unspecified part of face
+C43.31	Malignant melanoma of nose
+C43.39	Malignant melanoma of other parts of face
+C43.4	Malignant melanoma of scalp and neck
+C43.51	Malignant melanoma of anal skin
+C43.52	Malignant melanoma of skin of breast
+C43.59	Malignant melanoma of other part of trunk
+C43.60	Malignant melanoma of unspecified upper limb, including shoulder
+C43.61	Malignant melanoma of right upper limb, including shoulder
+C43.62	Malignant melanoma of left upper limb, including shoulder
+C43.70	Malignant melanoma of unspecified lower limb, including hip
+C43.71	Malignant melanoma of right lower limb, including hip
+C43.72	Malignant melanoma of left lower limb, including hip
+C43.8	Malignant melanoma of overlapping sites of skin
+C43.9	Malignant melanoma of skin, unspecified
+D03.0	Melanoma in situ of lip
+D03.10	Melanoma in situ of unspecified eyelid, including canthus
+D03.111	Melanoma in situ of right upper eyelid, including canthus
+D03.112	Melanoma in situ of right lower eyelid, including canthus
+D03.121	Melanoma in situ of left upper eyelid, including canthus
+D03.122	Melanoma in situ of left lower eyelid, including canthus
+D03.20	Melanoma in situ of unspecified ear and external auricular canal
+D03.21	Melanoma in situ of right ear and external auricular canal
+D03.22	Melanoma in situ of left ear and external auricular canal
+D03.30	Melanoma in situ of unspecified part of face
+D03.39	Melanoma in situ of other parts of face
+D03.4	Melanoma in situ of scalp and neck
+D03.51	Melanoma in situ of anal skin
+D03.52	Melanoma in situ of breast (skin) (soft tissue)
+D03.59	Melanoma in situ of other part of trunk
+D03.60	Melanoma in situ of unspecified upper limb, including shoulder
+D03.61	Melanoma in situ of right upper limb, including shoulder
+D03.62	Melanoma in situ of left upper limb, including shoulder
+D03.70	Melanoma in situ of unspecified lower limb, including hip
+D03.71	Melanoma in situ of right lower limb, including hip
+D03.72	Melanoma in situ of left lower limb, including hip
+D03.8	Melanoma in situ of other sites
+D03.9	Melanoma in situ, unspecified
+C69.01	Malignant neoplasm of right conjunctiva
+C69.02	Malignant neoplasm of left conjunctiva
+C69.11	Malignant neoplasm of right cornea
+C69.12	Malignant neoplasm of left cornea
+C69.21	Malignant neoplasm of right retina
+C69.22	Malignant neoplasm of left retina
+C69.31	Malignant neoplasm of right choroid
+C69.32	Malignant neoplasm of left choroid
+C69.41	Malignant neoplasm of right ciliary body
+C69.42	Malignant neoplasm of left ciliary body
+C69.51	Malignant neoplasm of right lacrimal gland and duct
+C69.52	Malignant neoplasm of left lacrimal gland and duct
+C69.61	Malignant neoplasm of right orbit
+C69.62	Malignant neoplasm of left orbit
+C69.81	Malignant neoplasm of overlapping sites of right eye and adnexa
+C69.82	Malignant neoplasm of overlapping sites of left eye and adnexa
+C71.0	Malignant neoplasm of cerebrum, except lobes and ventricles
+C71.1	Malignant neoplasm of frontal lobe
+C71.2	Malignant neoplasm of temporal lobe
+C71.3	Malignant neoplasm of parietal lobe
+C71.4	Malignant neoplasm of occipital lobe
+C71.5	Malignant neoplasm of cerebral ventricle
+C71.6	Malignant neoplasm of cerebellum
+C71.7	Malignant neoplasm of brain stem
+C71.8	Malignant neoplasm of overlapping sites of brain
+C71.9	Malignant neoplasm of brain, unspecified
+C73*	Malignant neoplasm of thyroid gland
+D34	Benign neoplasm of thyroid gland
+D44.0	Neoplasm of uncertain behavior of thyroid gland
+D44.2*	Neoplasm of uncertain behavior of parathyroid gland
+D44.9	Neoplasm of uncertain behavior of unspecified endocrine gland
+E01.0	Iodine-deficiency related diffuse (endemic) goiter
+E01.1	Iodine-deficiency related multinodular (endemic) goiter
+E01.2	Iodine-deficiency related (endemic) goiter, unspecified
+E04.0	Nontoxic diffuse goiter
+E04.1	Nontoxic single thyroid nodule
+E04.2	Nontoxic multinodular goiter
+E04.8	Other specified nontoxic goiter
+E04.9	Nontoxic goiter, unspecified
+C45.1	Mesothelioma of peritoneum
+C48.1	Malignant neoplasm of specified parts of peritoneum
+C48.2	Malignant neoplasm of peritoneum, unspecified
+C48.8	Malignant neoplasm of overlapping sites of retroperitoneum and
+peritoneum
+C54.0	Malignant neoplasm of isthmus uteri
+C54.1	Malignant neoplasm of endometrium
+C54.2	Malignant neoplasm of myometrium
+C54.3	Malignant neoplasm of fundus uteri
+C54.8	Malignant neoplasm of overlapping sites of corpus uteri
+C54.9	Malignant neoplasm of corpus uteri, unspecified
+C55	Malignant neoplasm of uterus, part unspecified
+C56.1	Malignant neoplasm of right ovary
+C56.2	Malignant neoplasm of left ovary
+C56.3	Malignant neoplasm of bilateral ovaries
+C56.9	Malignant neoplasm of unspecified ovary
+C57.00	Malignant neoplasm of unspecified fallopian tube
+C57.01	Malignant neoplasm of right fallopian tube
+C57.02	Malignant neoplasm of left fallopian tube
+C57.10	Malignant neoplasm of unspecified broad ligament
+C57.11	Malignant neoplasm of right broad ligament
+C57.12	Malignant neoplasm of left broad ligament
+C57.20	Malignant neoplasm of unspecified round ligament
+C57.21	Malignant neoplasm of right round ligament
+C57.22	Malignant neoplasm of left round ligament
+C57.3	Malignant neoplasm of parametrium
+C57.4	Malignant neoplasm of uterine adnexa, unspecified
+C65.1	Malignant neoplasm of right renal pelvis
+C65.2	Malignant neoplasm of left renal pelvis
+C65.9	Malignant neoplasm of unspecified renal pelvis
+C66.1	Malignant neoplasm of right ureter
+C66.2	Malignant neoplasm of left ureter
+C66.9	Malignant neoplasm of unspecified ureter
+C68.0	Malignant neoplasm of urethra
+C68.1	Malignant neoplasm of paraurethral glands
+C68.8	Malignant neoplasm of overlapping sites of urinary organs
+C68.9	Malignant neoplasm of urinary organ, unspecified
+C61	Malignant neoplasm of prostate
+D29.1	Benign neoplasm of prostate
+D40.0	Neoplasm of uncertain behavior of prostate
+N40.0	Benign prostatic hyperplasia without lower urinary tract symptoms
+N40.1	Benign prostatic hyperplasia with lower urinary tract symptoms
+N40.2	Nodular prostate without lower urinary tract symptoms
+N40.3	Nodular prostate with lower urinary tract symptoms
+N42.31	Prostatic intraepithelial neoplasia
+N42.32	Atypical small acinar proliferation of prostate
+N42.39	Other dysplasia of prostate
+N42.83	Cyst of prostate
+R31.1	Benign essential microscopic hematuria
+R31.29	Other microscopic hematuria
+C49.A0	Gastrointestinal stromal tumor, unspecified site
+C49.A1	Gastrointestinal stromal tumor of esophagus
+C49.A2	Gastrointestinal stromal tumor of stomach
+C49.A3	Gastrointestinal stromal tumor of small intestine
+C49.A4	Gastrointestinal stromal tumor of large intestine
+C49.A5	Gastrointestinal stromal tumor of rectum
+C49.A9	Gastrointestinal stromal tumor of other sites
+D48.19	Other specified neoplasm of uncertain behavior of connective and
+other soft tissue
+D48.2	Neoplasm of uncertain behavior of peripheral nerves and autonomic
+nervous system
+C91.00	Acute lymphoblastic leukemia not having achieved remission
+C91.01	Acute lymphoblastic leukemia, in remission
+C91.02	Acute lymphoblastic leukemia, in relapse
+C92.00	Acute myeloblastic leukemia, not having achieved remission
+C92.01	Acute myeloblastic leukemia, in remission
+C92.02	Acute myeloblastic leukemia, in relapse
+C92.40	Acute promyelocytic leukemia, not having achieved remission
+C92.41	Acute promyelocytic leukemia, in remission
+C92.42	Acute promyelocytic leukemia, in relapse
+C92.50	Acute myelomonocytic leukemia, not having achieved remission
+C92.51	Acute myelomonocytic leukemia, in remission
+C92.52	Acute myelomonocytic leukemia, in relapse
+C92.60	Acute myeloid leukemia with 11q23-abnormality not having
+achieved remission
+C92.61	Acute myeloid leukemia with 11q23-abnormality in remission
+C92.62	Acute myeloid leukemia with 11q23-abnormality in relapse
+C92.A0	Acute myeloid leukemia with multilineage dysplasia, not having
+achieved remission
+C92.A1	Acute myeloid leukemia with multilineage dysplasia, in remission
+C92.A2	Acute myeloid leukemia with multilineage dysplasia, in relapse
+C91.40	Hairy cell leukemia not having achieved remission
+C91.41	Hairy cell leukemia, in remission
+C91.42	Hairy cell leukemia, in relapse
+D60.0	Chronic acquired pure red cell aplasia
+D60.1	Transient acquired pure red cell aplasia
+D60.8	Other acquired pure red cell aplasias
+D60.9	Acquired pure red cell aplasia, unspecified
+D61.01	Constitutional (pure) red blood cell aplasia
+D61.03	Fanconi anemia
+D61.09	Other constitutional aplastic anemia
+D61.1	Drug-induced aplastic anemia
+D61.2	Aplastic anemia due to other external agents
+D61.3	Idiopathic aplastic anemia
+D61.89	Other specified aplastic anemias and other bone marrow failure
+syndromes
+D61.9	Aplastic anemia, unspecified
+C83.70	Burkitt lymphoma, unspecified site
+C83.71	Burkitt lymphoma, lymph nodes of head, face, and neck
+C83.72	Burkitt lymphoma, intrathoracic lymph nodes
+C83.73	Burkitt lymphoma, intra-abdominal lymph nodes
+C83.74	Burkitt lymphoma, lymph nodes of axilla and upper limb
+C83.75	Burkitt lymphoma, lymph nodes of inguinal region and lower limb
+C83.76	Burkitt lymphoma, intrapelvic lymph nodes
+C83.77	Burkitt lymphoma, spleen
+C83.78	Burkitt lymphoma, lymph nodes of multiple sites
+C83.79	Burkitt lymphoma, extranodal and solid organ sites
+C83.7A	Burkitt lymphoma, in remission
+D45	Polycythemia vera
+D47.1	Chronic myeloproliferative disease
+D47.3	Essential (hemorrhagic) thrombocythemia
+D75.81	Myelofibrosis
+C92.10	Chronic myeloid leukemia, BCR/ABL-positive, not having achieved
+remission
+C92.11	Chronic myeloid leukemia, BCR/ABL-positive, in remission
+C92.12	Chronic myeloid leukemia, BCR/ABL-positive, in relapse
+C93.10	Chronic myelomonocytic leukemia not having achieved remission
+C93.11	Chronic myelomonocytic leukemia, in remission
+C93.12	Chronic myelomonocytic leukemia, in relapse
+C91.10	Chronic lymphocytic leukemia of B-cell type not having achieved
+remission
+C91.11	Chronic lymphocytic leukemia of B-cell type in remission
+C91.12	Chronic lymphocytic leukemia of B-cell type in relapse
+C91.Z0	Other lymphoid leukemia not having achieved remission
+C91.Z1	Other lymphoid leukemia, in remission
+C91.Z2	Other lymphoid leukemia, in relapse
+D72.110	Idiopathic hypereosinophilic syndrome [IHES]
+D72.111	Lymphocytic Variant Hypereosinophilic Syndrome [LHES]
+D72.118	Other hypereosinophilic syndrome
+D72.119	Hypereosinophilic syndrome [HES], unspecified
+C96.20	Malignant mast cell neoplasm, unspecified
+C96.22	Mast cell sarcoma
+C96.29	Other malignant mast cell neoplasm
+C91.60	Prolymphocytic leukemia of T-cell type not having achieved
+remission
+C91.61	Prolymphocytic leukemia of T-cell type, in remission
+C91.62	Prolymphocytic leukemia of T-cell type, in relapse
+C95.90	Leukemia, unspecified not having achieved remission
+C95.91	Leukemia, unspecified, in remission
+C95.92	Leukemia, unspecified, in relapse
+D46.0	Refractory anemia without ring sideroblasts, so stated
+D46.1	Refractory anemia with ring sideroblasts
+D46.20	Refractory anemia with excess of blasts, unspecified
+D46.21	Refractory anemia with excess of blasts 1
+D46.22	Refractory anemia with excess of blasts 2
+D46.A	Refractory cytopenia with multilineage dysplasia
+D46.B	Refractory cytopenia with multilineage dysplasia and ring
+sideroblasts
+D46.C	Myelodysplastic syndrome with isolated del(5q) chromosomal
+abnormality
+D46.4	Refractory anemia, unspecified
+D46.Z	Other myelodysplastic syndromes
+D46.9	Myelodysplastic syndrome, unspecified
+C90.00*	Multiple myeloma not having achieved remission
+C90.02*	Multiple myeloma in relapse
+C50.011	Malignant neoplasm of nipple and areola, right female breast
+C50.012	Malignant neoplasm of nipple and areola, left female breast
+C50.111	Malignant neoplasm of central portion of right female breast
+C50.112	Malignant neoplasm of central portion of left female breast
+C50.211	Malignant neoplasm of upper-inner quadrant of right female breast
+C50.212	Malignant neoplasm of upper-inner quadrant of left female breast
+C50.311	Malignant neoplasm of lower-inner quadrant of right female breast
+C50.312	Malignant neoplasm of lower-inner quadrant of left female breast
+C50.411	Malignant neoplasm of upper-outer quadrant of right female
+breast
+C50.412	Malignant neoplasm of upper-outer quadrant of left female breast
+C50.511	Malignant neoplasm of lower-outer quadrant of right female breast
+C50.512	Malignant neoplasm of lower-outer quadrant of left female breast
+C50.611	Malignant neoplasm of axillary tail of right female breast
+C50.612	Malignant neoplasm of axillary tail of left female breast
+C50.811	Malignant neoplasm of overlapping sites of right female breast
+C50.812	Malignant neoplasm of overlapping sites of left female breast
+C50.911	Malignant neoplasm of unspecified site of right female breast
+C50.912	Malignant neoplasm of unspecified site of left female breast
+C7A.010	Malignant carcinoid tumor of the duodenum
+C7A.011	Malignant carcinoid tumor of the jejunum
+C7A.012	Malignant carcinoid tumor of the ileum
+C7A.019	Malignant carcinoid tumor of the small intestine, unspecified
+portion
+C7A.020	Malignant carcinoid tumor of the appendix
+C7A.021	Malignant carcinoid tumor of the cecum
+C7A.022	Malignant carcinoid tumor of the ascending colon
+C7A.023	Malignant carcinoid tumor of the transverse colon
+C7A.024	Malignant carcinoid tumor of the descending colon
+C7A.025	Malignant carcinoid tumor of the sigmoid colon
+C7A.026	Malignant carcinoid tumor of the rectum
+C7A.029	Malignant carcinoid tumor of the large intestine, unspecified
+portion
+C7A.090	Malignant carcinoid tumor of the bronchus and lung
+C7A.091	Malignant carcinoid tumor of the thymus
+C7A.092	Malignant carcinoid tumor of the stomach
+C7A.093	Malignant carcinoid tumor of the kidney
+C7A.094	Malignant carcinoid tumor of the foregut, unspecified
+C7A.095	Malignant carcinoid tumor of the midgut, unspecified
+C7A.096	Malignant carcinoid tumor of the hindgut, unspecified
+C7A.098	Malignant carcinoid tumors of other sites
+C7A.1	Malignant poorly differentiated neuroendocrine tumors
+C7A.8	Other malignant neuroendocrine tumors
+C7B.01	Secondary carcinoid tumors of distant lymph nodes
+C7B.02	Secondary carcinoid tumors of liver
+C7B.03	Secondary carcinoid tumors of bone
+C7B.04	Secondary carcinoid tumors of peritoneum
+C7B.09	Secondary carcinoid tumors of other sites
+C7B.1	Secondary Merkel cell carcinoma
+C7B.8	Other secondary neuroendocrine tumors
+D3A.010	Benign carcinoid tumor of the duodenum
+D3A.011	Benign carcinoid tumor of the jejunum
+D3A.012	Benign carcinoid tumor of the ileum
+D3A.019	Benign carcinoid tumor of the small intestine, unspecified portion
+D3A.020	Benign carcinoid tumor of the appendix
+D3A.021	Benign carcinoid tumor of the cecum
+D3A.022	Benign carcinoid tumor of the ascending colon
+D3A.023	Benign carcinoid tumor of the transverse colon
+D3A.024	Benign carcinoid tumor of the descending colon
+D3A.025	Benign carcinoid tumor of the sigmoid colon
+D3A.026	Benign carcinoid tumor of the rectum
+D3A.029	Benign carcinoid tumor of the large intestine, unspecified portion
+D3A.090	Benign carcinoid tumor of the bronchus and lung
+D3A.091	Benign carcinoid tumor of the thymus
+D3A.092	Benign carcinoid tumor of the stomach
+D3A.093	Benign carcinoid tumor of the kidney
+D3A.094	Benign carcinoid tumor of the foregut, unspecified
+D3A.095	Benign carcinoid tumor of the midgut, unspecified
+D3A.096	Benign carcinoid tumor of the hindgut, unspecified
+D3A.098	Benign carcinoid tumors of other sites
+D3A.8	Other benign neuroendocrine tumors
+C18.1	Malignant neoplasm of appendix
+C18.9	Malignant neoplasm of colon, unspecified
+C22.0	Liver cell carcinoma
+C22.2	Hepatoblastoma
+C22.3	Angiosarcoma of liver
+C22.4	Other sarcomas of liver
+C22.7	Other specified carcinomas of liver
+C22.8	Malignant neoplasm of liver, primary, unspecified as to type
+C22.9	Malignant neoplasm of liver, not specified as primary or secondary
+C25.2	Malignant neoplasm of tail of pancreas
+C25.7	Malignant neoplasm of other parts of pancreas
+C25.8	Malignant neoplasm of overlapping sites of pancreas
+C25.9	Malignant neoplasm of pancreas, unspecified
+C33	Malignant neoplasm of trachea
+C34.01	Malignant neoplasm of right main bronchus
+C34.02	Malignant neoplasm of left main bronchus
+C34.11	Malignant neoplasm of upper lobe, right bronchus or lung
+C34.12	Malignant neoplasm of upper lobe, left bronchus or lung
+C34.2	Malignant neoplasm of middle lobe, bronchus or lung
+C34.32	Malignant neoplasm of lower lobe, left bronchus or lung
+C34.81	Malignant neoplasm of overlapping sites of right bronchus and
+lung
+C34.82	Malignant neoplasm of overlapping sites of left bronchus and lung
+C34.91	Malignant neoplasm of unspecified part of right bronchus or lung
+C34.92	Malignant neoplasm of unspecified part of left bronchus or lung
+C43.51	Malignant melanoma of anal skin
+C43.52	Malignant melanoma of skin of breast
+C43.59	Malignant melanoma of other part of trunk
+C45.9	Mesothelioma, unspecified
+C47.0	Malignant neoplasm of peripheral nerves of head, face and neck
+C47.9	Malignant neoplasm of peripheral nerves and autonomic nervous
+system, unspecified
+C48.0	Malignant neoplasm of retroperitoneum
+C49.0	Malignant neoplasm of connective and soft tissue of head, face
+and neck
+C49.9	Malignant neoplasm of connective and soft tissue, unspecified
+C50.411	Malignant neoplasm of upper-outer quadrant of right female
+breast
+C50.412	Malignant neoplasm of upper-outer quadrant of left female breast
+C50.511	Malignant neoplasm of lower-outer quadrant of right female breast	
+C50.512	Malignant neoplasm of lower-outer quadrant of left female breast	
+C50.811	Malignant neoplasm of overlapping sites of right female breast	
+C50.812	Malignant neoplasm of overlapping sites of left female breast	
+C50.911	Malignant neoplasm of unspecified site of right female breast	
+C50.912	Malignant neoplasm of unspecified site of left female breast	
+C56.1	Malignant neoplasm of right ovary	
+C56.2	Malignant neoplasm of left ovary	
+C56.3	Malignant neoplasm of bilateral ovaries	
+C61	Malignant neoplasm of prostate	
+C64.1	Malignant neoplasm of right kidney, except renal pelvis	
+C64.2	Malignant neoplasm of left kidney, except renal pelvis	
+C67.5	Malignant neoplasm of bladder neck	
+C67.9	Malignant neoplasm of bladder, unspecified	
+C76.0	Malignant neoplasm of head, face and neck	
+C77.0	Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck	
+C77.1	Secondary and unspecified malignant neoplasm of intrathoracic
+lymph nodes	
+C77.2	Secondary and unspecified malignant neoplasm of intra-
+abdominal lymph nodes	
+C77.3	Secondary and unspecified malignant neoplasm of axilla and
+upper limb lymph nodes	
+C77.4	Secondary and unspecified malignant neoplasm of inguinal and
+lower limb lymph nodes	
+C77.5	Secondary and unspecified malignant neoplasm of intrapelvic
+lymph nodes	
+C77.8	Secondary and unspecified malignant neoplasm of lymph nodes of
+multiple regions	
+C77.9	Secondary and unspecified malignant neoplasm of lymph node,
+unspecified	
+C78.01	Secondary malignant neoplasm of right lung	
+C78.02	Secondary malignant neoplasm of left lung	
+C78.5	Secondary malignant neoplasm of large intestine and rectum	
+C78.6	Secondary malignant neoplasm of retroperitoneum and
+peritoneum	
+C78.7	Secondary malignant neoplasm of liver and intrahepatic bile duct	
+C79.01	Secondary malignant neoplasm of right kidney and renal pelvis
+C79.02	Secondary malignant neoplasm of left kidney and renal pelvis
+C79.2	Secondary malignant neoplasm of skin
+C79.31	Secondary malignant neoplasm of brain
+C79.49	Secondary malignant neoplasm of other parts of nervous system
+C79.51	Secondary malignant neoplasm of bone
+C79.52	Secondary malignant neoplasm of bone marrow
+C79.61	Secondary malignant neoplasm of right ovary
+C79.62	Secondary malignant neoplasm of left ovary
+C79.63	Secondary malignant neoplasm of bilateral ovaries
+C79.89	Secondary malignant neoplasm of other specified sites
+C80.0	Disseminated malignant neoplasm, unspecified
+C80.1	Malignant (primary) neoplasm, unspecified
+C82.57	Diffuse follicle center lymphoma, spleen
+C84.A7	Cutaneous T-cell lymphoma, unspecified, spleen
+C84.Z7	Other mature T/NK-cell lymphomas, spleen
+C84.97	Mature T/NK-cell lymphomas, unspecified, spleen
+C85.17	Unspecified B-cell lymphoma, spleen
+C85.27	Mediastinal (thymic) large B-cell lymphoma, spleen
+C85.87	Other specified types of non-Hodgkin lymphoma, spleen
+C85.97	Non-Hodgkin lymphoma, unspecified, spleen
+C86.10	Hepatosplenic T-cell lymphoma not having achieved remission
+D01.5	Carcinoma in situ of liver, gallbladder and bile ducts
+D01.7	Carcinoma in situ of other specified digestive organs
+D01.9	Carcinoma in situ of digestive organ, unspecified
+D02.21	Carcinoma in situ of right bronchus and lung
+D02.22	Carcinoma in situ of left bronchus and lung
+D03.51	Melanoma in situ of anal skin
+D03.52	Melanoma in situ of breast (skin) (soft tissue)
+D03.59	Melanoma in situ of other part of trunk
+D49.0	Neoplasm of unspecified behavior of digestive system
+D49.1	Neoplasm of unspecified behavior of respiratory system
+D49.2	Neoplasm of unspecified behavior of bone, soft tissue, and skin
+D49.3	Neoplasm of unspecified behavior of breast
+D49.4	Neoplasm of unspecified behavior of bladder
+D49.511	Neoplasm of unspecified behavior of right kidney
+D49.512	Neoplasm of unspecified behavior of left kidney
+D49.59	Neoplasm of unspecified behavior of other genitourinary organ
+D49.6	Neoplasm of unspecified behavior of brain
+D49.7	Neoplasm of unspecified behavior of endocrine glands and other
+parts of nervous system
+D49.89	Neoplasm of unspecified behavior of other specified sites
+D49.9	Neoplasm of unspecified behavior of unspecified site
+J91.0	Malignant pleural effusion
+C67.0	Malignant neoplasm of trigone of bladder
+C67.1	Malignant neoplasm of dome of bladder
+C67.2	Malignant neoplasm of lateral wall of bladder
+C67.3	Malignant neoplasm of anterior wall of bladder
+C67.4	Malignant neoplasm of posterior wall of bladder
+C67.5	Malignant neoplasm of bladder neck
+C67.6	Malignant neoplasm of ureteric orifice
+C67.7	Malignant neoplasm of urachus
+C67.8	Malignant neoplasm of overlapping sites of bladder
+C67.9	Malignant neoplasm of bladder, unspecified
+C88.00	Waldenstrom macroglobulinemia not having achieved remission
+XX000	Not Applicable
+999x	Not Applicable
+99999	Not Applicable

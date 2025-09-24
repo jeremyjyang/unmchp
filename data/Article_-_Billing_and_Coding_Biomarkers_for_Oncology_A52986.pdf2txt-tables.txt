@@ -1,0 +1,1294 @@
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	04111 -
+MAC A	J - H	Colorado
+Novitas
+Solutions, Inc.	A and B
+MAC	04112 -
+MAC B	J - H	Colorado
+Novitas
+Solutions, Inc.	A and B
+MAC	04211 -
+MAC A	J - H	New Mexico
+Novitas
+Solutions, Inc.	A and B
+MAC	04212 -
+MAC B	J - H	New Mexico
+Novitas
+Solutions, Inc.	A and B
+MAC	04311 -
+MAC A	J - H	Oklahoma
+Novitas
+Solutions, Inc.	A and B
+MAC	04312 -
+MAC B	J - H	Oklahoma
+Novitas
+Solutions, Inc.	A and B
+MAC	04411 -
+MAC A	J - H	Texas
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	04412 -
+MAC B	J - H	Texas
+Novitas
+Solutions, Inc.	A and B
+MAC	04911 -
+MAC A	J - H	Colorado
+New Mexico
+Oklahoma
+Texas
+Novitas
+Solutions, Inc.	A and B
+MAC	07101 -
+MAC A	J - H	Arkansas
+Novitas
+Solutions, Inc.	A and B
+MAC	07102 -
+MAC B	J - H	Arkansas
+Novitas
+Solutions, Inc.	A and B
+MAC	07201 -
+MAC A	J - H	Louisiana
+Novitas
+Solutions, Inc.	A and B
+MAC	07202 -
+MAC B	J - H	Louisiana
+Novitas
+Solutions, Inc.	A and B
+MAC	07301 -
+MAC A	J - H	Mississippi
+Novitas
+Solutions, Inc.	A and B
+MAC	07302 -
+MAC B	J - H	Mississippi
+Novitas
+Solutions, Inc.	A and B
+MAC	12101 -
+MAC A	J - L	Delaware
+Novitas
+Solutions, Inc.	A and B
+MAC	12102 -
+MAC B	J - L	Delaware
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	12201 -
+MAC A	J - L	District of
+Columbia
+Novitas
+Solutions, Inc.	A and B
+MAC	12202 -
+MAC B	J - L	District of
+Columbia
+Novitas
+Solutions, Inc.	A and B
+MAC	12301 -
+MAC A	J - L	Maryland
+Novitas
+Solutions, Inc.	A and B
+MAC	12302 -
+MAC B	J - L	Maryland
+Novitas
+Solutions, Inc.	A and B
+MAC	12401 -
+MAC A	J - L	New Jersey
+Novitas
+Solutions, Inc.	A and B
+MAC	12402 -
+MAC B	J - L	New Jersey
+Novitas
+Solutions, Inc.	A and B
+MAC	12501 -
+MAC A	J - L	Pennsylvania
+Novitas
+Solutions, Inc.	A and B
+MAC	12502 -
+MAC B	J - L	Pennsylvania
+Novitas
+Solutions, Inc.	A and B
+MAC	12901 -
+MAC A	J - L	Delaware
+District of
+Columbia
+Maryland
+New Jersey
+Pennsylvania
+Code	Description
+81120	Idh1 common variants
+81121	Idh2 common variants
+81170	Abl1 gene
+81175	Asxl1 full gene sequence
+81176	Asxl1 gene target seq alys
+81206	Bcr/abl1 gene major bp
+81207	Bcr/abl1 gene minor bp
+81208	Bcr/abl1 gene other bp
+81210	Braf gene
+81218	Cebpa gene full sequence
+81219	Calr gene com variants
+81233	Btk gene common variants
+81235	Egfr gene com variants
+81236	Ezh2 gene full gene sequence
+Code	Description
+81237	Ezh2 gene common variants
+81245	Flt3 gene
+81246	Flt3 gene analysis
+81261	Igh gene rearrange amp meth
+81262	Igh gene rearrang dir probe
+81263	Igh vari regional mutation
+81270	Jak2 gene
+81272	Kit gene targeted seq analys
+81273	Kit gene analys d816 variant
+81275	Kras gene variants exon 2
+81276	Kras gene addl variants
+81287	Mgmt gene prmtr mthyltn alys
+81292	Mlh1 gene full seq
+81293	Mlh1 gene known variants
+81294	Mlh1 gene dup/delete variant
+81301	Microsatellite instability
+Code	Description
+81305	Myd88 gene p.leu265pro vrnt
+81310	Npm1 gene
+81311	Nras gene variants exon 2&3
+81313	Pca3/klk3 antigen
+81314	Pdgfra gene
+81315	Pml/raralpha com breakpoints
+81316	Pml/raralpha 1 breakpoint
+81320	Plcg2 gene common variants
+81321	Pten gene full sequence
+81322	Pten gene known fam variant
+81323	Pten gene dup/delet variant
+81327	Sept9 gen prmtr mthyltn alys
+81334	Runx1 gene targeted seq alys
+81340	Trb@ gene rearrange amplify
+81342	Trg gene rearrangement anal
+81345	Tert gene targeted seq alys
+Code	Description
+81347	Sf3b1 gene common variants
+81348	Srsf2 gene common variants
+81351	Tp53 gene full gene sequence
+81352	Tp53 gene trgt sequence alys
+81353	Tp53 gene known famil vrnt
+81357	U2af1 gene common variants
+81360	Zrsr2 gene common variants
+81435	Hered colon ca-rlatd do 5+
+81437	Hered neuroend tum-rlt do 5+
+81445	So neo gsap 5-50dna/dna&rna
+81450	Hl neo gsap 5-50dna/dna&rna
+81479	Unlisted molecular pathology
+81503	Onco (ovar) five proteins
+81520	Onc breast mrna 58 genes
+81525	Oncology colon mrna
+81538	Oncology lung
+Code	Description
+81540	Oncology tum unknown origin
+81546	Onc thyr mrna 10,196 gen alg
+0018U	Onc thyr 10 microrna seq alg
+0026U	Onc thyr dna&mrna 112 genes
+0245U	Onc thyr mut alys 10 gen&37
+Code	Description
+C17.0	Malignant neoplasm of duodenum
+C17.1	Malignant neoplasm of jejunum
+C17.2	Malignant neoplasm of ileum
+C17.3	Meckel's diverticulum, malignant
+C17.8	Malignant neoplasm of overlapping sites of small intestine
+C17.9	Malignant neoplasm of small intestine, unspecified
+C18.0	Malignant neoplasm of cecum
+C18.1	Malignant neoplasm of appendix
+C18.2	Malignant neoplasm of ascending colon
+C18.3	Malignant neoplasm of hepatic flexure
+C18.4	Malignant neoplasm of transverse colon
+Code	Description
+C18.5	Malignant neoplasm of splenic flexure
+C18.6	Malignant neoplasm of descending colon
+C18.7	Malignant neoplasm of sigmoid colon
+C18.8	Malignant neoplasm of overlapping sites of colon
+C18.9	Malignant neoplasm of colon, unspecified
+C19	Malignant neoplasm of rectosigmoid junction
+C20	Malignant neoplasm of rectum
+C21.0	Malignant neoplasm of anus, unspecified
+C21.1	Malignant neoplasm of anal canal
+C21.2	Malignant neoplasm of cloacogenic zone
+C21.8	Malignant neoplasm of overlapping sites of rectum, anus and anal
+canal
+Z85.030	Personal history of malignant carcinoid tumor of large intestine
+Z85.038	Personal history of other malignant neoplasm of large intestine
+Z85.040	Personal history of malignant carcinoid tumor of rectum
+Z85.048	Personal history of other malignant neoplasm of rectum,
+rectosigmoid junction, and anus
+Code	Description
+C33	Malignant neoplasm of trachea
+C34.00	Malignant neoplasm of unspecified main bronchus
+C34.01	Malignant neoplasm of right main bronchus
+C34.02	Malignant neoplasm of left main bronchus
+C34.10	Malignant neoplasm of upper lobe, unspecified bronchus or lung
+C34.11	Malignant neoplasm of upper lobe, right bronchus or lung
+C34.12	Malignant neoplasm of upper lobe, left bronchus or lung
+C34.2	Malignant neoplasm of middle lobe, bronchus or lung
+Code	Description
+C34.30	Malignant neoplasm of lower lobe, unspecified bronchus or lung
+C34.31	Malignant neoplasm of lower lobe, right bronchus or lung
+C34.32	Malignant neoplasm of lower lobe, left bronchus or lung
+C34.80	Malignant neoplasm of overlapping sites of unspecified bronchus
+and lung
+C34.81	Malignant neoplasm of overlapping sites of right bronchus and lung
+C34.82	Malignant neoplasm of overlapping sites of left bronchus and lung
+C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or
+lung
+C34.91	Malignant neoplasm of unspecified part of right bronchus or lung
+C34.92	Malignant neoplasm of unspecified part of left bronchus or lung
+C38.4	Malignant neoplasm of pleura
+C45.0	Mesothelioma of pleura
+Code	Description
+C43.0	Malignant melanoma of lip
+C43.10	Malignant melanoma of unspecified eyelid, including canthus
+C43.111	Malignant melanoma of right upper eyelid, including canthus
+C43.112	Malignant melanoma of right lower eyelid, including canthus
+C43.121	Malignant melanoma of left upper eyelid, including canthus
+C43.122	Malignant melanoma of left lower eyelid, including canthus
+C43.20	Malignant melanoma of unspecified ear and external auricular
+canal
+C43.21	Malignant melanoma of right ear and external auricular canal
+C43.22	Malignant melanoma of left ear and external auricular canal
+C43.30	Malignant melanoma of unspecified part of face
+C43.31	Malignant melanoma of nose
+C43.39	Malignant melanoma of other parts of face
+C43.4	Malignant melanoma of scalp and neck
+Code	Description
+C43.51	Malignant melanoma of anal skin
+C43.52	Malignant melanoma of skin of breast
+C43.59	Malignant melanoma of other part of trunk
+C43.60	Malignant melanoma of unspecified upper limb, including shoulder
+C43.61	Malignant melanoma of right upper limb, including shoulder
+C43.62	Malignant melanoma of left upper limb, including shoulder
+C43.70	Malignant melanoma of unspecified lower limb, including hip
+C43.71	Malignant melanoma of right lower limb, including hip
+C43.72	Malignant melanoma of left lower limb, including hip
+C43.8	Malignant melanoma of overlapping sites of skin
+C43.9	Malignant melanoma of skin, unspecified
+D03.0	Melanoma in situ of lip
+D03.10	Melanoma in situ of unspecified eyelid, including canthus
+D03.111	Melanoma in situ of right upper eyelid, including canthus
+D03.112	Melanoma in situ of right lower eyelid, including canthus
+D03.121	Melanoma in situ of left upper eyelid, including canthus
+Code	Description
+D03.122	Melanoma in situ of left lower eyelid, including canthus
+D03.20	Melanoma in situ of unspecified ear and external auricular canal
+D03.21	Melanoma in situ of right ear and external auricular canal
+D03.22	Melanoma in situ of left ear and external auricular canal
+D03.30	Melanoma in situ of unspecified part of face
+D03.39	Melanoma in situ of other parts of face
+D03.4	Melanoma in situ of scalp and neck
+D03.51	Melanoma in situ of anal skin
+D03.52	Melanoma in situ of breast (skin) (soft tissue)
+D03.59	Melanoma in situ of other part of trunk
+D03.60	Melanoma in situ of unspecified upper limb, including shoulder
+D03.61	Melanoma in situ of right upper limb, including shoulder
+D03.62	Melanoma in situ of left upper limb, including shoulder
+D03.70	Melanoma in situ of unspecified lower limb, including hip
+D03.71	Melanoma in situ of right lower limb, including hip
+D03.72	Melanoma in situ of left lower limb, including hip
+Code	Description
+D03.8	Melanoma in situ of other sites
+D03.9	Melanoma in situ, unspecified
+Code	Description
+C69.01	Malignant neoplasm of right conjunctiva
+C69.02	Malignant neoplasm of left conjunctiva
+C69.11	Malignant neoplasm of right cornea
+C69.12	Malignant neoplasm of left cornea
+C69.21	Malignant neoplasm of right retina
+C69.22	Malignant neoplasm of left retina
+C69.31	Malignant neoplasm of right choroid
+Code	Description
+C69.32	Malignant neoplasm of left choroid
+C69.41	Malignant neoplasm of right ciliary body
+C69.42	Malignant neoplasm of left ciliary body
+C69.51	Malignant neoplasm of right lacrimal gland and duct
+C69.52	Malignant neoplasm of left lacrimal gland and duct
+C69.61	Malignant neoplasm of right orbit
+C69.62	Malignant neoplasm of left orbit
+C69.81	Malignant neoplasm of overlapping sites of right eye and adnexa
+C69.82	Malignant neoplasm of overlapping sites of left eye and adnexa
+Code	Description
+C71.0	Malignant neoplasm of cerebrum, except lobes and ventricles
+C71.1	Malignant neoplasm of frontal lobe
+C71.2	Malignant neoplasm of temporal lobe
+C71.3	Malignant neoplasm of parietal lobe
+C71.4	Malignant neoplasm of occipital lobe
+C71.5	Malignant neoplasm of cerebral ventricle
+C71.6	Malignant neoplasm of cerebellum
+C71.7	Malignant neoplasm of brain stem
+C71.8	Malignant neoplasm of overlapping sites of brain
+C71.9	Malignant neoplasm of brain, unspecified
+Code	Description
+C73*	Malignant neoplasm of thyroid gland
+D34	Benign neoplasm of thyroid gland
+D44.0	Neoplasm of uncertain behavior of thyroid gland
+D44.2*	Neoplasm of uncertain behavior of parathyroid gland
+D44.9	Neoplasm of uncertain behavior of unspecified endocrine gland
+E01.0	Iodine-deficiency related diffuse (endemic) goiter
+E01.1	Iodine-deficiency related multinodular (endemic) goiter
+E01.2	Iodine-deficiency related (endemic) goiter, unspecified
+E04.0	Nontoxic diffuse goiter
+E04.1	Nontoxic single thyroid nodule
+E04.2	Nontoxic multinodular goiter
+Code	Description
+E04.8	Other specified nontoxic goiter
+E04.9	Nontoxic goiter, unspecified
+Code	Description
+C45.1	Mesothelioma of peritoneum
+C48.1	Malignant neoplasm of specified parts of peritoneum
+Code	Description
+C48.2	Malignant neoplasm of peritoneum, unspecified
+C48.8	Malignant neoplasm of overlapping sites of retroperitoneum and
+peritoneum
+C54.0	Malignant neoplasm of isthmus uteri
+C54.1	Malignant neoplasm of endometrium
+C54.2	Malignant neoplasm of myometrium
+C54.3	Malignant neoplasm of fundus uteri
+C54.8	Malignant neoplasm of overlapping sites of corpus uteri
+C54.9	Malignant neoplasm of corpus uteri, unspecified
+C55	Malignant neoplasm of uterus, part unspecified
+C56.1	Malignant neoplasm of right ovary
+C56.2	Malignant neoplasm of left ovary
+C56.3	Malignant neoplasm of bilateral ovaries
+C56.9	Malignant neoplasm of unspecified ovary
+C57.00	Malignant neoplasm of unspecified fallopian tube
+C57.01	Malignant neoplasm of right fallopian tube
+Code	Description
+C57.02	Malignant neoplasm of left fallopian tube
+C57.10	Malignant neoplasm of unspecified broad ligament
+C57.11	Malignant neoplasm of right broad ligament
+C57.12	Malignant neoplasm of left broad ligament
+C57.20	Malignant neoplasm of unspecified round ligament
+C57.21	Malignant neoplasm of right round ligament
+C57.22	Malignant neoplasm of left round ligament
+C57.3	Malignant neoplasm of parametrium
+C57.4	Malignant neoplasm of uterine adnexa, unspecified
+Code	Description
+Code	Description
+C65.1	Malignant neoplasm of right renal pelvis
+C65.2	Malignant neoplasm of left renal pelvis
+C65.9	Malignant neoplasm of unspecified renal pelvis
+C66.1	Malignant neoplasm of right ureter
+C66.2	Malignant neoplasm of left ureter
+C66.9	Malignant neoplasm of unspecified ureter
+C68.0	Malignant neoplasm of urethra
+C68.1	Malignant neoplasm of paraurethral glands
+C68.8	Malignant neoplasm of overlapping sites of urinary organs
+C68.9	Malignant neoplasm of urinary organ, unspecified
+Code	Description
+C61	Malignant neoplasm of prostate
+D29.1	Benign neoplasm of prostate
+D40.0	Neoplasm of uncertain behavior of prostate
+N40.0	Benign prostatic hyperplasia without lower urinary tract symptoms
+N40.1	Benign prostatic hyperplasia with lower urinary tract symptoms
+N40.2	Nodular prostate without lower urinary tract symptoms
+N40.3	Nodular prostate with lower urinary tract symptoms
+N42.31	Prostatic intraepithelial neoplasia
+N42.32	Atypical small acinar proliferation of prostate
+N42.39	Other dysplasia of prostate
+N42.83	Cyst of prostate
+R31.1	Benign essential microscopic hematuria
+R31.29	Other microscopic hematuria
+Code	Description
+C49.A0	Gastrointestinal stromal tumor, unspecified site
+C49.A1	Gastrointestinal stromal tumor of esophagus
+C49.A2	Gastrointestinal stromal tumor of stomach
+C49.A3	Gastrointestinal stromal tumor of small intestine
+C49.A4	Gastrointestinal stromal tumor of large intestine
+C49.A5	Gastrointestinal stromal tumor of rectum
+C49.A9	Gastrointestinal stromal tumor of other sites
+D48.19	Other specified neoplasm of uncertain behavior of connective and
+other soft tissue
+D48.2	Neoplasm of uncertain behavior of peripheral nerves and autonomic
+nervous system
+Code	Description
+C91.00	Acute lymphoblastic leukemia not having achieved remission
+C91.01	Acute lymphoblastic leukemia, in remission
+C91.02	Acute lymphoblastic leukemia, in relapse
+Code	Description
+C92.00	Acute myeloblastic leukemia, not having achieved remission
+C92.01	Acute myeloblastic leukemia, in remission
+C92.02	Acute myeloblastic leukemia, in relapse
+C92.40	Acute promyelocytic leukemia, not having achieved remission
+C92.41	Acute promyelocytic leukemia, in remission
+C92.42	Acute promyelocytic leukemia, in relapse
+C92.50	Acute myelomonocytic leukemia, not having achieved remission
+Code	Description
+C92.51	Acute myelomonocytic leukemia, in remission
+C92.52	Acute myelomonocytic leukemia, in relapse
+C92.60	Acute myeloid leukemia with 11q23-abnormality not having
+achieved remission
+C92.61	Acute myeloid leukemia with 11q23-abnormality in remission
+C92.62	Acute myeloid leukemia with 11q23-abnormality in relapse
+C92.A0	Acute myeloid leukemia with multilineage dysplasia, not having
+achieved remission
+C92.A1	Acute myeloid leukemia with multilineage dysplasia, in remission
+C92.A2	Acute myeloid leukemia with multilineage dysplasia, in relapse
+Code	Description
+Code	Description
+C91.40	Hairy cell leukemia not having achieved remission
+C91.41	Hairy cell leukemia, in remission
+C91.42	Hairy cell leukemia, in relapse
+Code	Description
+D60.0	Chronic acquired pure red cell aplasia
+D60.1	Transient acquired pure red cell aplasia
+D60.8	Other acquired pure red cell aplasias
+D60.9	Acquired pure red cell aplasia, unspecified
+D61.01	Constitutional (pure) red blood cell aplasia
+D61.03	Fanconi anemia
+Code	Description
+D61.09	Other constitutional aplastic anemia
+D61.1	Drug-induced aplastic anemia
+D61.2	Aplastic anemia due to other external agents
+D61.3	Idiopathic aplastic anemia
+D61.89	Other specified aplastic anemias and other bone marrow failure
+syndromes
+D61.9	Aplastic anemia, unspecified
+Code	Description
+C83.70	Burkitt lymphoma, unspecified site
+C83.71	Burkitt lymphoma, lymph nodes of head, face, and neck
+C83.72	Burkitt lymphoma, intrathoracic lymph nodes
+Code	Description
+C83.73	Burkitt lymphoma, intra-abdominal lymph nodes
+C83.74	Burkitt lymphoma, lymph nodes of axilla and upper limb
+C83.75	Burkitt lymphoma, lymph nodes of inguinal region and lower limb
+C83.76	Burkitt lymphoma, intrapelvic lymph nodes
+C83.77	Burkitt lymphoma, spleen
+C83.78	Burkitt lymphoma, lymph nodes of multiple sites
+C83.79	Burkitt lymphoma, extranodal and solid organ sites
+C83.7A	Burkitt lymphoma, in remission
+Code	Description
+D45	Polycythemia vera
+D47.1	Chronic myeloproliferative disease
+D47.3	Essential (hemorrhagic) thrombocythemia
+D75.81	Myelofibrosis
+Code	Description
+Code	Description
+C92.10	Chronic myeloid leukemia, BCR/ABL-positive, not having achieved
+remission
+C92.11	Chronic myeloid leukemia, BCR/ABL-positive, in remission
+C92.12	Chronic myeloid leukemia, BCR/ABL-positive, in relapse
+C93.10	Chronic myelomonocytic leukemia not having achieved remission
+C93.11	Chronic myelomonocytic leukemia, in remission
+C93.12	Chronic myelomonocytic leukemia, in relapse
+Code	Description
+Code	Description
+C91.10	Chronic lymphocytic leukemia of B-cell type not having achieved
+remission
+C91.11	Chronic lymphocytic leukemia of B-cell type in remission
+C91.12	Chronic lymphocytic leukemia of B-cell type in relapse
+Code	Description
+C91.Z0	Other lymphoid leukemia not having achieved remission
+C91.Z1	Other lymphoid leukemia, in remission
+C91.Z2	Other lymphoid leukemia, in relapse
+Code	Description
+D72.110	Idiopathic hypereosinophilic syndrome [IHES]
+D72.111	Lymphocytic Variant Hypereosinophilic Syndrome [LHES]
+D72.118	Other hypereosinophilic syndrome
+D72.119	Hypereosinophilic syndrome [HES], unspecified
+Code	Description
+C96.20	Malignant mast cell neoplasm, unspecified
+C96.22	Mast cell sarcoma
+Code	Description
+C96.29	Other malignant mast cell neoplasm
+Code	Description
+C91.60	Prolymphocytic leukemia of T-cell type not having achieved
+remission
+C91.61	Prolymphocytic leukemia of T-cell type, in remission
+C91.62	Prolymphocytic leukemia of T-cell type, in relapse
+C95.90	Leukemia, unspecified not having achieved remission
+C95.91	Leukemia, unspecified, in remission
+C95.92	Leukemia, unspecified, in relapse
+Code	Description
+D46.0	Refractory anemia without ring sideroblasts, so stated
+D46.1	Refractory anemia with ring sideroblasts
+D46.20	Refractory anemia with excess of blasts, unspecified
+D46.21	Refractory anemia with excess of blasts 1
+D46.22	Refractory anemia with excess of blasts 2
+D46.A	Refractory cytopenia with multilineage dysplasia
+Code	Description
+D46.B	Refractory cytopenia with multilineage dysplasia and ring
+sideroblasts
+D46.C	Myelodysplastic syndrome with isolated del(5q) chromosomal
+abnormality
+D46.4	Refractory anemia, unspecified
+D46.Z	Other myelodysplastic syndromes
+D46.9	Myelodysplastic syndrome, unspecified
+Code	Description
+C90.00*	Multiple myeloma not having achieved remission
+C90.02*	Multiple myeloma in relapse
+Code	Description
+C50.011	Malignant neoplasm of nipple and areola, right female breast
+C50.012	Malignant neoplasm of nipple and areola, left female breast
+C50.111	Malignant neoplasm of central portion of right female breast
+C50.112	Malignant neoplasm of central portion of left female breast
+C50.211	Malignant neoplasm of upper-inner quadrant of right female breast
+C50.212	Malignant neoplasm of upper-inner quadrant of left female breast
+C50.311	Malignant neoplasm of lower-inner quadrant of right female breast
+C50.312	Malignant neoplasm of lower-inner quadrant of left female breast
+C50.411	Malignant neoplasm of upper-outer quadrant of right female
+breast
+C50.412	Malignant neoplasm of upper-outer quadrant of left female breast
+C50.511	Malignant neoplasm of lower-outer quadrant of right female breast
+Code	Description
+C50.512	Malignant neoplasm of lower-outer quadrant of left female breast
+C50.611	Malignant neoplasm of axillary tail of right female breast
+C50.612	Malignant neoplasm of axillary tail of left female breast
+C50.811	Malignant neoplasm of overlapping sites of right female breast
+C50.812	Malignant neoplasm of overlapping sites of left female breast
+C50.911	Malignant neoplasm of unspecified site of right female breast
+C50.912	Malignant neoplasm of unspecified site of left female breast
+Code	Description
+C7A.010	Malignant carcinoid tumor of the duodenum
+C7A.011	Malignant carcinoid tumor of the jejunum
+C7A.012	Malignant carcinoid tumor of the ileum
+C7A.019	Malignant carcinoid tumor of the small intestine, unspecified
+portion
+C7A.020	Malignant carcinoid tumor of the appendix
+C7A.021	Malignant carcinoid tumor of the cecum
+C7A.022	Malignant carcinoid tumor of the ascending colon
+C7A.023	Malignant carcinoid tumor of the transverse colon
+C7A.024	Malignant carcinoid tumor of the descending colon
+C7A.025	Malignant carcinoid tumor of the sigmoid colon
+C7A.026	Malignant carcinoid tumor of the rectum
+C7A.029	Malignant carcinoid tumor of the large intestine, unspecified
+portion
+C7A.090	Malignant carcinoid tumor of the bronchus and lung
+C7A.091	Malignant carcinoid tumor of the thymus
+Code	Description
+C7A.092	Malignant carcinoid tumor of the stomach
+C7A.093	Malignant carcinoid tumor of the kidney
+C7A.094	Malignant carcinoid tumor of the foregut, unspecified
+C7A.095	Malignant carcinoid tumor of the midgut, unspecified
+C7A.096	Malignant carcinoid tumor of the hindgut, unspecified
+C7A.098	Malignant carcinoid tumors of other sites
+C7A.1	Malignant poorly differentiated neuroendocrine tumors
+C7A.8	Other malignant neuroendocrine tumors
+C7B.01	Secondary carcinoid tumors of distant lymph nodes
+C7B.02	Secondary carcinoid tumors of liver
+C7B.03	Secondary carcinoid tumors of bone
+C7B.04	Secondary carcinoid tumors of peritoneum
+C7B.09	Secondary carcinoid tumors of other sites
+C7B.1	Secondary Merkel cell carcinoma
+C7B.8	Other secondary neuroendocrine tumors
+D3A.010	Benign carcinoid tumor of the duodenum
+Code	Description
+D3A.011	Benign carcinoid tumor of the jejunum
+D3A.012	Benign carcinoid tumor of the ileum
+D3A.019	Benign carcinoid tumor of the small intestine, unspecified portion
+D3A.020	Benign carcinoid tumor of the appendix
+D3A.021	Benign carcinoid tumor of the cecum
+D3A.022	Benign carcinoid tumor of the ascending colon
+D3A.023	Benign carcinoid tumor of the transverse colon
+D3A.024	Benign carcinoid tumor of the descending colon
+D3A.025	Benign carcinoid tumor of the sigmoid colon
+D3A.026	Benign carcinoid tumor of the rectum
+D3A.029	Benign carcinoid tumor of the large intestine, unspecified portion
+D3A.090	Benign carcinoid tumor of the bronchus and lung
+D3A.091	Benign carcinoid tumor of the thymus
+D3A.092	Benign carcinoid tumor of the stomach
+D3A.093	Benign carcinoid tumor of the kidney
+D3A.094	Benign carcinoid tumor of the foregut, unspecified
+Code	Description
+D3A.095	Benign carcinoid tumor of the midgut, unspecified
+D3A.096	Benign carcinoid tumor of the hindgut, unspecified
+D3A.098	Benign carcinoid tumors of other sites
+D3A.8	Other benign neuroendocrine tumors
+Code	Description
+C18.1	Malignant neoplasm of appendix
+C18.9	Malignant neoplasm of colon, unspecified
+C22.0	Liver cell carcinoma
+C22.2	Hepatoblastoma
+C22.3	Angiosarcoma of liver
+C22.4	Other sarcomas of liver
+Code	Description
+C22.7	Other specified carcinomas of liver
+C22.8	Malignant neoplasm of liver, primary, unspecified as to type
+C22.9	Malignant neoplasm of liver, not specified as primary or secondary
+C25.2	Malignant neoplasm of tail of pancreas
+C25.7	Malignant neoplasm of other parts of pancreas
+C25.8	Malignant neoplasm of overlapping sites of pancreas
+C25.9	Malignant neoplasm of pancreas, unspecified
+C33	Malignant neoplasm of trachea
+C34.01	Malignant neoplasm of right main bronchus
+C34.02	Malignant neoplasm of left main bronchus
+C34.11	Malignant neoplasm of upper lobe, right bronchus or lung
+C34.12	Malignant neoplasm of upper lobe, left bronchus or lung
+C34.2	Malignant neoplasm of middle lobe, bronchus or lung
+C34.32	Malignant neoplasm of lower lobe, left bronchus or lung
+C34.81	Malignant neoplasm of overlapping sites of right bronchus and
+lung
+Code	Description
+C34.82	Malignant neoplasm of overlapping sites of left bronchus and lung
+C34.91	Malignant neoplasm of unspecified part of right bronchus or lung
+C34.92	Malignant neoplasm of unspecified part of left bronchus or lung
+C43.51	Malignant melanoma of anal skin
+C43.52	Malignant melanoma of skin of breast
+C43.59	Malignant melanoma of other part of trunk
+C45.9	Mesothelioma, unspecified
+C47.0	Malignant neoplasm of peripheral nerves of head, face and neck
+C47.9	Malignant neoplasm of peripheral nerves and autonomic nervous
+system, unspecified
+C48.0	Malignant neoplasm of retroperitoneum
+C49.0	Malignant neoplasm of connective and soft tissue of head, face
+and neck
+C49.9	Malignant neoplasm of connective and soft tissue, unspecified
+C50.411	Malignant neoplasm of upper-outer quadrant of right female
+breast
+C50.412	Malignant neoplasm of upper-outer quadrant of left female breast
+	Code	Description	
+	C50.511	Malignant neoplasm of lower-outer quadrant of right female breast	
+	C50.512	Malignant neoplasm of lower-outer quadrant of left female breast	
+	C50.811	Malignant neoplasm of overlapping sites of right female breast	
+	C50.812	Malignant neoplasm of overlapping sites of left female breast	
+	C50.911	Malignant neoplasm of unspecified site of right female breast	
+	C50.912	Malignant neoplasm of unspecified site of left female breast	
+	C56.1	Malignant neoplasm of right ovary	
+	C56.2	Malignant neoplasm of left ovary	
+	C56.3	Malignant neoplasm of bilateral ovaries	
+	C61	Malignant neoplasm of prostate	
+	C64.1	Malignant neoplasm of right kidney, except renal pelvis	
+	C64.2	Malignant neoplasm of left kidney, except renal pelvis	
+	C67.5	Malignant neoplasm of bladder neck	
+	C67.9	Malignant neoplasm of bladder, unspecified	
+	C76.0	Malignant neoplasm of head, face and neck	
+	C77.0	Secondary and unspecified malignant neoplasm of lymph nodes of	
+			
+			
+	Code	Description	
+		head, face and neck	
+	C77.1	Secondary and unspecified malignant neoplasm of intrathoracic
+lymph nodes	
+	C77.2	Secondary and unspecified malignant neoplasm of intra-
+abdominal lymph nodes	
+	C77.3	Secondary and unspecified malignant neoplasm of axilla and
+upper limb lymph nodes	
+	C77.4	Secondary and unspecified malignant neoplasm of inguinal and
+lower limb lymph nodes	
+	C77.5	Secondary and unspecified malignant neoplasm of intrapelvic
+lymph nodes	
+	C77.8	Secondary and unspecified malignant neoplasm of lymph nodes of
+multiple regions	
+	C77.9	Secondary and unspecified malignant neoplasm of lymph node,
+unspecified	
+	C78.01	Secondary malignant neoplasm of right lung	
+	C78.02	Secondary malignant neoplasm of left lung	
+	C78.5	Secondary malignant neoplasm of large intestine and rectum	
+	C78.6	Secondary malignant neoplasm of retroperitoneum and
+peritoneum	
+	C78.7	Secondary malignant neoplasm of liver and intrahepatic bile duct	
+Code	Description
+C79.01	Secondary malignant neoplasm of right kidney and renal pelvis
+C79.02	Secondary malignant neoplasm of left kidney and renal pelvis
+C79.2	Secondary malignant neoplasm of skin
+C79.31	Secondary malignant neoplasm of brain
+C79.49	Secondary malignant neoplasm of other parts of nervous system
+C79.51	Secondary malignant neoplasm of bone
+C79.52	Secondary malignant neoplasm of bone marrow
+C79.61	Secondary malignant neoplasm of right ovary
+C79.62	Secondary malignant neoplasm of left ovary
+C79.63	Secondary malignant neoplasm of bilateral ovaries
+C79.89	Secondary malignant neoplasm of other specified sites
+C80.0	Disseminated malignant neoplasm, unspecified
+C80.1	Malignant (primary) neoplasm, unspecified
+C82.57	Diffuse follicle center lymphoma, spleen
+C84.A7	Cutaneous T-cell lymphoma, unspecified, spleen
+C84.Z7	Other mature T/NK-cell lymphomas, spleen
+Code	Description
+C84.97	Mature T/NK-cell lymphomas, unspecified, spleen
+C85.17	Unspecified B-cell lymphoma, spleen
+C85.27	Mediastinal (thymic) large B-cell lymphoma, spleen
+C85.87	Other specified types of non-Hodgkin lymphoma, spleen
+C85.97	Non-Hodgkin lymphoma, unspecified, spleen
+C86.10	Hepatosplenic T-cell lymphoma not having achieved remission
+D01.5	Carcinoma in situ of liver, gallbladder and bile ducts
+D01.7	Carcinoma in situ of other specified digestive organs
+D01.9	Carcinoma in situ of digestive organ, unspecified
+D02.21	Carcinoma in situ of right bronchus and lung
+D02.22	Carcinoma in situ of left bronchus and lung
+D03.51	Melanoma in situ of anal skin
+D03.52	Melanoma in situ of breast (skin) (soft tissue)
+D03.59	Melanoma in situ of other part of trunk
+D49.0	Neoplasm of unspecified behavior of digestive system
+D49.1	Neoplasm of unspecified behavior of respiratory system
+Code	Description
+D49.2	Neoplasm of unspecified behavior of bone, soft tissue, and skin
+D49.3	Neoplasm of unspecified behavior of breast
+D49.4	Neoplasm of unspecified behavior of bladder
+D49.511	Neoplasm of unspecified behavior of right kidney
+D49.512	Neoplasm of unspecified behavior of left kidney
+D49.59	Neoplasm of unspecified behavior of other genitourinary organ
+D49.6	Neoplasm of unspecified behavior of brain
+D49.7	Neoplasm of unspecified behavior of endocrine glands and other
+parts of nervous system
+D49.89	Neoplasm of unspecified behavior of other specified sites
+D49.9	Neoplasm of unspecified behavior of unspecified site
+J91.0	Malignant pleural effusion
+Code	Description
+C67.0	Malignant neoplasm of trigone of bladder
+C67.1	Malignant neoplasm of dome of bladder
+C67.2	Malignant neoplasm of lateral wall of bladder
+C67.3	Malignant neoplasm of anterior wall of bladder
+C67.4	Malignant neoplasm of posterior wall of bladder
+C67.5	Malignant neoplasm of bladder neck
+C67.6	Malignant neoplasm of ureteric orifice
+C67.7	Malignant neoplasm of urachus
+C67.8	Malignant neoplasm of overlapping sites of bladder
+C67.9	Malignant neoplasm of bladder, unspecified
+Code	Description
+C88.00	Waldenstrom macroglobulinemia not having achieved remission
+Code	Description
+XX000	Not Applicable
+Code	Description
+999x	Not Applicable
+Code	Description
+99999	Not Applicable
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+	04/24/2025	R48	Article revised and published on 05/01/2025.
+References to CPT code 81438 have been changed to
+81479.	
+	04/24/2025	R47	Article revised and published on 04/24/2025 effective
+for dates of service on and after 04/24/2025. In
+response to the Genetic Testing in Oncology: Specific
+Tests Billing and Coding article (A59125) becoming
+effective CPT code 0287U for ThyroSeq CRC has been
+removed from this article. Additionally, the information
+specific to UroVysion along with CPT codes 88120 and
+88121 have been removed from the article. Finally, the
+information regarding Colvera along with CPT code
+0229U has been removed from the article. Please refer
+to A59125 for billing and coding information related to
+the services removed from this article.	
+	01/01/2025	R46	Article revised and published on 01/30/2025 effective
+for dates of service on and after 01/01/2025 to reflect
+the annual CPT/HCPCS Code Updates. The following
+Group 1 codes have descriptor revisions: 81435 and
+81437. The following codes have been deleted and
+therefore remove from the article: 81436 and 81438.
+Coding guidance has been added to the Article
+Guidance section.	
+	10/01/2024	R45	Article revised and published on 10/24/2024 effective
+for dates of service on and after 10/01/2024 to reflect
+the Annual ICD-10-CM Code Updates. The following
+code has been deleted and therefore removed from	
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+		Group 27 Codes: C86.1. The following code has been
+deleted and therefore removed from Group 29 Codes:
+C88.0. The following codes have been added: D61.03
+to Group 14 Codes, C83.7A to Group 15 Codes, C86.10
+to Group 27 Codes, and C88.00 to Group 29 Codes.
+02/29/2024	R44	Article revised and published on 02/29/2024 to correct
+the Note in the CPT/HCPCS Codes Group 1 Paragraph.
+This paragraph was inadvertently changed with the
+10/26/2023 revision. The diagnosis limitations outlined
+in the various ICD-10-CM Codes that Support Medical
+Necessity groups continue to apply.
+01/01/2024	R43	Article revised and published on 01/25/2024 effective
+for dates of service on and after 01/01/2024 to reflect
+the Annual HCPCS/CPT Code Updates. For the
+following CPT codes either the short description and/or
+the long description was changed. Depending on which
+description is used in this article, there may not be any
+change in how the code displays: 81445 and 81450 in
+Group 1 CPT/HCPCS Codes.
+10/01/2023	R42	Article revised and published on 10/26/2023 effective
+for dates of service on and after 10/01/2023 to reflect
+the Annual ICD-10-CM Code Updates. The following
+ICD-10-CM code has been deleted and therefore has
+been removed from the article: D48.1 in Group 10
+Codes. The following ICD-10-CM code has been added
+to the article: D48.19 in Group 10 Codes. Minor
+formatting changes have been made throughout the
+article.
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+08/07/2023	R41	Article revised and published on 09/07/2023 effective
+for dates of service on and after 08/07/2023 to remove
+the link and to revise the verbiage referring to NCD
+90.2 located in the ICD-10-CM Codes that Support
+Medical Necessity Group 1 Paragraph. The link for
+NCD 90.2 has been added to the Associated
+Documents section at the bottom of this article under
+Related National Coverage Documents.
+08/07/2023	R40	Article revised and published on 08/31/2023 effective
+for dates of service on and after 08/07/2023 with the
+updated link to NCD 90.2 Transmittal TN 12017 in
+response to CMS Change Request (CR) 13166. This
+updated link is located in the ICD-10-CM Codes that
+Support Medical Necessity Group 1 Paragraph.
+01/01/2023	R39	Article revised and published on 01/26/2023 effective
+for dates of service on and after 01/01/2023 to reflect
+the Annual HCPCS/CPT Code Updates. For the
+following CPT codes either the short description and/or
+the long description was changed. Depending on which
+description is used in this article, there may not be any
+change in how the code displays: 81445 and 81450. In
+response to an inquiry the Group 6 Medical Necessity
+ICD-10-CM Codes Asterisk Explanation note has been
+revised effective for dates of service on or after
+05/15/2018 to reflect that C73 should not be reported
+for ThyraMIR, Afirma, Rosetta GX Reveal, or
+ThyGeNEXT and that D44.2 should not be reported for
+ThyraMIR, Afirma, Rosetta GX Reveal, ThyGeNEXT or
+ThyroSeq.
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+	10/01/2022	R38	Article revised and published on 10/06/2022 effective
+for dates of service on and after 10/01/2022 to reflect
+the Quarter 4 Quarterly CPT/HCPCS Code Updates.
+CPT code 0229U underwent either a short description
+and/or long description change. Depending on which
+description was changed there may not be any change
+in how the code displays.	
+	07/01/2022	R37	Article revised and published on 08/04/2022 effective
+for dates of service on and after 07/01/2022 to reflect
+the July Quarterly CPT/HCPCS Code Update. For the
+following CPT code either the short description and/or
+the long description was changed. Depending on which
+description is used in this article, there may not be any
+change in how the code displays: 0229U in the ‘CPT/
+HCPCS Codes’ section for ‘Group 1 Codes’.	
+	01/30/2022	R36	Article revised and published on 01/27/2022 effective
+for dates of service on and after 01/30/2022. Tier 2
+codes 81400 thru 81405 have been removed from the
+CPT code ‘Group1’. Additionally, billing & coding
+instructions specific for the Tier 2 codes have been
+removed from the article along with formatting
+changes throughout the article.	
+	01/01/2022	R35	Article revised and published on 01/20/2022 effective
+for dates of service on and after 01/01/2022 to reflect
+the Annual HCPCS/CPT Code Updates. CPT code
+0287U has been added to the following sections:
+Under ‘Coding Guidance’ in the ‘Test Panel Definition’
+section for ThyroSeq Tests; In the ‘Selected Oncology
+Tests’ section under Bullet #7 in the directions ‘To	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			report ThyroSeq Thyroid tests’; In the ‘CPT/HCPCS
+Codes’ section for ‘Group 1 Codes’ and; In the ‘ICD-10-
+CM Codes that Support Medical Necessity’ section for
+‘Group 6 Paragraph’ for ThyroSeq. For the following
+CPT code either the short description and/or the long
+description was changed. Depending on which
+description is used in this article, there may not be any
+change in how the code displays: 81405.	
+	12/12/2021	R34	Article revised and published on 12/9/2021 effective for
+dates of service on and after 12/12/2021 to remove the
+following Group 1 CPT codes: 81350, 81406, 81407
+and 81408. These codes have been removed due to the
+new Pharmacogenomics article becoming effective.	
+	10/01/2021	R33	Article revised and published on 10/14/2021 effective
+for dates of service on and after 10/01/2021 to reflect
+the Annual ICD-10-CM Code updates.
+The following ICD-10-CM code has been added to the
+Group 7 ICD-10-CM codes that support medical
+necessity: C56.3.
+The following ICD-10-CM codes have been added to
+the Group 27 ICD-10-CM codes that support medical
+necessity: C56.3 and C79.63.	
+	09/30/2021	R32	Article revised and published on 09/30/2021 effective
+for dates of service on and after 1/1/2021 in response
+to an inquiry. The ‘Selected Oncology Tests’ section has
+been revised to add bullet #15 for the Colvera® test
+(BCAT1/IKZF1 promoter hypermethylation), the ‘CPT/
+HCPCS Codes’ section has been revised for the ‘Group	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			1 Codes’ to add CPT code 0229U, the ‘ICD-10-CM
+Codes that Support Medical Necessity’ section has
+been revised for the ‘Group 1 Paragraph’ to add
+BCAT1/IKZF1 promoter methylation 0229U, and the
+following ICD-10-CM codes have been added to the
+Group 1 Codes: Z85.030, Z85.038, Z85.040 and
+Z85.048.	
+	04/01/2021	R31	Article revised and published on 04/22/2021 effective
+for dates of service on and after 04/01/2021 in
+response to the April 1, 2021 CPT code updates. The
+following CPT code has been added to the Article:
+0245U under group 1 and ICD10 group 6.
+The following CPT code has been deleted and therefore
+has been removed from the text of the article, from
+CPT/HCPCS Code Group 1 and from ICD-10 Code
+Group 6 Paragraph: 81455.	
+	01/01/2021	R30	Article revised and published on 02/11/2021 effective
+for dates of service on 01/01/2021 to add codes 81347,
+81348, 81351, 81352, 81353, 81357, 81360 and
+81546 to the list of group 1 CPT/HCPCS codes. 81347
+has been added to group 18 paragraph to report
+SF3B1, 81348 has been added to group 12 paragraph
+to report SRSF2, 81351, 81352 and 81353 have been
+added to group paragraphs 12 & 16 to report TP53,
+81357 has been added to group 12 paragraph to
+report U2AF1, 81360 has been added to group 12
+paragraph to report ZRSR2, 81546 has been added to
+group 6 paragraph to report oncology thyroid mRNA
+and replaces the deleted code 81545. CPT code 81545
+has been deleted and replaced with code 81546 in the	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			group 1 codes, group 6 paragraph, Test Panel
+Definition and Selected Oncology Tests sections. The
+following codes have descriptor revisions: 81206,
+81207, 81436.	
+	12/13/2020	R29	Article revised and published on 11/05/2020 effective
+for dates of service on and after 12/13/2020 to add Tgt
+gen seq dna&ma 23 gene to the Article Text under
+Oncomine DX Test and to add FLT3D835 81245 to
+Group 12 Paragraph.	
+	12/13/2020	R28	Article revised in response to DL35396 and published
+on 10/29/2020 effective for dates of service on and
+after 12/13/2020 to add the following leukemia
+biomarkers and corresponding Current Procedural
+Terminology (CPT) codes: Group 11 – JAK1, NOTCH1,
+FBXW7 (81479), NRAS (81311); Group 12 – U2AF1,
+SRSF2, ZRSR2 (81479); Group 16 – KIT (81272,
+81273); Group 18 – BIRC3, SF3B1 (81479), BTK
+(81233), PLCG2 (81320); Group 19 – STAT5B (81479);
+Group 22 – JAK1, JAK3 (81479). Added a group
+paragraph and group ICD-10 codes for T-cell Large
+Granular Lymphocytic Leukemia biomarkers STAT5B
+(81479), renumbered the group paragraphs and group
+codes. Procedure codes 81445, 81450 and 81455 have
+been removed from all group paragraphs as they will
+not have procedure to diagnosis editing. The following
+note has been removed from the Group 1 Paragraph as
+these codes do not have procedure to diagnosis
+editing: "Please note that because the following CPT
+codes represent multiple biomarkers these codes will
+not have procedure to diagnosis code limitations at this
+time: 81246, 81350, 81400, 81401, 81402, 81403,	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			81404, 81405, 81406, 81407, 81408, 81435, 81436,
+81450. and 81503." Also effective 10/01/2020, for
+dates of service on and after 10/01/2020, to reflect the
+annual ICD-10-CM Code Updates, the following
+ICD-10-CM code has been deleted and therefore
+removed from the Article Code Group 20: D72.1. The
+following ICD-10-CM code(s) have been added to the
+Article Code Group 20: D72.110, D72.111, D72.118,
+and D72.119. Minor formatting revisions made
+throughout the article.	
+	10/01/2020	R27	Article revised and published on 10/01/2020 effective
+for dates of service on and after 10/01/2020 to reflect
+the Annual ICD-10-CM Code Updates. The following
+ICD-10-CM code(s) have been added to the Article
+Code Group 19: D72.110, D72.111, D72.118, and
+D72.119. The following ICD-10-CM code has been
+deleted and therefore has been removed from the
+Article Code Group 19: D72.1. The notes in ICD-10
+Code Groups 6 and 23 were moved to the bottom of
+the table in the asterisk explanation paragraph and
+asterisks were added to the ICD-10 codes in the
+groups as applicable.	
+	07/01/2020	R26	Article revised and published on 06/25/2020 effective
+for dates of service on and after 07/01/2020, as a non-
+discretionary update to remove the Group 2 paragraph
+and CPT codes. Minor formatting changes were made.	
+	01/01/2020	R25	Article revised and published on 01/16/2020 effective
+for dates of service on and after 01/01/2020 to reflect
+the annual CPT/HCPCS code updates. The following	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			CPT code(s) either have a short description or long
+description change. Depending on which description is
+used in this article, there may not be any change in
+how the code displays in the document: 81350, 81404,
+81406 and 81407. Minor formatting changes and
+spelling errors have been corrected throughout the
+article.	
+	07/10/2019	R24	Article revised and published on 09/12/2019 effective
+for dates of service on and after 07/10/2019. The CPT
+code for ThyraMIR has been changed from 81479 to
+0018U in the Test Panel Definitions, Intended use of
+ThyraMIR sections, added to the Group 1 codes, and
+the Group 6 paragraph. Due to system changes in
+response to CMS Change Request 10901, this article
+has undergone some reorganization in the coding
+section and the following new fields have been added:
+CPT/HCPCS Modifier, Additional ICD-10 Information,
+and Other Coding Information. There has been no
+change to the LCD coverage as a result of this revision.	
+	06/13/2019	R23	Article revised and published on 09/12/2019 effective
+for dates of service on and after 07/10/2019. The CPT
+code for ThyraMIR has been changed from 81479 to
+0018U in the Test Panel Definitions, Intended use of
+ThyraMIR sections, added to the Group 1 codes, and
+the Group 6 paragraph. There has been no change to
+the LCD coverage as a result of this revision.	
+	06/13/2019	R22	Article revised and published on 06/13/2019 effective
+for dates of service on and after 03/27/2019 the
+following CPT code has been removed from the CPT/	
+				
+Revision Revision
+History History
+Date Number Revision History Explanation
+HCPCS Code Group 2 and added to CPT/HCPCS Code
+Group 1 in response to an inquiry; it will have no
+diagnosis to procedure code restrictions at this time:
+81450. This change is a clarification to ensure proper
+billing. The CPT and ICD-10 codes from related LCD,
+L35396-Biomarkers for Oncology, have been added in
+response to CMS Change Request 10901. The coding
+guidance section has been updated accordingly. There
+has been no change to the LCD coverage indications as
+a result of this revision.
+04/04/2019 R21 Article revised and published on 04/04/2019 effective
+for dates of service on and after 03/16/2018 to remove
+CPT code 0022U from CPT/HCPCS Code Group 1 due
+to implementation of NCD 90.2. Statement and link
+added to ICD-10 Group 1 Paragraph stating ICD-10-
+CM diagnosis codes for CPT code 0022U may be found
+in NCD 90.2, Next Generation Sequencing (NGS) for
+Patients with Advanced Cancer. NCD 90.2 listed as a
+Related National Coverage Document.
+01/01/2019 R20 Article revised and published on 02/14/2019 effective
+for dates of service on and after 01/01/2019 to reflect
+the annual CPT/HCPCS code updates. The following
+CPT/HCPCS code(s) have been added to Group 1
+Codes: 81233, 81236, 81237, 81305, 81320, and
+81345. For the following CPT/HCPCS codes either the
+short description and/or the long description was
+changed. Depending on which description is used in
+this article, there may not be any change in how the
+code displays in the document: 81287, 81327, 81400,
+81401, 81403, 81404, 81405, and 81407.	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			HCPCS Code Group 2 and added to CPT/HCPCS Code
+Group 1 in response to an inquiry; it will have no
+diagnosis to procedure code restrictions at this time:
+81450. This change is a clarification to ensure proper
+billing. The CPT and ICD-10 codes from related LCD,
+L35396-Biomarkers for Oncology, have been added in
+response to CMS Change Request 10901. The coding
+guidance section has been updated accordingly. There
+has been no change to the LCD coverage indications as
+a result of this revision.	
+	04/04/2019	R21	Article revised and published on 04/04/2019 effective
+for dates of service on and after 03/16/2018 to remove
+CPT code 0022U from CPT/HCPCS Code Group 1 due
+to implementation of NCD 90.2. Statement and link
+added to ICD-10 Group 1 Paragraph stating ICD-10-
+CM diagnosis codes for CPT code 0022U may be found
+in NCD 90.2, Next Generation Sequencing (NGS) for
+Patients with Advanced Cancer. NCD 90.2 listed as a
+Related National Coverage Document.	
+	01/01/2019	R20	Article revised and published on 02/14/2019 effective
+for dates of service on and after 01/01/2019 to reflect
+the annual CPT/HCPCS code updates. The following
+CPT/HCPCS code(s) have been added to Group 1
+Codes: 81233, 81236, 81237, 81305, 81320, and
+81345. For the following CPT/HCPCS codes either the
+short description and/or the long description was
+changed. Depending on which description is used in
+this article, there may not be any change in how the
+code displays in the document: 81287, 81327, 81400,
+81401, 81403, 81404, 81405, and 81407.	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+	10/25/2018	R19	Article revised and published on 10/25/2018 effective
+for dates of service on and after 05/18/2018 to add
+billing and coding guidance for ColonSeq® and
+LungSeq®.	
+	10/04/2018	R18	Article revised and published on 10/04/2018 effective
+for dates of service on and after 05/15/2018 to add
+CPT code 0026U to CPT Group 1 Codes and billing and
+coding guidance for ThyroSeq thyroid test. Effective for
+dates of service on and after 05/18/2018, CPT code
+0022U has been added to CPT Group 1 Codes and
+billing and coding guidance for Oncomine DX has been
+updated to change the CPT code from 81445 to
+0022U.	
+	07/26/2018	R17	Article revised and published on 07/26/2018 effective
+for dates of service on and after 04/09/2018 to add
+billing and coding guidance for ThyGenX and
+RosettaGX Reveal Thyroid tests. Clarification added to
+coding guidance for Afirma and ThyraMIR. Updated
+the example for billing certain tests and corrected a
+typographical error in the CPT code for Oncomine Dx.	
+	03/08/2018	R16	Article revised and published on 03/08/2018 effective
+for dates of service on and after 12/22/2017 to add
+billing and coding guidance for Oncomine DX target
+test and to add CPT code 81445 to list of CPT/HCPCS
+Group 1 Codes. Link to L36715-BRCA1 and BRCA2
+Genetic Testing and L35062-Biomarkers Overview
+added to the Related Local Coverage Documents
+section. For provider education/guidance per Annual
+Review, removed Bill Types 18x and 21x as those Bill	
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+			Types are not for inpatient services claims.	
+	01/01/2018	R15	Article revised and published on 01/25/2018 effective
+for dates of service on and after 01/01/2018 to reflect
+the annual CPT/HCPCS code updates. For the following
+CPT/HCPCS codes either the short description and/or
+the long description was changed: 81400, 81401,
+81403, 81404, 81405, 81406. Depending on which
+description is used in this article there may not be any
+change in how the code displays in the document. The
+following CPT/HCPCS codes have been added to CPT/
+HCPCS Code Group 1: 81120, 81121, 81175, 81176,
+81334, 81520. The following CPT/HCPCS code has
+been deleted from CPT/HCPCS Code Group 1: 0008M.	
+	11/09/2017	R14	Article revised and published on 11/09/2017 effective
+for dates of service on and after 08/01/2017 to add the
+following new CPT/HCPCS codes for Proprietary
+Laboratory Analyses (PLA) to Group 2 CPT/HCPCS
+Codes as non-covered: 0009U, 0013U, 0014U, 0016U,
+and 0017U. Article revised with effective dates of
+service on and after 10/02/2017 to reflect the 4Q17
+CPT/HCPCS code updates. For the following CPT/
+HCPCS code(s) either the short description and/or the
+long description was changed: 81405 and 0002U.
+Depending on which description is used in this article,
+there may not be any change in how the code displays
+in the document.	
+	08/10/2017	R13	Article revised and published on 08/10/2017 effective
+for dates of service on and after 05/01/2017 to add the
+following CPT code as non-covered to Group 2 Codes:	
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+		0005U.
+06/08/2017	R12	Article revised and published on 06/08/2017 to add
+coding guidance for billing multiple biomarkers
+performed on one specimen.
+02/01/2017	R11	Article revised and published on 05/11/2017 effective
+for dates of service on and after 02/01/2017 to add the
+following CPT codes as non-covered to Group 2 Codes:
+0002U and 0003U.
+01/01/2017	R10	Article revised and published on 01/12/2017 effective
+for dates of service on and after 01/01/2017 to reflect
+the annual CPT/HCPCS code updates. The following
+CPT/HCPCS code 81327 has been added to group 1
+CPT code group of the Article.
+12/01/2016	R9	Article revised and published on 12/01/2016 effective
+for dates of service on and after 12/01/2016 to add the
+following CPT/HCPCS codes to Group 1: 0008M,
+81219, 81262, 81316, 81437, 81438, 81525, 81540,
+and 81545; and to remove the following CPT codes
+from Group 2: 81445, 81455, and 81595. Article
+revised and published on 12/01/2016 effective for
+dates of service on and after 01/01/2017 to reflect the
+annual CPT/HCPCS code updates. For the following
+CPT/HCPCS code(s) either the short description and/or
+the long description was changed. Depending on which
+description is used in this article, there may not be any
+change in how the code displays in the document:
+81402 and 81407.
+	Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation	
+	09/26/2016	R8	Article revised and published on 10/13/2016 effective
+for dates of service on and after 09/26/2016 to remove
+the following three requirements from OVA1 testing:
+have not yet been referred to a gynecologic oncologist;
+have not had cancer in the past five years; and have a
+rheumatoid factor concentration <250 IU/mL.	
+	03/09/2016	R7	Article revised and published on 06/09/2016 effective
+for dates of service on or after 03/09/2016 to add
+guidance for OVA1 testing.	
+	01/01/2016	R6	Article revised and published on 02/11/2016 to add
+coding guidance for ThyraMIR effective for dates of
+service 12/14/2015 or after.	
+	01/01/2016	R5	Article revised and published on 01/28/2016 to reflect
+the annual CPT/HCPCS code updates effective for
+dates of service on and after 01/01/2016. For the
+following CPT/HCPCS codes, either the short
+description and/or the long description was changed.
+Depending on which description is used in this article,
+there may not be any change in how the code displays
+in the document: 81210, 81275, 81402, 81435, 81436,
+81445, 81450, 81455. The following codes have been
+added to CPT Group 1: 81272, 81273, 81276, 81311,
+81314, 81538. The following code has been added to
+CPT group 2 as NON-COVERED; 81595 please refer to
+LCD L35396. CPT code 81538 has been added to #3 in
+the Article Text section to replace 84999 for reporting
+VeriStrat ® Assay.	
+	10/01/2015	R4	Article revised and published on 10/08/2015 to reflect
+that OVA1 should be reported with CPT 81503 rather	
+		
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+		than 84999 effective for dates of service on and after
+10/01/2015.
+10/01/2015	R3	Article revised and published on 01/23/2015 to reflect
+the annual CPT/HCPCS code updates For the following
+CPT/HCPCS code(s) either the short description and/or
+the long description was changed. Depending on which
+description is used in this article, there may not be any
+change in how the code displays in the document:
+81245; 81402; 81403; 81404; 81405. The following
+codes have been added to CPT group 2 as NON-
+COVERED; 81445, 81450 and 81455. The following
+codes have been added to the article but will not have
+any diagnosis to procedure code editing at this time;
+81246; 81435; and 81436. CPT code 81313 has been
+added to #5 in the Article Text section to replace 81479
+for reporting PROGENSA® PCA3 Assay.
+10/01/2015	R2	Article revised and published on 10/09/2014, effective
+for dates of service 10/01/2015 to add billing and
+coding information for MyPRS Genetic Expression
+Profile Testing.
+10/01/2015	R1	Article revised and published on 7/24/2014 to provide
+billing and coding guidance regarding various Tier 1
+and Tier 2 molecular pathology procedures.
+Updated On	Effective Dates	Status	
