@@ -1,0 +1,2314 @@
+Contractor Information
+Contractor
+Name
+Contract
+Type
+Contract
+Number
+Jurisdiction
+States
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04111 -
+MAC A
+J - H
+Colorado
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04112 -
+MAC B
+J - H
+Colorado
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04211 -
+MAC A
+J - H
+New Mexico
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04212 -
+MAC B
+J - H
+New Mexico
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04311 -
+MAC A
+J - H
+Oklahoma
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04312 -
+MAC B
+J - H
+Oklahoma
+A58917
+SUPERSEDED
+LCD Reference Article
+Billing and Coding Article
+Billing and Coding: Molecular Pathology
+and Genetic Testing
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+Website.
+ SUPERSEDED
+To see the currently-in-effect version of this document, go to the Public Versions section.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+1 of 57
+10/7/25, 10:24
+Contractor
+Name
+Contract
+Type
+Contract
+Number
+Jurisdiction
+States
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04411 -
+MAC A
+J - H
+Texas
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04412 -
+MAC B
+J - H
+Texas
+Novitas
+Solutions, Inc.
+A and B
+MAC
+04911 -
+MAC A
+J - H
+Colorado
+New Mexico
+Oklahoma
+Texas
+Novitas
+Solutions, Inc.
+A and B
+MAC
+07101 -
+MAC A
+J - H
+Arkansas
+Novitas
+Solutions, Inc.
+A and B
+MAC
+07102 -
+MAC B
+J - H
+Arkansas
+Novitas
+Solutions, Inc.
+A and B
+MAC
+07201 -
+MAC A
+J - H
+Louisiana
+Novitas
+Solutions, Inc.
+A and B
+MAC
+07202 -
+MAC B
+J - H
+Louisiana
+Novitas
+Solutions, Inc.
+A and B
+MAC
+07301 -
+MAC A
+J - H
+Mississippi
+Novitas
+Solutions, Inc.
+A and B
+MAC
+07302 -
+MAC B
+J - H
+Mississippi
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12101 -
+MAC A
+J - L
+Delaware
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+2 of 57
+10/7/25, 10:24
+Contractor
+Name
+Contract
+Type
+Contract
+Number
+Jurisdiction
+States
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12102 -
+MAC B
+J - L
+Delaware
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12201 -
+MAC A
+J - L
+District of
+Columbia
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12202 -
+MAC B
+J - L
+District of
+Columbia
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12301 -
+MAC A
+J - L
+Maryland
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12302 -
+MAC B
+J - L
+Maryland
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12401 -
+MAC A
+J - L
+New Jersey
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12402 -
+MAC B
+J - L
+New Jersey
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12501 -
+MAC A
+J - L
+Pennsylvania
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12502 -
+MAC B
+J - L
+Pennsylvania
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+3 of 57
+10/7/25, 10:24
+Contractor
+Name
+Contract
+Type
+Contract
+Number
+Jurisdiction
+States
+Novitas
+Solutions, Inc.
+A and B
+MAC
+12901 -
+MAC A
+J - L
+Delaware
+District of
+Columbia
+Maryland
+New Jersey
+Pennsylvania
+Article Information
+General Information
+Article ID
+A58917
+Article Title
+Billing and Coding: Molecular Pathology and Genetic Testing
+Article Type
+Billing and Coding
+Original Effective Date
+11/08/2021
+Revision Effective Date
+10/01/2023
+Revision Ending Date
+12/31/2023
+Retirement Date
+N/A
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved.
+Applicable FARS/HHSARS apply.
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not
+part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or
+dispense medical services. The AMA assumes no liability for data contained or not contained herein.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+4 of 57
+10/7/25, 10:24
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the
+AHA copyrighted materials contained within this publication may be copied without the express written consent of the
+AHA. AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized
+within any software, product, service, solution, or derivative work without the written consent of the AHA. If an entity
+wishes to utilize any AHA materials, please contact the AHA at 312‐893‐6816.
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal
+purposes, resale and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04
+Manual and/or codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof,
+including the codes and/or descriptions, is only authorized with an express license from the American Hospital
+Association. The American Hospital Association (the "AHA") has not reviewed, and is not responsible for, the
+completeness or accuracy of any information contained in this material, nor was the AHA or any of its afﬁliates,
+involved in the preparation of this material, or the analysis of information provided in the material. The views and/or
+positions presented in the material do not necessarily represent the views of the AHA. CMS and its products and
+services are not endorsed by the AHA or any of its afﬁliates.
+CMS National Coverage Policy
+Internet-Only Manuals (IOMs):
+• CMS IOM Publication 100-02, Medicare Beneﬁt Policy Manual,
+◦ Chapter 15, Section 80 Requirements for Diagnostic X-Ray, Diagnostic
+Laboratory, and Other Diagnostic Tests, and Section 280 Preventive and
+Screening Services
+• CMS IOM Publication 100-04, Medicare Claims Processing Manual,
+◦ Chapter 16, Section 10 Background, Section 40.8 Date of Service (DOS) for
+Clinical Laboratory and Pathology Specimens and Section 120.1 Negotiated
+Rulemaking Implementation
+◦ Chapter 18 Preventive and Screening Services
+• CMS IOM Publication 100-08, Medicare Program Integrity Manual,
+◦ Chapter 3 Verifying Potential Errors and Taking Corrective Actions
+Social Security Act (Title XVIII) Standard References:
+• Title XVIII of the Social Security Act, Section 1833(e) states that no payment shall be
+made to any provider of services or other person under this part unless there has
+been furnished such information as may be necessary in order to determine the
+amounts due such provider or other person under this part for the period with respect
+to which the amounts are being paid or for any prior period.
+• Title XVIII of the Social Security Act, Section 1862 [42 U.S.C. 1395Y] (a) states that
+notwithstanding any other provision of this title, no payment may be made under
+part A or part B for any expenses incurred for items or services—
+◦ (1)(A) which, except for items and services described in a succeeding
+subparagraph, are not reasonable and necessary for the diagnosis or treatment
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+5 of 57
+10/7/25, 10:24
+of illness or injury or to improve the functioning of a malformed body member.
+Code of Federal Regulations (CFR) References:
+• CFR, Title 42, Subchapter B, Part 410 Supplementary Medical Insurance (SMI)
+Beneﬁts, Section 410.32 Diagnostic x-ray tests, diagnostic laboratory tests, and other
+diagnostic tests: Conditions
+• CFR, Title 42, Section 414.502 Deﬁnitions
+• CFR, Title 42, Subpart G, Section 414.507 Payment for clinical diagnostic laboratory
+tests and Section 414.510 Laboratory date of service for clinical laboratory and
+pathology specimens
+• CFR, Title 42, Part 493 Laboratory Requirements
+• CFR, Title 42, Section 493.1253 Standard: Establishment and veriﬁcation of
+performance speciﬁcations
+• CFR, Title 42, Section 1395y (b)(1)(F) Limitation on beneﬁciary liability
+Medicare National Correct Coding Initiative (NCCI) Policy Manual
+• Chapter 10, Section F Molecular Pathology
+Article Guidance
+Article Text
+This Billing and Coding Article provides billing and coding guidance for molecular
+pathology services, genomic sequencing procedures and other multianalyte assays,
+multianalyte assays with algorithmic analyses, and applicable proprietary laboratory
+analyses codes and Tier 1 and Tier 2 molecular pathology procedures. Consistent with
+CFR, Title 42, Section 414.502 Advanced diagnostic laboratory tests must provide new
+clinical diagnostic information that cannot be obtained from any other test or combination
+of tests. Please refer to the LCD for reasonable and necessary requirements.
+This instruction focuses on coding and billing for molecular pathology diagnostics and
+genetic testing. Nothing stated in this instruction implies or infers coverage.
+Molecular diagnostic testing and laboratory developed testing are rapidly evolving areas
+and thus present billing and coding challenges. Due to the rapid changes in this ﬁeld, the
+CMS Clinical Laboratory Fee Schedule pricing methodology does not account for the
+unique characteristics of these tests. These challenges have led to services being
+incorrectly coded and improperly billed. It is the MAC’s responsibility to pay for services
+that are medically reasonable and necessary and coded correctly. The intent of this billing
+and coding article is to provide guidance for accurate coding and proper submission of
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+6 of 57
+10/7/25, 10:24
+claims.
+Prior to January 1, 2013, each step of the process of a molecular diagnostic test was
+billed utilizing a separate CPT code to describe that process. Such billing was termed
+“stacking” with each step of a molecular diagnostic test utilizing a different CPT code to
+create a “Stack”. The updates to CPT after January 1, 2013, were to create a more
+granular, analyte and/or gene speciﬁc coding system for these services and to eliminate,
+or greatly reduce, the “stacking” of codes in billing for molecular pathology services. The
+current CPT and HCPCS codes include all analytic services and processes performed with
+the test. This approach has resulted in the following subgroups of CPT codes:
+• Genomic Sequencing Procedures
+• Multi-Analyte with Algorithmic Analyses (MAAA)
+• Proprietary Laboratory Analyses (PLA codes)
+• Tier 1 - Analyte Speciﬁc codes; a single test or procedure corresponds to a single CPT
+code
+• Tier 2 – Rare disease and low volume molecular pathology services
+However, the updates to CPT since 2013 have NOT resulted in the elimination or
+reduction of stacking of codes in billing. Rather the billing of multiple CPT codes for a
+unique molecular pathology or genetic test has signiﬁcantly increased over the last two
+years. Coding issues have been identiﬁed throughout all the molecular pathology coding
+subgroups, but these issues of billing multiple CPT codes for a speciﬁc test have been
+signiﬁcant in the Tier 2 (81400 - 81408) and Not Otherwise Classiﬁed (81479 and 81599)
+codes. Per Title 42 of the United States Code (USC) Section 1320c-5(a)(3), providers are
+required by law to “provide economical medical services and then, only where medically
+necessary”. In keeping with Title 42 of the USC Section 1320c-5(a)(3), claims
+inappropriately billed utilizing stacking or unbundling of services will be rejected or
+denied.
+Many applications of the molecular pathology procedures are not covered services given
+a lack of beneﬁt category (e.g., preventive service or screening for a genetic abnormality
+in the absence of a suspicion of disease) and/or failure to meet the medically reasonable
+and necessary threshold for coverage (e.g., based on quality of clinical evidence and
+strength of recommendation or when the results would not reasonably be used in the
+management of a beneﬁciary). Furthermore, payment of claims in the past (based on
+“stacking” codes) or in the future (based on the new code series) is not a statement of
+coverage since the service may not have been audited for compliance with program
+requirements and documentation supporting the medically reasonable and necessary
+testing for the beneﬁciary. Certain molecular pathology procedures may be subject to
+medical review (medical records requested). The medical records must support the service
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+7 of 57
+10/7/25, 10:24
+billed.
+Molecular pathology tests for diseases or conditions that manifest severe signs or
+symptoms in newborns and in early childhood or that result in early death (e.g., Canavan
+disease) are subject to automatic denials since these tests are generally not relevant to a
+Medicare beneﬁciary.
+The following types of tests are examples of services that are not relevant to a Medicare
+beneﬁciary, are not considered a Medicare beneﬁt (statutorily excluded), and therefore will
+be denied as Medicare Excluded Tests:
+• Tests considered screening in the absence of clinical signs and symptoms of disease
+that are not speciﬁcally identiﬁed by the law
+• Tests performed to determine carrier screening
+• Tests performed for screening hereditary cancer syndromes
+• Prenatal diagnostic testing
+• Tests performed on patients without signs or symptoms to determine risk for
+developing a disease or condition
+• Tests performed to measure the quality of a process
+• Tests without diagnosis speciﬁc indications
+• Tests identiﬁed as investigational by available literature and/or the literature supplied
+by the developer and are not a part of a clinical trial
+Screening services such as pre-symptomatic genetic tests and services used to detect an
+undiagnosed disease or disease predisposition are not a Medicare beneﬁt and are not
+covered.
+In accordance with the Code of Federal Regulations, Title 42, Subchapter B, Part 410,
+Section 410.32, the referring/ordering practitioner must have an established relationship
+with the patient, and the test results must be used by the ordering/referring practitioner in
+the management of the patient’s speciﬁc medical problem.
+For ease of reading, the term “gene” in this document will be used to indicate a gene,
+region of a gene, and/or variant(s) of a gene.
+Coding Guidance
+Notice: It is not appropriate to bill Medicare for services that are not covered as if they are
+covered. When billing for non-covered services, use the appropriate modiﬁer.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+8 of 57
+10/7/25, 10:24
+Code selection is based on the speciﬁc gene(s) that is being analyzed. Codes that
+describe tests to assess for the presence of gene variants use common gene variant
+names. All of the listed variants would usually be tested; however, these lists are not
+exclusive. If additional variants, for the same gene, are also tested in the analysis they are
+included in the procedure and are not reported separately.
+Full gene sequencing is not reported using codes that assess for the presence of gene
+variants unless the CPT code speciﬁcally states full gene sequence in the descriptor.
+Tier 1 codes generally describe testing for a speciﬁc gene or Human Leukocyte Antigen
+(HLA) locus. Tier 2 molecular pathology procedure codes (81400-81408) are used to
+report procedures not listed in the Tier 1 molecular pathology codes (81161,
+81200-81383). These codes represent rare diseases and molecular pathology procedures
+that are performed in lower volumes than Tier 1 procedures. These codes should rarely, if
+ever, be used unless instructed by other coding and billing articles.
+If billing utilizing the following Tier 2 codes, additional information will be required to
+identify the speciﬁc analyte/gene(s) tested in the narrative of the claim or the claim will be
+rejected:
+• 81400
+• 81401
+• 81402
+• 81403
+• 81404
+• 81405
+• 81406
+• 81407
+• 81408
+Unlisted Molecular Pathology - CPT Code 81479
+Providers are required to use a procedure code that most accurately describes the service
+being rendered. If the analyte being tested is not represented by a Tier 1 code or is not
+accurately described by a Tier 2 code, the unlisted molecular pathology procedure code
+81479 should be reported.
+However, when reporting CPT code 81479, the speciﬁc gene being tested must be
+entered in block 80 (Part A for the UBO4 claim), box 19 (Part B for a paper claim) or
+electronic equivalent of the claim. Failure to include this information on the claim will
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+9 of 57
+10/7/25, 10:24
+result in Part A claims being returned to the provider and Part B claims being rejected. In
+addition, medical records may be requested when 81479 is billed. The medical record
+must clearly identify the unique molecular pathology procedure performed, its analytic
+validity and clinical utility, and why CPT code 81479 was billed.
+When multiple procedure codes are submitted on a claim (unique and/or unlisted), the
+documentation supporting each code must be easily identiﬁable. If on review the
+contractor cannot link a billed code to the documentation, these services will be denied
+based on Title XVIII of the Social Security Act, Section 1833.
+Testing for Multiple Genes and Next Generation Sequencing (NGS) testing
+A panel of genes is a distinct procedural service from a series of individual genes. All
+services billed to Medicare must be medically reasonable and necessary. As such, if a
+provider or supplier submits a claim for a panel, then the patient’s medical record must
+reﬂect that the panel was medically reasonable and necessary. Alternatively, if a provider
+or supplier bills for individual genes, then the patient’s medical record must reﬂect that
+each individual gene is medically reasonable and necessary.
+Genes can be assayed serially or in parallel. Genes assayed on the same date of service
+are considered to be assayed in parallel if the result of one assay does not affect the
+decision to complete the assay on another gene, and the two genes are being tested for
+the same indication.
+Genes assayed on the same date of service are considered to be assayed serially when
+there is a reﬂexive decision component where the results of the analysis of one or more
+genes determines whether the results of additional analyses are medically reasonable
+and necessary.
+If the laboratory method is NGS testing, and the laboratory assays two or more genes in a
+patient in parallel, then those two or more genes will be considered part of the same
+panel, consistent with the NCCI manual Chapter 10, Section F, number 8.
+If the laboratory assays genes in serial, then the laboratory must submit claims for genes
+individually. The order by the treating clinician must reﬂect whether the treating clinician
+is ordering a panel or single genes, and additionally, the patient’s medical record must
+reﬂect that the service billed was medically reasonable and necessary.
+CMS payment policy does not allow separate payment for multiple methods to test for the
+same analyte.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+10 of 57
+10/7/25, 10:24
+We would not expect that a provider or supplier would routinely bill for more than one
+distinct laboratory genetic testing procedural service on a single beneﬁciary on a single
+date of service. In the rare circumstance that more than one distinct genetic test is
+medically reasonable and necessary for the same beneﬁciary on the same date of service,
+the provider or supplier must attest that each additional service billed is a distinct
+procedural service using the 59 modiﬁer.
+-59 Modiﬁer; Distinct Procedural Service
+This modiﬁer is allowable for radiology services and it may also be used with surgical or
+medical codes in appropriate circumstances.
+When billing, report the ﬁrst code without a modiﬁer. On subsequent lines, report the code
+with the modiﬁer. Under certain circumstances, it may be necessary to indicate that a
+procedure or service was distinct or independent from other non-Evaluation and
+Management (E/M) services performed on the same day. Modiﬁer 59 is used to identify
+procedures/services, other than E/M services, that are not normally reported together, but
+are appropriate under the circumstances. Documentation must support a different
+session, different procedure or surgery, different site or organ system, separate incision/
+excision, separate lesion, or separate injury (or area of injury in extensive injuries) not
+ordinarily encountered or performed on the same day by the same individual. However,
+when another already established modiﬁer is appropriate it should be used rather than
+modiﬁer 59. Only if a more descriptive modiﬁer is unavailable, and the use of modiﬁer 59
+best explains the circumstances, should modiﬁer 59 be used.
+The use of the 59 modiﬁer will be considered an attestation that distinct procedural
+services are being performed rather than a panel and may result in the request for
+medical records.
+Frequent use of the 59 modiﬁer may be subject to medical review.
+Genomic Sequencing Proﬁles (GSP)
+When a GSP assay includes a gene or genes that are listed in more than one code
+descriptor, the code for the most speciﬁc test for the primary disorder sought must be
+reported, rather than reporting multiple codes for the same gene(s). Reporting multiple
+codes for the same gene will result in claim rejection or denial.
+Multianalyte Assays with Algorithmic Analyses (MAAAs) and Proprietary Laboratory
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+11 of 57
+10/7/25, 10:24
+Analyses (PLA)
+A valid PLA code takes precedence over Tier 1 and Tier 2 codes and must be reported if
+available. Reporting of a Tier 1 or Tier 2 code in this circumstance or in addition to a PLA
+code is incorrect coding and will result in claim rejection or denial.
+Per CPT, the results of individual component procedure(s) that are inputs to the MAAAs
+may be provided on the associated reporting, however these assays are not reported
+separately using additional codes. Claims reporting such, will be rejected or denied.
+All MAAAs, including those that do not have a Category I code, may be found in Appendix
+O of the CPT Manual. When a speciﬁc MAAA procedure is not listed in Appendix O, the
+service must be reported with the unlisted MAAA procedure code 81599. Additionally,
+when an analysis is performed that may fall within the descriptor of one of the speciﬁc
+MAAA CPT codes, but the proprietary name is not included, the service should be
+reported with 81599.
+When reporting CPT code 81599, a description of the analysis (totaling less than 80
+characters) must be entered in block 80 (Part A for the UBO4 claim), box 19 (Part B for a
+paper claim) or electronic equivalent of the claim. Failure to include this information on the
+claim will result in Part A claims being returned to the provider and Part B claims being
+rejected. In addition, medical records may be requested when 81599 is billed. The medical
+record must clearly identify the analysis performed, its analytic validity and clinical utility,
+and why CPT code 81599 was billed.
+Date of Service (DOS)
+As a general rule, the DOS for either a clinical laboratory test or the technical component
+of a physician pathology service is the date the specimen was collected. In situations
+where a specimen is collected over a period of two calendar days, the DOS is the date the
+collection ended. There are some exceptions to the DOS policy. Please refer to the CMS
+IOM Publication 100-04, Chapter 16, Section 40.8 for complete information related to the
+DOS policy.
+Documentation Requirements
+1. All documentation must be maintained in the patient's medical record and made
+available to the contractor upon request.
+2. Every page of the record must be legible and include appropriate patient
+identiﬁcation information (e.g., complete name, dates of service[s]). The
+documentation must include the legible signature of the physician or non-physician
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+12 of 57
+10/7/25, 10:24
+practitioner (NPP) responsible for and providing the care to the patient.
+3. The submitted medical record must support the use of the selected ICD-10-CM
+code(s). The submitted CPT/HCPCS code must describe the service performed.
+4. In accordance with CFR Section 410.32, the medical record must contain
+documentation that the testing is expected to inﬂuence treatment of the condition
+toward which the testing is directed and will be used in the management of the
+beneﬁciary's speciﬁc medical problem.
+5. The medical record must support that the referring/ordering practitioner who ordered
+the test for a speciﬁc medical problem is treating the beneﬁciary for this speciﬁc
+medical problem. An example of documentation that could support the practitioner’s
+management of the beneﬁciary’s speciﬁc medical problem would be at least two E/M
+visits performed by the ordering/referring practitioner over the previous six months.
+6. The medical record must include documentation of how the ordering/referring
+practitioner used the test results in the management of the beneﬁciary’s speciﬁc
+medical problem.
+7. The ordering physician/NPP documentation in the medical record must include, but is
+not limited to, history and physical or exam ﬁndings that support the decision making,
+problems/diagnoses, relevant data (e.g., lab testing, imaging results).
+8. The medical record from the ordering physician/NPP must clearly indicate all tests
+that are to be performed.
+9. Documentation requirements of the performing laboratory (when requested) include,
+but are not limited to, lab accreditation, test requisition, test record/procedures,
+reports (preliminary and ﬁnal), and quality control record.
+Coding Information
+CPT/HCPCS Codes
+Group 1 (540 Codes)
+Group 1 Paragraph
+Note: Providers are reminded to refer to the long descriptors of the CPT codes in
+their CPT book.
+Providers should refer to the current CPT book for applicable CPT codes.
+Group 1 Codes
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+13 of 57
+10/7/25, 10:24
+Code
+Description
+81105
+Hpa-1 genotyping
+81106
+Hpa-2 genotyping
+81107
+Hpa-3 genotyping
+81108
+Hpa-4 genotyping
+81109
+Hpa-5 genotyping
+81110
+Hpa-6 genotyping
+81111
+Hpa-9 genotyping
+81112
+Hpa-15 genotyping
+81120
+Idh1 common variants
+81121
+Idh2 common variants
+81161
+Dmd dup/delet analysis
+81162
+Brca1&2 gen full seq dup/del
+81163
+Brca1&2 gene full seq alys
+81164
+Brca1&2 gen ful dup/del alys
+81165
+Brca1 gene full seq alys
+81166
+Brca1 gene full dup/del alys
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+14 of 57
+10/7/25, 10:24
+Code
+Description
+81167
+Brca2 gene full dup/del alys
+81168
+Ccnd1/igh translocation alys
+81170
+Abl1 gene
+81171
+Aff2 gene detc abnor alleles
+81172
+Aff2 gene charac alleles
+81173
+Ar gene full gene sequence
+81174
+Ar gene known famil variant
+81175
+Asxl1 full gene sequence
+81176
+Asxl1 gene target seq alys
+81177
+Atn1 gene detc abnor alleles
+81178
+Atxn1 gene detc abnor allele
+81179
+Atxn2 gene detc abnor allele
+81180
+Atxn3 gene detc abnor allele
+81181
+Atxn7 gene detc abnor allele
+81182
+Atxn8os gen detc abnor allel
+81183
+Atxn10 gene detc abnor allel
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+15 of 57
+10/7/25, 10:24
+Code
+Description
+81184
+Cacna1a gen detc abnor allel
+81185
+Cacna1a gene full gene seq
+81186
+Cacna1a gen known famil vrnt
+81187
+Cnbp gene detc abnor allele
+81188
+Cstb gene detc abnor allele
+81189
+Cstb gene full gene sequence
+81190
+Cstb gene known famil vrnt
+81191
+Ntrk1 translocation analysis
+81192
+Ntrk2 translocation analysis
+81193
+Ntrk3 translocation analysis
+81194
+Ntrk translocation analysis
+81200
+Aspa gene
+81201
+Apc gene full sequence
+81202
+Apc gene known fam variants
+81203
+Apc gene dup/delet variants
+81204
+Ar gene charac alleles
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+16 of 57
+10/7/25, 10:24
+Code
+Description
+81205
+Bckdhb gene
+81206
+Bcr/abl1 gene major bp
+81207
+Bcr/abl1 gene minor bp
+81208
+Bcr/abl1 gene other bp
+81209
+Blm gene
+81210
+Braf gene
+81212
+Brca1&2 185&5385&6174 vrnt
+81215
+Brca1 gene known famil vrnt
+81216
+Brca2 gene full seq alys
+81217
+Brca2 gene known famil vrnt
+81218
+Cebpa gene full sequence
+81219
+Calr gene com variants
+81220
+Cftr gene com variants
+81221
+Cftr gene known fam variants
+81222
+Cftr gene dup/delet variants
+81223
+Cftr gene full sequence
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+17 of 57
+10/7/25, 10:24
+Code
+Description
+81224
+Cftr gene intron poly t
+81225
+Cyp2c19 gene com variants
+81226
+Cyp2d6 gene com variants
+81227
+Cyp2c9 gene com variants
+81228
+Cytog alys chrml abnr cgh
+81229
+Cytog alys chrml abnr snpcgh
+81230
+Cyp3a4 gene common variants
+81231
+Cyp3a5 gene common variants
+81232
+Dpyd gene common variants
+81233
+Btk gene common variants
+81234
+Dmpk gene detc abnor allele
+81235
+Egfr gene com variants
+81236
+Ezh2 gene full gene sequence
+81237
+Ezh2 gene common variants
+81238
+F9 full gene sequence
+81239
+Dmpk gene charac alleles
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+18 of 57
+10/7/25, 10:24
+Code
+Description
+81240
+F2 gene
+81241
+F5 gene
+81242
+Fancc gene
+81243
+Fmr1 gene detection
+81244
+Fmr1 gene charac alleles
+81245
+Flt3 gene
+81246
+Flt3 gene analysis
+81247
+G6pd gene alys cmn variant
+81248
+G6pd known familial variant
+81249
+G6pd full gene sequence
+81250
+G6pc gene
+81251
+Gba gene
+81252
+Gjb2 gene full sequence
+81253
+Gjb2 gene known fam variants
+81254
+Gjb6 gene com variants
+81255
+Hexa gene
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+19 of 57
+10/7/25, 10:24
+Code
+Description
+81256
+Hfe gene
+81257
+Hba1/hba2 gene
+81258
+Hba1/hba2 gene fam vrnt
+81259
+Hba1/hba2 full gene sequence
+81260
+Ikbkap gene
+81261
+Igh gene rearrange amp meth
+81262
+Igh gene rearrang dir probe
+81263
+Igh vari regional mutation
+81264
+Igk rearrangeabn clonal pop
+81265
+Str markers specimen anal
+81266
+Str markers spec anal addl
+81267
+Chimerism anal no cell selec
+81268
+Chimerism anal w/cell select
+81269
+Hba1/hba2 gene dup/del vrnts
+81270
+Jak2 gene
+81271
+Htt gene detc abnor alleles
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+20 of 57
+10/7/25, 10:24
+Code
+Description
+81272
+Kit gene targeted seq analys
+81273
+Kit gene analys d816 variant
+81274
+Htt gene charac alleles
+81275
+Kras gene variants exon 2
+81276
+Kras gene addl variants
+81277
+Cytogenomic neo microra alys
+81278
+Igh@/bcl2 translocation alys
+81279
+Jak2 gene trgt sequence alys
+81283
+Ifnl3 gene
+81284
+Fxn gene detc abnor alleles
+81285
+Fxn gene charac alleles
+81286
+Fxn gene full gene sequence
+81287
+Mgmt gene prmtr mthyltn alys
+81288
+Mlh1 gene
+81289
+Fxn gene known famil variant
+81290
+Mcoln1 gene
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+21 of 57
+10/7/25, 10:24
+Code
+Description
+81291
+Mthfr gene
+81292
+Mlh1 gene full seq
+81293
+Mlh1 gene known variants
+81294
+Mlh1 gene dup/delete variant
+81295
+Msh2 gene full seq
+81296
+Msh2 gene known variants
+81297
+Msh2 gene dup/delete variant
+81298
+Msh6 gene full seq
+81299
+Msh6 gene known variants
+81300
+Msh6 gene dup/delete variant
+81301
+Microsatellite instability
+81302
+Mecp2 gene full seq
+81303
+Mecp2 gene known variant
+81304
+Mecp2 gene dup/delet variant
+81305
+Myd88 gene p.leu265pro vrnt
+81306
+Nudt15 gene common variants
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+22 of 57
+10/7/25, 10:24
+Code
+Description
+81307
+Palb2 gene full gene seq
+81308
+Palb2 gene known famil vrnt
+81309
+Pik3ca gene trgt seq alys
+81310
+Npm1 gene
+81311
+Nras gene variants exon 2&3
+81312
+Pabpn1 gene detc abnor allel
+81313
+Pca3/klk3 antigen
+81314
+Pdgfra gene
+81315
+Pml/raralpha com breakpoints
+81316
+Pml/raralpha 1 breakpoint
+81317
+Pms2 gene full seq analysis
+81318
+Pms2 known familial variants
+81319
+Pms2 gene dup/delet variants
+81320
+Plcg2 gene common variants
+81321
+Pten gene full sequence
+81322
+Pten gene known fam variant
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+23 of 57
+10/7/25, 10:24
+Code
+Description
+81323
+Pten gene dup/delet variant
+81324
+Pmp22 gene dup/delet
+81325
+Pmp22 gene full sequence
+81326
+Pmp22 gene known fam variant
+81327
+Sept9 gen prmtr mthyltn alys
+81328
+Slco1b1 gene com variants
+81329
+Smn1 gene dos/deletion alys
+81330
+Smpd1 gene common variants
+81331
+Snrpn/ube3a gene
+81332
+Serpina1 gene
+81333
+Tgfbi gene common variants
+81334
+Runx1 gene targeted seq alys
+81335
+Tpmt gene com variants
+81336
+Smn1 gene full gene sequence
+81337
+Smn1 gen nown famil seq vrnt
+81338
+Mpl gene common variants
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+24 of 57
+10/7/25, 10:24
+Code
+Description
+81339
+Mpl gene seq alys exon 10
+81340
+Trb@ gene rearrange amplify
+81341
+Trb@ gene rearrange dirprobe
+81342
+Trg gene rearrangement anal
+81343
+Ppp2r2b gen detc abnor allel
+81344
+Tbp gene detc abnor alleles
+81345
+Tert gene targeted seq alys
+81346
+Tyms gene com variants
+81347
+Sf3b1 gene common variants
+81348
+Srsf2 gene common variants
+81349
+Cytog alys chrml abnr lw-ps
+81350
+Ugt1a1 gene common variants
+81351
+Tp53 gene full gene sequence
+81352
+Tp53 gene trgt sequence alys
+81353
+Tp53 gene known famil vrnt
+81355
+Vkorc1 gene
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+25 of 57
+10/7/25, 10:24
+Code
+Description
+81357
+U2af1 gene common variants
+81360
+Zrsr2 gene common variants
+81361
+Hbb gene com variants
+81362
+Hbb gene known fam variant
+81363
+Hbb gene dup/del variants
+81364
+Hbb full gene sequence
+81370
+Hla i & ii typing lr
+81371
+Hla i & ii type verify lr
+81372
+Hla i typing complete lr
+81373
+Hla i typing 1 locus lr
+81374
+Hla i typing 1 antigen lr
+81375
+Hla ii typing ag equiv lr
+81376
+Hla ii typing 1 locus lr
+81377
+Hla ii type 1 ag equiv lr
+81378
+Hla i & ii typing hr
+81379
+Hla i typing complete hr
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+26 of 57
+10/7/25, 10:24
+Code
+Description
+81380
+Hla i typing 1 locus hr
+81381
+Hla i typing 1 allele hr
+81382
+Hla ii typing 1 loc hr
+81383
+Hla ii typing 1 allele hr
+81400
+Mopath procedure level 1
+81401
+Mopath procedure level 2
+81402
+Mopath procedure level 3
+81403
+Mopath procedure level 4
+81404
+Mopath procedure level 5
+81405
+Mopath procedure level 6
+81406
+Mopath procedure level 7
+81407
+Mopath procedure level 8
+81408
+Mopath procedure level 9
+81410
+Aortic dysfunction/dilation
+81411
+Aortic dysfunction/dilation
+81412
+Ashkenazi jewish assoc dis
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+27 of 57
+10/7/25, 10:24
+Code
+Description
+81413
+Car ion chnnlpath inc 10 gns
+81414
+Car ion chnnlpath inc 2 gns
+81415
+Exome sequence analysis
+81416
+Exome sequence analysis
+81417
+Exome re-evaluation
+81418
+Rx metab gen seq alys pnl 6
+81419
+Epilepsy gen seq alys panel
+81420
+Fetal chrmoml aneuploidy
+81422
+Fetal chrmoml microdeltj
+81425
+Genome sequence analysis
+81426
+Genome sequence analysis
+81427
+Genome re-evaluation
+81430
+Hearing loss sequence analys
+81431
+Hearing loss dup/del analys
+81432
+Hrdtry brst ca-rlatd dsordrs
+81433
+Hrdtry brst ca-rlatd dsordrs
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+28 of 57
+10/7/25, 10:24
+Code
+Description
+81434
+Hereditary retinal disorders
+81435
+Hereditary colon ca dsordrs
+81436
+Hereditary colon ca dsordrs
+81437
+Heredtry nurondcrn tum dsrdr
+81438
+Heredtry nurondcrn tum dsrdr
+81439
+Hrdtry cardmypy gene panel
+81440
+Mitochondrial gene
+81441
+Ibmfs seq alys pnl 30 genes
+81442
+Noonan spectrum disorders
+81443
+Genetic tstg severe inh cond
+81445
+Tgsap so neo 5-50dna/dna&rna
+81448
+Hrdtry perph neurphy panel
+81449
+Tgsap so neo 5-50 rna alys
+81450
+Tgsap hl neo 5-50dna/dna&rna
+81451
+Tgsap hl neo 5-50 rna alys
+81455
+Tgsap so/hl 51/> dna/dna&rna
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+29 of 57
+10/7/25, 10:24
+Code
+Description
+81456
+Tgsap so/hl 51/> rna alys
+81460
+Whole mitochondrial genome
+81465
+Whole mitochondrial genome
+81470
+X-linked intellectual dblt
+81471
+X-linked intellectual dblt
+81479
+Unlisted molecular pathology
+81490
+Autoimmune rheumatoid arthr
+81493
+Cor artery disease mrna
+81500
+Onco (ovar) two proteins
+81503
+Onco (ovar) ﬁve proteins
+81504
+Oncology tissue of origin
+81506
+Endo assay seven anal
+81507
+Fetal aneuploidy trisom risk
+81508
+Ftl cgen abnor two proteins
+81509
+Ftl cgen abnor 3 proteins
+81510
+Ftl cgen abnor three anal
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+30 of 57
+10/7/25, 10:24
+Code
+Description
+81511
+Ftl cgen abnor four anal
+81512
+Ftl cgen abnor ﬁve anal
+81513
+Nfct ds bv rna vag ﬂu alg
+81514
+Nfct ds bv&vaginitis dna alg
+81518
+Onc brst mrna 11 genes
+81519
+Oncology breast mrna
+81520
+Onc breast mrna 58 genes
+81521
+Onc breast mrna 70 genes
+81522
+Onc breast mrna 12 genes
+81523
+Onc brst mrna 70 cnt 31 gene
+81525
+Oncology colon mrna
+81528
+Oncology colorectal scr
+81529
+Onc cutan mlnma mrna 31 gene
+81535
+Oncology gynecologic
+81536
+Oncology gynecologic
+81538
+Oncology lung
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+31 of 57
+10/7/25, 10:24
+Code
+Description
+81539
+Oncology prostate prob score
+81540
+Oncology tum unknown origin
+81541
+Onc prostate mrna 46 genes
+81542
+Onc prostate mrna 22 cnt gen
+81546
+Onc thyr mrna 10,196 gen alg
+81551
+Onc prostate 3 genes
+81552
+Onc uveal mlnma mrna 15 gene
+81554
+Pulm ds ipf mrna 190 gen alg
+81595
+Cardiology hrt trnspl mrna
+81596
+Nfct ds chrnc hcv 6 assays
+81599
+Unlisted maaa
+G0452
+Molecular pathology interpr
+0004M
+Scoliosis dna alys
+0006M
+Onc hep gene risk classiﬁer
+0007M
+Onc gastro 51 gene nomogram
+0011M
+Onc prst8 ca mrna 12 gen alg
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+32 of 57
+10/7/25, 10:24
+Code
+Description
+0012M
+Onc mrna 5 gen rsk urthl ca
+0013M
+Onc mrna 5 gen recr urthl ca
+0016M
+Onc bladder mrna 219 gen alg
+0017M
+Onc dlbcl mrna 20 genes alg
+0001U
+Rbc dna hea 35 ag 11 bld grp
+0005U
+Onco prst8 3 gene ur alg
+0007U
+Rx test prsmv ur w/def conf
+0008U
+Hpylori detcj abx rstnc dna
+0009U
+Onc brst ca erbb2 amp/nonamp
+0010U
+Nfct ds strn typ whl gen seq
+0016U
+Onc hmtlmf neo rna bcr/abl1
+0017U
+Onc hmtlmf neo jak2 mut dna
+0018U
+Onc thyr 10 microrna seq alg
+0019U
+Onc rna tiss predict alg
+0022U
+Tgsap nsm lung neo dna&rna23
+0023U
+Onc aml dna detcj/nondetcj
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+33 of 57
+10/7/25, 10:24
+Code
+Description
+0026U
+Onc thyr dna&mrna 112 genes
+0027U
+Jak2 gene trgt seq alys
+0029U
+Rx metab advrs trgt seq alys
+0030U
+Rx metab warf trgt seq alys
+0031U
+Cyp1a2 gene
+0032U
+Comt gene
+0033U
+Htr2a htr2c genes
+0034U
+Tpmt nudt15 genes
+0036U
+Xome tum & nml spec seq alys
+0037U
+Trgt gen seq dna 324 genes
+0040U
+Bcr/abl1 gene major bp quan
+0045U
+Onc brst dux carc is 12 gene
+0046U
+Flt3 gene itd variants quan
+0047U
+Onc prst8 mrna 17 gene alg
+0048U
+Onc sld org neo dna 468 gene
+0049U
+Npm1 gene analysis quan
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+34 of 57
+10/7/25, 10:24
+Code
+Description
+0050U
+Trgt gen seq dna 194 genes
+0055U
+Card hrt trnspl 96 dna seq
+0060U
+Twn zyg gen seq alys chrms2
+0068U
+Candida species pnl amp prb
+0069U
+Onc clrct microrna mir-31-3p
+0070U
+Cyp2d6 gen com&slct rar vrnt
+0071U
+Cyp2d6 full gene sequence
+0072U
+Cyp2d6 gen cyp2d6-2d7 hybrid
+0073U
+Cyp2d6 gen cyp2d7-2d6 hybrid
+0074U
+Cyp2d6 nonduplicated gene
+0075U
+Cyp2d6 5' gene dup/mlt
+0076U
+Cyp2d6 3' gene dup/mlt
+0078U
+Pain mgt opi use gnotyp pnl
+0079U
+Cmprtv dna alys mlt snps
+0084U
+Rbc dna gnotyp 10 bld groups
+0086U
+Nfct ds bact&fng org id 6+
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+35 of 57
+10/7/25, 10:24
+Code
+Description
+0087U
+Crd hrt trnspl mrna 1283 gen
+0088U
+Trnsplj kdn algrft rej 1494
+0089U
+Onc mlnma prame & linc00518
+0090U
+Onc cutan mlnma mrna 23 gene
+0094U
+Genome rapid sequence alys
+0096U
+Hpv hi risk types male urine
+0101U
+Hered colon ca do 15 genes
+0102U
+Hered brst ca rltd do 17 gen
+0103U
+Hered ova ca pnl 24 genes
+0109U
+Id aspergillus dna 4 species
+0111U
+Onc colon ca kras&nras alys
+0112U
+Iadi 16s&18s rrna genes
+0113U
+Onc prst8 pca3&tmprss2-erg
+0114U
+Gi barretts esoph vim&ccna1
+0118U
+Trnsplj don-drv cll-fr dna
+0120U
+Onc b cll lymphm mrna 58 gen
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+36 of 57
+10/7/25, 10:24
+Code
+Description
+0129U
+Hered brst ca rltd do panel
+0130U
+Hered colon ca do mrna pnl
+0131U
+Hered brst ca rltd do pnl 13
+0132U
+Hered ova ca rltd do pnl 17
+0133U
+Hered prst8 ca rltd do 11
+0134U
+Hered pan ca mrna pnl 18 gen
+0135U
+Hered gyn ca mrna pnl 12 gen
+0136U
+Atm mrna seq alys
+0137U
+Palb2 mrna seq alys
+0138U
+Brca1 brca2 mrna seq alys
+0140U
+Nfct ds fungi dna 15 trgt
+0141U
+Nfct ds bact&fng gram pos
+0142U
+Nfct ds bact&fng gram neg
+0152U
+Nfct ds dna untrgt ngnrj seq
+0153U
+Onc breast mrna 101 genes
+0154U
+Onc urthl ca rna fgfr3 gene
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+37 of 57
+10/7/25, 10:24
+Code
+Description
+0155U
+Onc brst ca dna pik3ca gene
+0156U
+Copy number sequence alys
+0157U
+Apc mrna seq alys
+0158U
+Mlh1 mrna seq alys
+0159U
+Msh2 mrna seq alys
+0160U
+Msh6 mrna seq alys
+0161U
+Pms2 mrna seq alys
+0162U
+Hered colon ca trgt mrna pnl
+0169U
+Nudt15&tpmt gene com vrnt
+0170U
+Neuro asd rna next gen seq
+0171U
+Trgt gen seq alys pnl dna 23
+0172U
+Onc sld tum alys brca1 brca2
+0173U
+Psyc gen alys panel 14 genes
+0175U
+Psyc gen alys panel 15 genes
+0177U
+Onc brst ca dna pik3ca 11
+0179U
+Onc nonsm cll lng ca alys 23
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+38 of 57
+10/7/25, 10:24
+Code
+Description
+0180U
+Abo gnotyp abo 7 exons
+0181U
+Co gnotyp aqp1 exon 1
+0182U
+Crom gnotyp cd55 exons 1-10
+0183U
+Di gnotyp slc4a1 exon 19
+0184U
+Do gnotyp art4 exon 2
+0185U
+Fut1 gnotyp fut1 exon 4
+0186U
+Fut2 gnotyp fut2 exon 2
+0187U
+Fy gnotyp ackr1 exons 1-2
+0188U
+Ge gnotyp gypc exons 1-4
+0189U
+Gypa gnotyp ntrns 1 5 exon 2
+0190U
+Gypb gnotyp ntrns 1 5 seux 3
+0191U
+In gnotyp cd44 exons 2 3 6
+0192U
+Jk gnotyp slc14a1 exon 9
+0193U
+Jr gnotyp abcg2 exons 2-26
+0194U
+Kel gnotyp kel exon 8
+0195U
+Klf1 targeted sequencing
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+39 of 57
+10/7/25, 10:24
+Code
+Description
+0196U
+Lu gnotyp bcam exon 3
+0197U
+Lw gnotyp icam4 exon 1
+0198U
+Rhd&rhce gntyp rhd1-10&rhce5
+0199U
+Sc gnotyp ermap exons 4 12
+0200U
+Xk gnotyp xk exons 1-3
+0201U
+Yt gnotyp ache exon 2
+0203U
+Ai ibd mrna xprsn prﬂ 17
+0204U
+Onc thyr mrna xprsn alys 593
+0205U
+Oph amd alys 3 gene variants
+0209U
+Cytog const alys interrog
+0211U
+Onc pan-tum dna&rna gnrj seq
+0212U
+Rare ds gen dna alys proband
+0213U
+Rare ds gen dna alys ea comp
+0214U
+Rare ds xom dna alys proband
+0215U
+Rare ds xom dna alys ea comp
+0216U
+Neuro inh ataxia dna 12 com
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+40 of 57
+10/7/25, 10:24
+Code
+Description
+0217U
+Neuro inh ataxia dna 51 gene
+0218U
+Neuro musc dys dmd seq alys
+0219U
+Nfct agt hiv gnrj seq alys
+0221U
+Abo gnotyp next gnrj seq abo
+0222U
+Rhd&rhce gntyp next gnrj seq
+0227U
+Rx asy prsmv 30+rx/metablt
+0229U
+Bcat1&ikzf1 prmtr mthyln aly
+0230U
+Ar full sequence analysis
+0231U
+Cacna1a full gene analysis
+0232U
+Cstb full gene analysis
+0233U
+Fxn gene analysis
+0234U
+Mecp2 full gene analysis
+0235U
+Pten full gene analysis
+0236U
+Smn1&smn2 full gene analysis
+0237U
+Car ion chnlpthy gen seq pnl
+0238U
+Onc lnch syn gen dna seq aly
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+41 of 57
+10/7/25, 10:24
+Code
+Description
+0239U
+Trgt gen seq alys pnl 311+
+0242U
+Trgt gen seq alys pnl 55-74
+0244U
+Onc solid orgn dna 257 genes
+0245U
+Onc thyr mut alys 10 gen&37
+0246U
+Rbc dna gnotyp 16 bld groups
+0250U
+Onc sld org neo dna 505 gene
+0252U
+Ftl aneuploidy str alys dna
+0253U
+Rprdtve med rna gen prﬂ 238
+0254U
+Reprdtve med alys 24 chrmsm
+0258U
+Ai psor mrna 50-100 gen alg
+0260U
+Rare ds id opt genome mapg
+0262U
+Onc sld tum rt-pcr 7 gen
+0264U
+Rare ds id opt genome mapg
+0265U
+Rar do whl gn&mtcdrl dna als
+0266U
+Unxpl cnst hrtbl do gn xprsn
+0267U
+Rare do id opt gen mapg&seq
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+42 of 57
+10/7/25, 10:24
+Code
+Description
+0268U
+Hem ahus gen seq alys 15 gen
+0269U
+Hem aut dm cgen trmbctpna 22
+0270U
+Hem cgen coagj do 20 genes
+0271U
+Hem cgen neutropenia 24 gen
+0272U
+Hem genetic bld do 60 genes
+0273U
+Hem gen hyprﬁbrnlysis 8 gen
+0274U
+Hem gen pltlt do 62 genes
+0276U
+Hem inh thrombocytopenia 42
+0277U
+Hem gen pltlt funcj do 40
+0278U
+Hem gen thrombosis 14 genes
+0282U
+Rbc dna gntyp 12 bld grp gen
+0285U
+Onc rsps radj cll fr dna tox
+0286U
+Cep72 nudt15&tpmt gene alys
+0287U
+Onc thyr dna&mrna 112 genes
+0288U
+Onc lung mrna quan pcr 11&3
+0289U
+Neuro alzheimer mrna 24 gen
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+43 of 57
+10/7/25, 10:24
+Code
+Description
+0290U
+Pain mgmt mrna gen xprsn 36
+0291U
+Psyc mood do mrna 144 genes
+0292U
+Psyc strs do mrna 72 genes
+0293U
+Psyc suicidal idea mrna 54
+0294U
+Lngvty&mrtlty rsk mrna 18gen
+0296U
+Onc orl&/orop ca 20 mlc feat
+0297U
+Onc pan tum whl gen seq dna
+0298U
+Onc pan tum whl trns seq rna
+0299U
+Onc pan tum whl gen opt mapg
+0300U
+Onc pan tum whl gen seq&opt
+0301U
+Iadna bartonella ddpcr
+0302U
+Iadna brtnla ddpcr ﬂwg liq
+0306U
+Onc mrd nxt-gnrj alys 1st
+0307U
+Onc mrd nxt-gnrj alys sbsq
+0313U
+Onc pncrs dna&mrna seq 74
+0314U
+Onc cutan mlnma mrna 35 gene
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+44 of 57
+10/7/25, 10:24
+Code
+Description
+0315U
+Onc cutan sq cll ca mrna 40
+0317U
+Onc lung ca 4-prb ﬁsh assay
+0326U
+Trgt gen seq alys pnl 83+
+0329U
+Onc neo xome&trns seq alys
+0331U
+Onc hl neo opt gen mapping
+0332U
+Onc pan tum gen prﬂg 8 dna
+0333U
+Onc lvr surveilanc hcc cfdna
+0334U
+Onc sld orgn tgsa dna 84/+
+0335U
+Rare ds whl gen seq feta
+0336U
+Rare ds whl gen seq bld/slv
+0339U
+Onc prst8 mrna hoxc6 & dlx1
+0340U
+Onc pan ca alys mrd plasma
+0341U
+Ftl aneup dna seq cmpr alys
+0343U
+Onc prst8 xom aly 442 sncrna
+0355U
+Apol1 risk variants
+0356U
+Onc orop 17 dna ddpcr alg
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+45 of 57
+10/7/25, 10:24
+Code
+Description
+0362U
+Onc pap thyr ca rna 82&10
+0363U
+Onc urthl mrna 5 gen alg
+0364U
+Onc hl neo gen seq alys alg
+0368U
+Onc clrct ca mut&mthyltn mrk
+0369U
+Iadna gi pthgn 31 org&21 arg
+0370U
+Iadna surg wnd pthgn 34&21
+0371U
+Iadna gu pthgn semiq dna16&1
+0372U
+Nfct ds gu pthgn arg detcj
+0373U
+Iadna rsp tr nfct 17 8 13&16
+0374U
+Iadna gu pthgn 21 org&21arg
+0378U
+Rfc1 repeat xpnsj vrnt alys
+0379U
+Tgsap sl or neo dna523&rna55
+0380U
+Rx metb advrs trgt sq aly 20
+0388U
+Onc nonsm cll lng ca 37 gen
+0389U
+Ped fbrl kd iﬁ27&mcemp1 rna
+0391U
+Onc sld tum dna&rna 437 gen
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+46 of 57
+10/7/25, 10:24
+Code
+Description
+0392U
+Rx metab gen-rx ia 16 genes
+0396U
+Ob preimpltj tst 300000 dna
+0398U
+Gi baret esph dna mthyln aly
+0400U
+Ob xpnd car scr 145 genes
+0403U
+Onc prst8 mrna 18 gen dre ur
+0405U
+Onc pncrtc 59 mthltn blk mrk
+0409U
+Onc sld tum dna 80 & rna 36
+0410U
+Onc pncrtc dna whl gn seq 5-
+0411U
+Psyc genom alys pnl 15 gen
+0413U
+Onc hl neo opt gen mapg dna
+0417U
+Rare ds alys 335 nuc genes
+0419U
+Nrpsyc gen seq vrnt aly 13
+CPT/HCPCS Modiﬁers
+Group 1 (1 Code)
+Group 1 Paragraph
+N/A
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+47 of 57
+10/7/25, 10:24
+Group 1 Codes
+Code
+Description
+59
+DISTINCT PROCEDURAL SERVICE: UNDER CERTAIN
+CIRCUMSTANCES, THE PHYSICIAN MAY NEED TO INDICATE THAT A
+PROCEDURE OR SERVICE WAS DISTINCT OR INDEPENDENT FROM
+OTHER SERVICES PERFORMED ON THE SAME DAY. MODIFIER -59 IS
+USED TO IDENTIFY PROCEDURES/SERVICES THAT ARE NOT
+NORMALLY REPORTED TOGETHER, BUT ARE APPROPRIATE UNDER
+THE CIRCUMSTANCES. THIS MAY REPRESENT A DIFFERENT
+SESSION OR PATIENT ENCOUNTER, DIFFERENT PROCEDURE OR
+SURGERY, DIFFERNET SITE OR ORGAN SYSTEM, SEPARATE
+INCISION/EXCISION, SEPARATE LESION, OR SEPARATE INJURY (OR
+AREA OF INJURY IN EXTENSIVE INJURIES) NOT ORDINARILY
+ENCOUNTERED OR PERFORMED ON THE SAME DAY BY THE SAME
+PHYSICIAN. HOWEVER, WHAN ANOTHER ALREADY ESTABLISHED
+MODIFIER IS APPROPRIATE IT SHOULD BE USED RATHER THAN
+MODIFIER -59. ONLY IF NO MORE DESCRIPTIVE MODIFIER IS
+AVAILABLE, AND THE USE OF MODIFIER -59 BEST EXPLAINS THE
+CIRCUMSTANCES, SHOULD MODIFIER -59 BE USED. MODIFIER
+CODE 09959 MAY BE USED AS AN ALTERNATE TO MODIFIER -59.
+ICD-10-CM Codes that Support Medical Necessity
+Group 1
+Group 1 Paragraph
+It is the provider’s responsibility to select codes carried out to the highest level of
+speciﬁcity and selected from the ICD-10-CM code book appropriate to the year in
+which the service is rendered for the claim(s) submitted.
+Group 1 Codes
+N/A
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+48 of 57
+10/7/25, 10:24
+ICD-10-CM Codes that DO NOT Support Medical Necessity
+N/A
+ICD-10-PCS Codes
+N/A
+Additional ICD-10 Information
+N/A
+Bill Type Codes
+Contractors may specify Bill Types to help providers identify those Bill Types
+typically used to report this service. Absence of a Bill Type does not guarantee that
+the article does not apply to that Bill Type. Complete absence of all Bill Types
+indicates that coverage is not inﬂuenced by Bill Type and the article should be
+assumed to apply equally to all claims.
+N/A
+Revenue Codes
+Contractors may specify Revenue Codes to help providers identify those Revenue
+Codes typically used to report this service. In most instances Revenue Codes are
+purely advisory. Unless speciﬁed in the article, services reported under other
+Revenue Codes are equally subject to this coverage determination. Complete
+absence of all Revenue Codes indicates that coverage is not inﬂuenced by Revenue
+Code and the article should be assumed to apply equally to all Revenue Codes.
+N/A
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+49 of 57
+10/7/25, 10:24
+Other Coding Information
+N/A
+Revision History Information
+Revision
+History
+Date
+Revision
+History
+Number
+Revision History Explanation
+10/01/2023
+R12
+Article revised and published on 10/05/2023 effective
+for dates of service on and after 10/01/2023 in
+response to the October Quarterly HCPCS/CPT Code
+Updates. The following codes have been added to
+‘Group 1 codes’: 0403U, 0405U, 0409U, 0410U, 0411U,
+0413U, 0417U, 0419U. The following codes in ‘Group 1
+codes’ have a descriptor change: 0269U, 0271U,
+0272U, 0274U, 0277U, 0278U. The following codes in
+'Group 1 codes' have been deleted and therefore
+removed from the article: 0386U, 0397U. A statement
+has been added to Article Text section for additional
+instruction.
+07/01/2023
+R11
+Article revised and published on 07/20/2023 effective
+for dates of service on and after 07/01/2023 in
+response to the July Quarterly HCPCS/CPT Code
+Updates. The following CPT codes have been added to
+the Article: 0388U, 0389U, 0391U, 0392U, 0396U,
+0397U, 0398U, 0400U for section ‘Group 1 codes.’ The
+following CPT code has been deleted and therefore
+has been removed from the article: 0053U removed
+from section ‘Group 1 codes.’
+06/11/2023
+R10
+Article revised and published on 06/08/2023 effective
+for dates of service on and after 06/11/2023. The
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+50 of 57
+10/7/25, 10:24
+Revision
+History
+Date
+Revision
+History
+Number
+Revision History Explanation
+following CPT code has been removed from the Article:
+0105U from the ‘CPT/HCPCS Codes’ section for ‘Group
+1 codes’ because it is not a molecular test.
+06/11/2023
+R9
+Article revised and published on 04/27/2023 effective
+for dates of service on and after 06/11/2023. CPT
+codes 81400, 81401 and 81402 were added under the
+Coding Guidance section under the following
+paragraph: “If billing utilizing the following Tier 2
+codes, additional information will be required to
+identify the speciﬁc analyte/gene(s) tested in the
+narrative of the claim or the claim will be rejected:”
+Language was added under the Multianalyte Assays
+with Algorithmic Analyses (MAAAs) and Proprietary
+Laboratory Analyses (PLA) section providing
+instruction on billing CPT code 81599.
+04/01/2023
+R8
+Article revised and published on 04/20/2023 effective
+for dates of service on and after 04/01/2023 to reﬂect
+the April CPT/HCPCS Quarterly Update. The following
+CPT codes have been added to the Article: 0364U,
+0368U, 0369U, 0370U, 0371U, 0372U, 0373U, 0374U,
+0378U, 0379U, 0380U, 0386U to ‘Group 1’. The
+following current CPT codes have been added to the
+Article: 0017M, 0306U, 0307U, 0317U, 0326U, 0329U,
+0331U, 0334U, 0339U, 0343U to ‘Group 1’. The
+following CPT code has had either a long descriptor or
+short descriptor change. Depending on which
+descriptor was changed there may not be any change
+in how the code displays: 0022U in ‘Group 1 Codes’.
+01/01/2023
+R7
+Article revised and published on 01/26/2023 effective
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+51 of 57
+10/7/25, 10:24
+Revision
+History
+Date
+Revision
+History
+Number
+Revision History Explanation
+for dates of service on and after 01/01/2023 to reﬂect
+the Annual HCPCS/CPT Code Updates. The following
+CPT codes have been added to the Article: 0355U,
+0356U, 0362U, 0363U, 81418, 81441, 81449, 81451,
+and 81456 to ‘Group 1 codes’. The following CPT
+codes have had either a long descriptor or short
+descriptor change. Depending on which descriptor was
+changed there may not be any change in how the code
+displays: 81330, 81445, 81450, 81455, and 0069U in
+‘Group 1 Codes’. 
+10/01/2022
+R6
+Article revised and published on 10/06/2022 effective
+for dates of service on and after 10/01/2022 to reﬂect
+the October Quarterly HCPCS/CPT Code updates. The
+following CPT codes have been added to the Article:
+0332U, 0333U, 0335U, 0336U, 0340U, and 0341U to
+‘Group 1 codes”. The following CPT codes have been
+deleted and therefore have been removed from the
+article: 0012U, 0013U, 0014U, and 0056U from the
+‘Group 1 Codes’. The following CPT codes have had
+either a long descriptor or short descriptor change.
+Depending on which descriptor was changed there
+may not be any change in how the code displays:
+0229U, 0262U, 0276U, 0296U.
+07/01/2022
+R5
+Article revised and published on 08/04/2022 effective
+for dates of service on and after 07/01/2022 to reﬂect
+the July quarterly CPT/HCPCS code updates. The
+following CPT codes had short description changes.
+Depending on which description is used in this article,
+there may not be any change in how the code displays
+in the document: 0016M and 0229U.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+52 of 57
+10/7/25, 10:24
+Revision
+History
+Date
+Revision
+History
+Number
+Revision History Explanation
+04/01/2022
+R4
+Article revised and published on 05/05/2022 effective
+for dates of service on and after 04/01/2022 to reﬂect
+the April Quarterly CPT/HCPCS Update. The following
+CPT codes have been added to the ‘CPT/HCPCS
+Codes’ section for ‘Group 1 Codes’: 0313U, 0314U and
+0315U. The following CPT code has been deleted from
+the ‘CPT/HCPCS Codes’ section for ‘Group 1 Codes’:
+0097U. For the following CPT code either the short
+description and/or the long description was changed.
+Depending on which description is used in this article,
+there may not be any change in how the code displays:
+0022U in the ‘CPT/HCPCS Codes’ section for ‘Group 1
+Codes’.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+53 of 57
+10/7/25, 10:24
+Revision
+History
+Date
+Revision
+History
+Number
+Revision History Explanation
+01/01/2022
+R3
+Article revised and published on 01/20/2022 effective
+for dates of service on and after 01/01/2022 to reﬂect
+the Annual HCPCS/CPT Code Updates. The following
+CPT codes have been added to the ‘CPT/HCPCS
+Codes’ section for ‘Group 1 Codes’: 81349, 81523,
+0285U, 0286U, 0287U, 0288U, 0289U, 0290U, 0291U,
+0292U, 0293U, 0294U, 0296U, 0297U, 0298U, 0299U,
+0300U, 0301U, and 0302U. The following CPT code
+has been deleted from the ‘CPT/HCPCS Codes’ section
+for ‘Group 1 Codes’ and therefore has been removed
+from the article: 0208U. For the following CPT codes
+either the short description and/or the long description
+was changed. Depending on which description is used
+in this article, there may not be any change in how the
+code displays: 0016M, 0090U, 0154U, 0155U, 0177U,
+0180U, 0193U, 0200U, 0205U, 0216U, 0221U, 0244U,
+0258U, 0262U, 0265U, 0266U, 0276U, 81194, 81228,
+81229, and 81405 in the ‘CPT/HCPCS Codes’ section
+for ‘Group 1 Codes’.
+12/30/2021
+R2
+Article revised and published on 12/30/2021.
+Documentation requirement #5 has been revised.
+Information regarding the requirement for a
+relationship between the ordering/referring practitioner
+and the patient has been added to the text of the
+article and a separate documentation requirement, #6,
+was created to address using the test results in the
+management of the patient. The following CPT codes
+have been removed from the Group 1 CPT Codes:
+0115U, 0151U, 0202U, 0223U, 0225U, 0240U, and
+0241U.
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+54 of 57
+10/7/25, 10:24
+Revision
+History
+Date
+Revision
+History
+Number
+Revision History Explanation
+11/08/2021
+R1
+Article revised and published on November 4, 2021
+effective for dates of service on and after November 8,
+2021. The instructions for reporting CPT code 81479
+have been clariﬁed, multiple CPT codes that did not
+represent molecular pathology services have been
+deleted and the following CPT codes have been added
+in response to the October 2021 Quarterly HCPCS
+Update: 0258U, 0260U, 0262U, 0264U, 0265U, 0266U,
+0267U, 0268U, 0269U, 0270U, 0271U, 0272U, 0273U,
+0274U, 0276U, 0277U, 0278U, and 0282U.
+Associated Documents
+Related Local Coverage Documents
+Articles
+A52986 - Billing and Coding: Biomarkers for Oncology  (MCD)
+A56541 - Billing and Coding: Biomarkers Overview  (MCD)
+DA59125 - Billing and Coding: Genetic Testing for Oncology  (MCD)
+DA59125 - Billing and Coding: Genetic Testing for Oncology 
+LCDs
+L35062 - Biomarkers Overview  (MCD)
+DL39365 - Genetic Testing for Oncology  (MCD)
+DL39365 - Genetic Testing for Oncology 
+Related National Coverage Documents
+This Article version has no Related National Coverage Documents.
+Statutory Requirements URLs
+N/A
+Rules and Regulations URLs
+N/A
+CMS Manual Explanations URLs
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+55 of 57
+10/7/25, 10:24
+N/A
+Other URLs
+N/A
+Public Versions
+Updated On
+Effective Dates
+Status
+Some newer versions have not been archived. Please visit the MCD Site  to retrieve
+them.
+07/12/2024
+07/01/2024 - 09/30/2024
+Superseded
+View
+03/27/2024
+04/01/2024 - 06/30/2024
+Superseded
+View
+01/19/2024
+01/01/2024 - 03/31/2024
+Superseded
+View
+09/29/2023
+10/01/2023 - 12/31/2023
+Superseded
+You are here
+07/14/2023
+07/01/2023 - 09/30/2023
+Superseded
+View
+06/02/2023
+06/11/2023 - 06/30/2023
+Superseded
+View
+04/21/2023
+06/11/2023 - N/A
+Superseded
+View
+04/14/2023
+04/01/2023 - 06/10/2023
+Superseded
+View
+01/20/2023
+01/01/2023 - 03/31/2023
+Superseded
+View
+09/30/2022
+10/01/2022 - 12/31/2022
+Superseded
+View
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+56 of 57
+10/7/25, 10:24
+Updated On
+Effective Dates
+Status
+07/29/2022
+07/01/2022 - 09/30/2022
+Superseded
+View
+04/29/2022
+04/01/2022 - 06/30/2022
+Superseded
+View
+01/14/2022
+01/01/2022 - 03/31/2022
+Superseded
+View
+12/23/2021
+12/30/2021 - 12/31/2021
+Superseded
+View
+10/29/2021
+11/08/2021 - 12/29/2021
+Superseded
+View
+10/01/2021
+11/08/2021 - N/A
+Superseded
+View
+Additional Information
+Keywords
+N/A
+Article - Billing and Coding: Molecular Pathology and Geneti...
+https://localcoverage.cms.gov/mcd_archive/view/article.aspx...
+57 of 57
+10/7/25, 10:24

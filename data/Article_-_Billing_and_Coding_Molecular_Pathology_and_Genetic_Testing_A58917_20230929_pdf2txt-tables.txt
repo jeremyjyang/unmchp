@@ -1,0 +1,895 @@
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	04111 -
+MAC A	J - H	Colorado
+Novitas
+Solutions, Inc.	A and B
+MAC	04112 -
+MAC B	J - H	Colorado
+Novitas
+Solutions, Inc.	A and B
+MAC	04211 -
+MAC A	J - H	New Mexico
+Novitas
+Solutions, Inc.	A and B
+MAC	04212 -
+MAC B	J - H	New Mexico
+Novitas
+Solutions, Inc.	A and B
+MAC	04311 -
+MAC A	J - H	Oklahoma
+Novitas
+Solutions, Inc.	A and B
+MAC	04312 -
+MAC B	J - H	Oklahoma
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	04411 -
+MAC A	J - H	Texas
+Novitas
+Solutions, Inc.	A and B
+MAC	04412 -
+MAC B	J - H	Texas
+Novitas
+Solutions, Inc.	A and B
+MAC	04911 -
+MAC A	J - H	Colorado
+New Mexico
+Oklahoma
+Texas
+Novitas
+Solutions, Inc.	A and B
+MAC	07101 -
+MAC A	J - H	Arkansas
+Novitas
+Solutions, Inc.	A and B
+MAC	07102 -
+MAC B	J - H	Arkansas
+Novitas
+Solutions, Inc.	A and B
+MAC	07201 -
+MAC A	J - H	Louisiana
+Novitas
+Solutions, Inc.	A and B
+MAC	07202 -
+MAC B	J - H	Louisiana
+Novitas
+Solutions, Inc.	A and B
+MAC	07301 -
+MAC A	J - H	Mississippi
+Novitas
+Solutions, Inc.	A and B
+MAC	07302 -
+MAC B	J - H	Mississippi
+Novitas
+Solutions, Inc.	A and B
+MAC	12101 -
+MAC A	J - L	Delaware
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	12102 -
+MAC B	J - L	Delaware
+Novitas
+Solutions, Inc.	A and B
+MAC	12201 -
+MAC A	J - L	District of
+Columbia
+Novitas
+Solutions, Inc.	A and B
+MAC	12202 -
+MAC B	J - L	District of
+Columbia
+Novitas
+Solutions, Inc.	A and B
+MAC	12301 -
+MAC A	J - L	Maryland
+Novitas
+Solutions, Inc.	A and B
+MAC	12302 -
+MAC B	J - L	Maryland
+Novitas
+Solutions, Inc.	A and B
+MAC	12401 -
+MAC A	J - L	New Jersey
+Novitas
+Solutions, Inc.	A and B
+MAC	12402 -
+MAC B	J - L	New Jersey
+Novitas
+Solutions, Inc.	A and B
+MAC	12501 -
+MAC A	J - L	Pennsylvania
+Novitas
+Solutions, Inc.	A and B
+MAC	12502 -
+MAC B	J - L	Pennsylvania
+Contractor
+Name	Contract
+Type	Contract
+Number	Jurisdiction	States
+Novitas
+Solutions, Inc.	A and B
+MAC	12901 -
+MAC A	J - L	Delaware
+District of
+Columbia
+Maryland
+New Jersey
+Pennsylvania
+	Code	Description	
+	81105	Hpa-1 genotyping	
+	81106	Hpa-2 genotyping	
+	81107	Hpa-3 genotyping	
+	81108	Hpa-4 genotyping	
+	81109	Hpa-5 genotyping	
+	81110	Hpa-6 genotyping	
+	81111	Hpa-9 genotyping	
+	81112	Hpa-15 genotyping	
+	81120	Idh1 common variants	
+	81121	Idh2 common variants	
+	81161	Dmd dup/delet analysis	
+	81162	Brca1&2 gen full seq dup/del	
+	81163	Brca1&2 gene full seq alys	
+	81164	Brca1&2 gen ful dup/del alys	
+	81165	Brca1 gene full seq alys	
+	81166	Brca1 gene full dup/del alys	
+Code	Description
+81167	Brca2 gene full dup/del alys
+81168	Ccnd1/igh translocation alys
+81170	Abl1 gene
+81171	Aff2 gene detc abnor alleles
+81172	Aff2 gene charac alleles
+81173	Ar gene full gene sequence
+81174	Ar gene known famil variant
+81175	Asxl1 full gene sequence
+81176	Asxl1 gene target seq alys
+81177	Atn1 gene detc abnor alleles
+81178	Atxn1 gene detc abnor allele
+81179	Atxn2 gene detc abnor allele
+81180	Atxn3 gene detc abnor allele
+81181	Atxn7 gene detc abnor allele
+81182	Atxn8os gen detc abnor allel
+81183	Atxn10 gene detc abnor allel
+Code	Description
+81184	Cacna1a gen detc abnor allel
+81185	Cacna1a gene full gene seq
+81186	Cacna1a gen known famil vrnt
+81187	Cnbp gene detc abnor allele
+81188	Cstb gene detc abnor allele
+81189	Cstb gene full gene sequence
+81190	Cstb gene known famil vrnt
+81191	Ntrk1 translocation analysis
+81192	Ntrk2 translocation analysis
+81193	Ntrk3 translocation analysis
+81194	Ntrk translocation analysis
+81200	Aspa gene
+81201	Apc gene full sequence
+81202	Apc gene known fam variants
+81203	Apc gene dup/delet variants
+81204	Ar gene charac alleles
+Code	Description
+81205	Bckdhb gene
+81206	Bcr/abl1 gene major bp
+81207	Bcr/abl1 gene minor bp
+81208	Bcr/abl1 gene other bp
+81209	Blm gene
+81210	Braf gene
+81212	Brca1&2 185&5385&6174 vrnt
+81215	Brca1 gene known famil vrnt
+81216	Brca2 gene full seq alys
+81217	Brca2 gene known famil vrnt
+81218	Cebpa gene full sequence
+81219	Calr gene com variants
+81220	Cftr gene com variants
+81221	Cftr gene known fam variants
+81222	Cftr gene dup/delet variants
+81223	Cftr gene full sequence
+Code	Description
+81224	Cftr gene intron poly t
+81225	Cyp2c19 gene com variants
+81226	Cyp2d6 gene com variants
+81227	Cyp2c9 gene com variants
+81228	Cytog alys chrml abnr cgh
+81229	Cytog alys chrml abnr snpcgh
+81230	Cyp3a4 gene common variants
+81231	Cyp3a5 gene common variants
+81232	Dpyd gene common variants
+81233	Btk gene common variants
+81234	Dmpk gene detc abnor allele
+81235	Egfr gene com variants
+81236	Ezh2 gene full gene sequence
+81237	Ezh2 gene common variants
+81238	F9 full gene sequence
+81239	Dmpk gene charac alleles
+Code	Description
+81240	F2 gene
+81241	F5 gene
+81242	Fancc gene
+81243	Fmr1 gene detection
+81244	Fmr1 gene charac alleles
+81245	Flt3 gene
+81246	Flt3 gene analysis
+81247	G6pd gene alys cmn variant
+81248	G6pd known familial variant
+81249	G6pd full gene sequence
+81250	G6pc gene
+81251	Gba gene
+81252	Gjb2 gene full sequence
+81253	Gjb2 gene known fam variants
+81254	Gjb6 gene com variants
+81255	Hexa gene
+Code	Description
+81256	Hfe gene
+81257	Hba1/hba2 gene
+81258	Hba1/hba2 gene fam vrnt
+81259	Hba1/hba2 full gene sequence
+81260	Ikbkap gene
+81261	Igh gene rearrange amp meth
+81262	Igh gene rearrang dir probe
+81263	Igh vari regional mutation
+81264	Igk rearrangeabn clonal pop
+81265	Str markers specimen anal
+81266	Str markers spec anal addl
+81267	Chimerism anal no cell selec
+81268	Chimerism anal w/cell select
+81269	Hba1/hba2 gene dup/del vrnts
+81270	Jak2 gene
+81271	Htt gene detc abnor alleles
+Code	Description
+81272	Kit gene targeted seq analys
+81273	Kit gene analys d816 variant
+81274	Htt gene charac alleles
+81275	Kras gene variants exon 2
+81276	Kras gene addl variants
+81277	Cytogenomic neo microra alys
+81278	Igh@/bcl2 translocation alys
+81279	Jak2 gene trgt sequence alys
+81283	Ifnl3 gene
+81284	Fxn gene detc abnor alleles
+81285	Fxn gene charac alleles
+81286	Fxn gene full gene sequence
+81287	Mgmt gene prmtr mthyltn alys
+81288	Mlh1 gene
+81289	Fxn gene known famil variant
+81290	Mcoln1 gene
+Code	Description
+81291	Mthfr gene
+81292	Mlh1 gene full seq
+81293	Mlh1 gene known variants
+81294	Mlh1 gene dup/delete variant
+81295	Msh2 gene full seq
+81296	Msh2 gene known variants
+81297	Msh2 gene dup/delete variant
+81298	Msh6 gene full seq
+81299	Msh6 gene known variants
+81300	Msh6 gene dup/delete variant
+81301	Microsatellite instability
+81302	Mecp2 gene full seq
+81303	Mecp2 gene known variant
+81304	Mecp2 gene dup/delet variant
+81305	Myd88 gene p.leu265pro vrnt
+81306	Nudt15 gene common variants
+Code	Description
+81307	Palb2 gene full gene seq
+81308	Palb2 gene known famil vrnt
+81309	Pik3ca gene trgt seq alys
+81310	Npm1 gene
+81311	Nras gene variants exon 2&3
+81312	Pabpn1 gene detc abnor allel
+81313	Pca3/klk3 antigen
+81314	Pdgfra gene
+81315	Pml/raralpha com breakpoints
+81316	Pml/raralpha 1 breakpoint
+81317	Pms2 gene full seq analysis
+81318	Pms2 known familial variants
+81319	Pms2 gene dup/delet variants
+81320	Plcg2 gene common variants
+81321	Pten gene full sequence
+81322	Pten gene known fam variant
+Code	Description
+81323	Pten gene dup/delet variant
+81324	Pmp22 gene dup/delet
+81325	Pmp22 gene full sequence
+81326	Pmp22 gene known fam variant
+81327	Sept9 gen prmtr mthyltn alys
+81328	Slco1b1 gene com variants
+81329	Smn1 gene dos/deletion alys
+81330	Smpd1 gene common variants
+81331	Snrpn/ube3a gene
+81332	Serpina1 gene
+81333	Tgfbi gene common variants
+81334	Runx1 gene targeted seq alys
+81335	Tpmt gene com variants
+81336	Smn1 gene full gene sequence
+81337	Smn1 gen nown famil seq vrnt
+81338	Mpl gene common variants
+Code	Description
+81339	Mpl gene seq alys exon 10
+81340	Trb@ gene rearrange amplify
+81341	Trb@ gene rearrange dirprobe
+81342	Trg gene rearrangement anal
+81343	Ppp2r2b gen detc abnor allel
+81344	Tbp gene detc abnor alleles
+81345	Tert gene targeted seq alys
+81346	Tyms gene com variants
+81347	Sf3b1 gene common variants
+81348	Srsf2 gene common variants
+81349	Cytog alys chrml abnr lw-ps
+81350	Ugt1a1 gene common variants
+81351	Tp53 gene full gene sequence
+81352	Tp53 gene trgt sequence alys
+81353	Tp53 gene known famil vrnt
+81355	Vkorc1 gene
+Code	Description
+81357	U2af1 gene common variants
+81360	Zrsr2 gene common variants
+81361	Hbb gene com variants
+81362	Hbb gene known fam variant
+81363	Hbb gene dup/del variants
+81364	Hbb full gene sequence
+81370	Hla i & ii typing lr
+81371	Hla i & ii type verify lr
+81372	Hla i typing complete lr
+81373	Hla i typing 1 locus lr
+81374	Hla i typing 1 antigen lr
+81375	Hla ii typing ag equiv lr
+81376	Hla ii typing 1 locus lr
+81377	Hla ii type 1 ag equiv lr
+81378	Hla i & ii typing hr
+81379	Hla i typing complete hr
+Code	Description
+81380	Hla i typing 1 locus hr
+81381	Hla i typing 1 allele hr
+81382	Hla ii typing 1 loc hr
+81383	Hla ii typing 1 allele hr
+81400	Mopath procedure level 1
+81401	Mopath procedure level 2
+81402	Mopath procedure level 3
+81403	Mopath procedure level 4
+81404	Mopath procedure level 5
+81405	Mopath procedure level 6
+81406	Mopath procedure level 7
+81407	Mopath procedure level 8
+81408	Mopath procedure level 9
+81410	Aortic dysfunction/dilation
+81411	Aortic dysfunction/dilation
+81412	Ashkenazi jewish assoc dis
+Code	Description
+81413	Car ion chnnlpath inc 10 gns
+81414	Car ion chnnlpath inc 2 gns
+81415	Exome sequence analysis
+81416	Exome sequence analysis
+81417	Exome re-evaluation
+81418	Rx metab gen seq alys pnl 6
+81419	Epilepsy gen seq alys panel
+81420	Fetal chrmoml aneuploidy
+81422	Fetal chrmoml microdeltj
+81425	Genome sequence analysis
+81426	Genome sequence analysis
+81427	Genome re-evaluation
+81430	Hearing loss sequence analys
+81431	Hearing loss dup/del analys
+81432	Hrdtry brst ca-rlatd dsordrs
+81433	Hrdtry brst ca-rlatd dsordrs
+Code	Description
+81434	Hereditary retinal disorders
+81435	Hereditary colon ca dsordrs
+81436	Hereditary colon ca dsordrs
+81437	Heredtry nurondcrn tum dsrdr
+81438	Heredtry nurondcrn tum dsrdr
+81439	Hrdtry cardmypy gene panel
+81440	Mitochondrial gene
+81441	Ibmfs seq alys pnl 30 genes
+81442	Noonan spectrum disorders
+81443	Genetic tstg severe inh cond
+81445	Tgsap so neo 5-50dna/dna&rna
+81448	Hrdtry perph neurphy panel
+81449	Tgsap so neo 5-50 rna alys
+81450	Tgsap hl neo 5-50dna/dna&rna
+81451	Tgsap hl neo 5-50 rna alys
+81455	Tgsap so/hl 51/> dna/dna&rna
+Code	Description
+81456	Tgsap so/hl 51/> rna alys
+81460	Whole mitochondrial genome
+81465	Whole mitochondrial genome
+81470	X-linked intellectual dblt
+81471	X-linked intellectual dblt
+81479	Unlisted molecular pathology
+81490	Autoimmune rheumatoid arthr
+81493	Cor artery disease mrna
+81500	Onco (ovar) two proteins
+81503	Onco (ovar) five proteins
+81504	Oncology tissue of origin
+81506	Endo assay seven anal
+81507	Fetal aneuploidy trisom risk
+81508	Ftl cgen abnor two proteins
+81509	Ftl cgen abnor 3 proteins
+81510	Ftl cgen abnor three anal
+Code	Description
+81511	Ftl cgen abnor four anal
+81512	Ftl cgen abnor five anal
+81513	Nfct ds bv rna vag flu alg
+81514	Nfct ds bv&vaginitis dna alg
+81518	Onc brst mrna 11 genes
+81519	Oncology breast mrna
+81520	Onc breast mrna 58 genes
+81521	Onc breast mrna 70 genes
+81522	Onc breast mrna 12 genes
+81523	Onc brst mrna 70 cnt 31 gene
+81525	Oncology colon mrna
+81528	Oncology colorectal scr
+81529	Onc cutan mlnma mrna 31 gene
+81535	Oncology gynecologic
+81536	Oncology gynecologic
+81538	Oncology lung
+Code	Description
+81539	Oncology prostate prob score
+81540	Oncology tum unknown origin
+81541	Onc prostate mrna 46 genes
+81542	Onc prostate mrna 22 cnt gen
+81546	Onc thyr mrna 10,196 gen alg
+81551	Onc prostate 3 genes
+81552	Onc uveal mlnma mrna 15 gene
+81554	Pulm ds ipf mrna 190 gen alg
+81595	Cardiology hrt trnspl mrna
+81596	Nfct ds chrnc hcv 6 assays
+81599	Unlisted maaa
+G0452	Molecular pathology interpr
+0004M	Scoliosis dna alys
+0006M	Onc hep gene risk classifier
+0007M	Onc gastro 51 gene nomogram
+0011M	Onc prst8 ca mrna 12 gen alg
+Code	Description
+0012M	Onc mrna 5 gen rsk urthl ca
+0013M	Onc mrna 5 gen recr urthl ca
+0016M	Onc bladder mrna 219 gen alg
+0017M	Onc dlbcl mrna 20 genes alg
+0001U	Rbc dna hea 35 ag 11 bld grp
+0005U	Onco prst8 3 gene ur alg
+0007U	Rx test prsmv ur w/def conf
+0008U	Hpylori detcj abx rstnc dna
+0009U	Onc brst ca erbb2 amp/nonamp
+0010U	Nfct ds strn typ whl gen seq
+0016U	Onc hmtlmf neo rna bcr/abl1
+0017U	Onc hmtlmf neo jak2 mut dna
+0018U	Onc thyr 10 microrna seq alg
+0019U	Onc rna tiss predict alg
+0022U	Tgsap nsm lung neo dna&rna23
+0023U	Onc aml dna detcj/nondetcj
+Code	Description
+0026U	Onc thyr dna&mrna 112 genes
+0027U	Jak2 gene trgt seq alys
+0029U	Rx metab advrs trgt seq alys
+0030U	Rx metab warf trgt seq alys
+0031U	Cyp1a2 gene
+0032U	Comt gene
+0033U	Htr2a htr2c genes
+0034U	Tpmt nudt15 genes
+0036U	Xome tum & nml spec seq alys
+0037U	Trgt gen seq dna 324 genes
+0040U	Bcr/abl1 gene major bp quan
+0045U	Onc brst dux carc is 12 gene
+0046U	Flt3 gene itd variants quan
+0047U	Onc prst8 mrna 17 gene alg
+0048U	Onc sld org neo dna 468 gene
+0049U	Npm1 gene analysis quan
+Code	Description
+0050U	Trgt gen seq dna 194 genes
+0055U	Card hrt trnspl 96 dna seq
+0060U	Twn zyg gen seq alys chrms2
+0068U	Candida species pnl amp prb
+0069U	Onc clrct microrna mir-31-3p
+0070U	Cyp2d6 gen com&slct rar vrnt
+0071U	Cyp2d6 full gene sequence
+0072U	Cyp2d6 gen cyp2d6-2d7 hybrid
+0073U	Cyp2d6 gen cyp2d7-2d6 hybrid
+0074U	Cyp2d6 nonduplicated gene
+0075U	Cyp2d6 5' gene dup/mlt
+0076U	Cyp2d6 3' gene dup/mlt
+0078U	Pain mgt opi use gnotyp pnl
+0079U	Cmprtv dna alys mlt snps
+0084U	Rbc dna gnotyp 10 bld groups
+0086U	Nfct ds bact&fng org id 6+
+Code	Description
+0087U	Crd hrt trnspl mrna 1283 gen
+0088U	Trnsplj kdn algrft rej 1494
+0089U	Onc mlnma prame & linc00518
+0090U	Onc cutan mlnma mrna 23 gene
+0094U	Genome rapid sequence alys
+0096U	Hpv hi risk types male urine
+0101U	Hered colon ca do 15 genes
+0102U	Hered brst ca rltd do 17 gen
+0103U	Hered ova ca pnl 24 genes
+0109U	Id aspergillus dna 4 species
+0111U	Onc colon ca kras&nras alys
+0112U	Iadi 16s&18s rrna genes
+0113U	Onc prst8 pca3&tmprss2-erg
+0114U	Gi barretts esoph vim&ccna1
+0118U	Trnsplj don-drv cll-fr dna
+0120U	Onc b cll lymphm mrna 58 gen
+Code	Description
+0129U	Hered brst ca rltd do panel
+0130U	Hered colon ca do mrna pnl
+0131U	Hered brst ca rltd do pnl 13
+0132U	Hered ova ca rltd do pnl 17
+0133U	Hered prst8 ca rltd do 11
+0134U	Hered pan ca mrna pnl 18 gen
+0135U	Hered gyn ca mrna pnl 12 gen
+0136U	Atm mrna seq alys
+0137U	Palb2 mrna seq alys
+0138U	Brca1 brca2 mrna seq alys
+0140U	Nfct ds fungi dna 15 trgt
+0141U	Nfct ds bact&fng gram pos
+0142U	Nfct ds bact&fng gram neg
+0152U	Nfct ds dna untrgt ngnrj seq
+0153U	Onc breast mrna 101 genes
+0154U	Onc urthl ca rna fgfr3 gene
+Code	Description
+0155U	Onc brst ca dna pik3ca gene
+0156U	Copy number sequence alys
+0157U	Apc mrna seq alys
+0158U	Mlh1 mrna seq alys
+0159U	Msh2 mrna seq alys
+0160U	Msh6 mrna seq alys
+0161U	Pms2 mrna seq alys
+0162U	Hered colon ca trgt mrna pnl
+0169U	Nudt15&tpmt gene com vrnt
+0170U	Neuro asd rna next gen seq
+0171U	Trgt gen seq alys pnl dna 23
+0172U	Onc sld tum alys brca1 brca2
+0173U	Psyc gen alys panel 14 genes
+0175U	Psyc gen alys panel 15 genes
+0177U	Onc brst ca dna pik3ca 11
+0179U	Onc nonsm cll lng ca alys 23
+Code	Description
+0180U	Abo gnotyp abo 7 exons
+0181U	Co gnotyp aqp1 exon 1
+0182U	Crom gnotyp cd55 exons 1-10
+0183U	Di gnotyp slc4a1 exon 19
+0184U	Do gnotyp art4 exon 2
+0185U	Fut1 gnotyp fut1 exon 4
+0186U	Fut2 gnotyp fut2 exon 2
+0187U	Fy gnotyp ackr1 exons 1-2
+0188U	Ge gnotyp gypc exons 1-4
+0189U	Gypa gnotyp ntrns 1 5 exon 2
+0190U	Gypb gnotyp ntrns 1 5 seux 3
+0191U	In gnotyp cd44 exons 2 3 6
+0192U	Jk gnotyp slc14a1 exon 9
+0193U	Jr gnotyp abcg2 exons 2-26
+0194U	Kel gnotyp kel exon 8
+0195U	Klf1 targeted sequencing
+Code	Description
+0196U	Lu gnotyp bcam exon 3
+0197U	Lw gnotyp icam4 exon 1
+0198U	Rhd&rhce gntyp rhd1-10&rhce5
+0199U	Sc gnotyp ermap exons 4 12
+0200U	Xk gnotyp xk exons 1-3
+0201U	Yt gnotyp ache exon 2
+0203U	Ai ibd mrna xprsn prfl 17
+0204U	Onc thyr mrna xprsn alys 593
+0205U	Oph amd alys 3 gene variants
+0209U	Cytog const alys interrog
+0211U	Onc pan-tum dna&rna gnrj seq
+0212U	Rare ds gen dna alys proband
+0213U	Rare ds gen dna alys ea comp
+0214U	Rare ds xom dna alys proband
+0215U	Rare ds xom dna alys ea comp
+0216U	Neuro inh ataxia dna 12 com
+Code	Description
+0217U	Neuro inh ataxia dna 51 gene
+0218U	Neuro musc dys dmd seq alys
+0219U	Nfct agt hiv gnrj seq alys
+0221U	Abo gnotyp next gnrj seq abo
+0222U	Rhd&rhce gntyp next gnrj seq
+0227U	Rx asy prsmv 30+rx/metablt
+0229U	Bcat1&ikzf1 prmtr mthyln aly
+0230U	Ar full sequence analysis
+0231U	Cacna1a full gene analysis
+0232U	Cstb full gene analysis
+0233U	Fxn gene analysis
+0234U	Mecp2 full gene analysis
+0235U	Pten full gene analysis
+0236U	Smn1&smn2 full gene analysis
+0237U	Car ion chnlpthy gen seq pnl
+0238U	Onc lnch syn gen dna seq aly
+Code	Description
+0239U	Trgt gen seq alys pnl 311+
+0242U	Trgt gen seq alys pnl 55-74
+0244U	Onc solid orgn dna 257 genes
+0245U	Onc thyr mut alys 10 gen&37
+0246U	Rbc dna gnotyp 16 bld groups
+0250U	Onc sld org neo dna 505 gene
+0252U	Ftl aneuploidy str alys dna
+0253U	Rprdtve med rna gen prfl 238
+0254U	Reprdtve med alys 24 chrmsm
+0258U	Ai psor mrna 50-100 gen alg
+0260U	Rare ds id opt genome mapg
+0262U	Onc sld tum rt-pcr 7 gen
+0264U	Rare ds id opt genome mapg
+0265U	Rar do whl gn&mtcdrl dna als
+0266U	Unxpl cnst hrtbl do gn xprsn
+0267U	Rare do id opt gen mapg&seq
+Code	Description
+0268U	Hem ahus gen seq alys 15 gen
+0269U	Hem aut dm cgen trmbctpna 22
+0270U	Hem cgen coagj do 20 genes
+0271U	Hem cgen neutropenia 24 gen
+0272U	Hem genetic bld do 60 genes
+0273U	Hem gen hyprfibrnlysis 8 gen
+0274U	Hem gen pltlt do 62 genes
+0276U	Hem inh thrombocytopenia 42
+0277U	Hem gen pltlt funcj do 40
+0278U	Hem gen thrombosis 14 genes
+0282U	Rbc dna gntyp 12 bld grp gen
+0285U	Onc rsps radj cll fr dna tox
+0286U	Cep72 nudt15&tpmt gene alys
+0287U	Onc thyr dna&mrna 112 genes
+0288U	Onc lung mrna quan pcr 11&3
+0289U	Neuro alzheimer mrna 24 gen
+Code	Description
+0290U	Pain mgmt mrna gen xprsn 36
+0291U	Psyc mood do mrna 144 genes
+0292U	Psyc strs do mrna 72 genes
+0293U	Psyc suicidal idea mrna 54
+0294U	Lngvty&mrtlty rsk mrna 18gen
+0296U	Onc orl&/orop ca 20 mlc feat
+0297U	Onc pan tum whl gen seq dna
+0298U	Onc pan tum whl trns seq rna
+0299U	Onc pan tum whl gen opt mapg
+0300U	Onc pan tum whl gen seq&opt
+0301U	Iadna bartonella ddpcr
+0302U	Iadna brtnla ddpcr flwg liq
+0306U	Onc mrd nxt-gnrj alys 1st
+0307U	Onc mrd nxt-gnrj alys sbsq
+0313U	Onc pncrs dna&mrna seq 74
+0314U	Onc cutan mlnma mrna 35 gene
+Code	Description
+0315U	Onc cutan sq cll ca mrna 40
+0317U	Onc lung ca 4-prb fish assay
+0326U	Trgt gen seq alys pnl 83+
+0329U	Onc neo xome&trns seq alys
+0331U	Onc hl neo opt gen mapping
+0332U	Onc pan tum gen prflg 8 dna
+0333U	Onc lvr surveilanc hcc cfdna
+0334U	Onc sld orgn tgsa dna 84/+
+0335U	Rare ds whl gen seq feta
+0336U	Rare ds whl gen seq bld/slv
+0339U	Onc prst8 mrna hoxc6 & dlx1
+0340U	Onc pan ca alys mrd plasma
+0341U	Ftl aneup dna seq cmpr alys
+0343U	Onc prst8 xom aly 442 sncrna
+0355U	Apol1 risk variants
+0356U	Onc orop 17 dna ddpcr alg
+Code	Description
+0362U	Onc pap thyr ca rna 82&10
+0363U	Onc urthl mrna 5 gen alg
+0364U	Onc hl neo gen seq alys alg
+0368U	Onc clrct ca mut&mthyltn mrk
+0369U	Iadna gi pthgn 31 org&21 arg
+0370U	Iadna surg wnd pthgn 34&21
+0371U	Iadna gu pthgn semiq dna16&1
+0372U	Nfct ds gu pthgn arg detcj
+0373U	Iadna rsp tr nfct 17 8 13&16
+0374U	Iadna gu pthgn 21 org&21arg
+0378U	Rfc1 repeat xpnsj vrnt alys
+0379U	Tgsap sl or neo dna523&rna55
+0380U	Rx metb advrs trgt sq aly 20
+0388U	Onc nonsm cll lng ca 37 gen
+0389U	Ped fbrl kd ifi27&mcemp1 rna
+0391U	Onc sld tum dna&rna 437 gen
+Code	Description
+0392U	Rx metab gen-rx ia 16 genes
+0396U	Ob preimpltj tst 300000 dna
+0398U	Gi baret esph dna mthyln aly
+0400U	Ob xpnd car scr 145 genes
+0403U	Onc prst8 mrna 18 gen dre ur
+0405U	Onc pncrtc 59 mthltn blk mrk
+0409U	Onc sld tum dna 80 & rna 36
+0410U	Onc pncrtc dna whl gn seq 5-
+0411U	Psyc genom alys pnl 15 gen
+0413U	Onc hl neo opt gen mapg dna
+0417U	Rare ds alys 335 nuc genes
+0419U	Nrpsyc gen seq vrnt aly 13
+Code	Description
+59	DISTINCT PROCEDURAL SERVICE: UNDER CERTAIN
+CIRCUMSTANCES, THE PHYSICIAN MAY NEED TO INDICATE THAT A
+PROCEDURE OR SERVICE WAS DISTINCT OR INDEPENDENT FROM
+OTHER SERVICES PERFORMED ON THE SAME DAY. MODIFIER -59 IS
+USED TO IDENTIFY PROCEDURES/SERVICES THAT ARE NOT
+NORMALLY REPORTED TOGETHER, BUT ARE APPROPRIATE UNDER
+THE CIRCUMSTANCES. THIS MAY REPRESENT A DIFFERENT
+SESSION OR PATIENT ENCOUNTER, DIFFERENT PROCEDURE OR
+SURGERY, DIFFERNET SITE OR ORGAN SYSTEM, SEPARATE
+INCISION/EXCISION, SEPARATE LESION, OR SEPARATE INJURY (OR
+AREA OF INJURY IN EXTENSIVE INJURIES) NOT ORDINARILY
+ENCOUNTERED OR PERFORMED ON THE SAME DAY BY THE SAME
+PHYSICIAN. HOWEVER, WHAN ANOTHER ALREADY ESTABLISHED
+MODIFIER IS APPROPRIATE IT SHOULD BE USED RATHER THAN
+MODIFIER -59. ONLY IF NO MORE DESCRIPTIVE MODIFIER IS
+AVAILABLE, AND THE USE OF MODIFIER -59 BEST EXPLAINS THE
+CIRCUMSTANCES, SHOULD MODIFIER -59 BE USED. MODIFIER
+CODE 09959 MAY BE USED AS AN ALTERNATE TO MODIFIER -59.
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+10/01/2023	R12	Article revised and published on 10/05/2023 effective
+for dates of service on and after 10/01/2023 in
+response to the October Quarterly HCPCS/CPT Code
+Updates. The following codes have been added to
+‘Group 1 codes’: 0403U, 0405U, 0409U, 0410U, 0411U,
+0413U, 0417U, 0419U. The following codes in ‘Group 1
+codes’ have a descriptor change: 0269U, 0271U,
+0272U, 0274U, 0277U, 0278U. The following codes in
+'Group 1 codes' have been deleted and therefore
+removed from the article: 0386U, 0397U. A statement
+has been added to Article Text section for additional
+instruction.
+07/01/2023	R11	Article revised and published on 07/20/2023 effective
+for dates of service on and after 07/01/2023 in
+response to the July Quarterly HCPCS/CPT Code
+Updates. The following CPT codes have been added to
+the Article: 0388U, 0389U, 0391U, 0392U, 0396U,
+0397U, 0398U, 0400U for section ‘Group 1 codes.’ The
+following CPT code has been deleted and therefore
+has been removed from the article: 0053U removed
+from section ‘Group 1 codes.’
+06/11/2023	R10	Article revised and published on 06/08/2023 effective
+for dates of service on and after 06/11/2023. The
+	Revision	Revision		
+	History
+Date	History
+Number	Revision History Explanation	
+			following CPT code has been removed from the Article:
+0105U from the ‘CPT/HCPCS Codes’ section for ‘Group
+1 codes’ because it is not a molecular test.	
+	06/11/2023	R9	Article revised and published on 04/27/2023 effective
+for dates of service on and after 06/11/2023. CPT
+codes 81400, 81401 and 81402 were added under the
+Coding Guidance section under the following
+paragraph: “If billing utilizing the following Tier 2
+codes, additional information will be required to
+identify the specific analyte/gene(s) tested in the
+narrative of the claim or the claim will be rejected:”
+Language was added under the Multianalyte Assays
+with Algorithmic Analyses (MAAAs) and Proprietary
+Laboratory Analyses (PLA) section providing
+instruction on billing CPT code 81599.	
+	04/01/2023	R8	Article revised and published on 04/20/2023 effective
+for dates of service on and after 04/01/2023 to reflect
+the April CPT/HCPCS Quarterly Update. The following
+CPT codes have been added to the Article: 0364U,
+0368U, 0369U, 0370U, 0371U, 0372U, 0373U, 0374U,
+0378U, 0379U, 0380U, 0386U to ‘Group 1’. The
+following current CPT codes have been added to the
+Article: 0017M, 0306U, 0307U, 0317U, 0326U, 0329U,
+0331U, 0334U, 0339U, 0343U to ‘Group 1’. The
+following CPT code has had either a long descriptor or
+short descriptor change. Depending on which
+descriptor was changed there may not be any change
+in how the code displays: 0022U in ‘Group 1 Codes’.	
+	01/01/2023	R7	Article revised and published on 01/26/2023 effective	
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+		for dates of service on and after 01/01/2023 to reflect
+the Annual HCPCS/CPT Code Updates. The following
+CPT codes have been added to the Article: 0355U,
+0356U, 0362U, 0363U, 81418, 81441, 81449, 81451,
+and 81456 to ‘Group 1 codes’. The following CPT
+codes have had either a long descriptor or short
+descriptor change. Depending on which descriptor was
+changed there may not be any change in how the code
+displays: 81330, 81445, 81450, 81455, and 0069U in
+‘Group 1 Codes’.
+10/01/2022	R6	Article revised and published on 10/06/2022 effective
+for dates of service on and after 10/01/2022 to reflect
+the October Quarterly HCPCS/CPT Code updates. The
+following CPT codes have been added to the Article:
+0332U, 0333U, 0335U, 0336U, 0340U, and 0341U to
+‘Group 1 codes”. The following CPT codes have been
+deleted and therefore have been removed from the
+article: 0012U, 0013U, 0014U, and 0056U from the
+‘Group 1 Codes’. The following CPT codes have had
+either a long descriptor or short descriptor change.
+Depending on which descriptor was changed there
+may not be any change in how the code displays:
+0229U, 0262U, 0276U, 0296U.
+07/01/2022	R5	Article revised and published on 08/04/2022 effective
+for dates of service on and after 07/01/2022 to reflect
+the July quarterly CPT/HCPCS code updates. The
+following CPT codes had short description changes.
+Depending on which description is used in this article,
+there may not be any change in how the code displays
+in the document: 0016M and 0229U.
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+04/01/2022	R4	Article revised and published on 05/05/2022 effective
+for dates of service on and after 04/01/2022 to reflect
+the April Quarterly CPT/HCPCS Update. The following
+CPT codes have been added to the ‘CPT/HCPCS
+Codes’ section for ‘Group 1 Codes’: 0313U, 0314U and
+0315U. The following CPT code has been deleted from
+the ‘CPT/HCPCS Codes’ section for ‘Group 1 Codes’:
+0097U. For the following CPT code either the short
+description and/or the long description was changed.
+Depending on which description is used in this article,
+there may not be any change in how the code displays:
+0022U in the ‘CPT/HCPCS Codes’ section for ‘Group 1
+Codes’.
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+01/01/2022	R3	Article revised and published on 01/20/2022 effective
+for dates of service on and after 01/01/2022 to reflect
+the Annual HCPCS/CPT Code Updates. The following
+CPT codes have been added to the ‘CPT/HCPCS
+Codes’ section for ‘Group 1 Codes’: 81349, 81523,
+0285U, 0286U, 0287U, 0288U, 0289U, 0290U, 0291U,
+0292U, 0293U, 0294U, 0296U, 0297U, 0298U, 0299U,
+0300U, 0301U, and 0302U. The following CPT code
+has been deleted from the ‘CPT/HCPCS Codes’ section
+for ‘Group 1 Codes’ and therefore has been removed
+from the article: 0208U. For the following CPT codes
+either the short description and/or the long description
+was changed. Depending on which description is used
+in this article, there may not be any change in how the
+code displays: 0016M, 0090U, 0154U, 0155U, 0177U,
+0180U, 0193U, 0200U, 0205U, 0216U, 0221U, 0244U,
+0258U, 0262U, 0265U, 0266U, 0276U, 81194, 81228,
+81229, and 81405 in the ‘CPT/HCPCS Codes’ section
+for ‘Group 1 Codes’.
+12/30/2021	R2	Article revised and published on 12/30/2021.
+Documentation requirement #5 has been revised.
+Information regarding the requirement for a
+relationship between the ordering/referring practitioner
+and the patient has been added to the text of the
+article and a separate documentation requirement, #6,
+was created to address using the test results in the
+management of the patient. The following CPT codes
+have been removed from the Group 1 CPT Codes:
+0115U, 0151U, 0202U, 0223U, 0225U, 0240U, and
+0241U.
+Revision
+History
+Date	Revision
+History
+Number	Revision History Explanation
+11/08/2021	R1	Article revised and published on November 4, 2021
+effective for dates of service on and after November 8,
+2021. The instructions for reporting CPT code 81479
+have been clarified, multiple CPT codes that did not
+represent molecular pathology services have been
+deleted and the following CPT codes have been added
+in response to the October 2021 Quarterly HCPCS
+Update: 0258U, 0260U, 0262U, 0264U, 0265U, 0266U,
+0267U, 0268U, 0269U, 0270U, 0271U, 0272U, 0273U,
+0274U, 0276U, 0277U, 0278U, and 0282U.
+Updated On	Effective Dates	Status	
+Updated On	Effective Dates	Status	
+	07/01/2022 - 09/30/2022	Superseded	
+	04/01/2022 - 06/30/2022	Superseded	
+	01/01/2022 - 03/31/2022	Superseded	
+	12/30/2021 - 12/31/2021	Superseded	
+	11/08/2021 - 12/29/2021	Superseded	
+	11/08/2021 - N/A	Superseded	

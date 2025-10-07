@@ -6,7 +6,13 @@
 cwd=$(pwd)
 DATADIR="${cwd}/data"
 #
-FNAME_BASE="Article_-_Billing_and_Coding_Biomarkers_for_Oncology_A52986"
+FNAME_BASE="Article_-_Billing_and_Coding_Molecular_Pathology_and_Genetic_Testing_A58917_20230929"
+#FNAME_BASE="Article_-_Billing_and_Coding_Molecular_Pathology_and_Genetic_Testing_A58917_20241018"
+#FNAME_BASE="Article_-_Billing_and_Coding_Molecular_Pathology_and_Genetic_Testing_A58917_20250709"
+#
+#FNAME_BASE="Article_-_Billing_and_Coding_Biomarkers_for_Oncology_A52986_20250425"
+#
+set -x
 #
 python -m BioClients.util.pdf.PDF2Txt \
 	--input_file ${DATADIR}/${FNAME_BASE}.pdf \
