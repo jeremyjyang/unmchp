@@ -22,10 +22,12 @@ psql -c "CREATE DATABASE ${DBNAME}"
 TNAME="lod_42_cpt"
 psql -d $DBNAME <<__EOF__
 CREATE TABLE ${DBSCHEMA}.${TNAME} (
-	cpt_id VARCHAR(12) PRIMARY KEY,
+	cpt_id VARCHAR(12),
 	cpt_description VARCHAR(64) NOT NULL
 )
 __EOF__
+#
+psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
 FNAME="Final-LOD-42-Final-Biomarker-Coverage_TABLE1-Biomarker-Testing-Codes.tsv"
 cat ${DATADIR}/${FNAME} |sed '1d' |sort -u \
@@ -34,12 +36,13 @@ psql -d "${DBNAME}" -c "COMMENT ON TABLE ${DBSCHEMA}.${TNAME} IS 'Loaded from ${
 #
 ###
 # UMLS table, indexed by CPT codes.
+# But initially allow duplicates.
 TNAME="umls_cpt"
 psql -d $DBNAME <<__EOF__
 CREATE TABLE ${DBSCHEMA}.${TNAME} (
-	cpt_id VARCHAR(12) PRIMARY KEY,
+	cpt_id VARCHAR(12),
 	source VARCHAR(12),
-	name VARCHAR(1024),
+	name VARCHAR(2048),
 	obsolete BOOLEAN,
 	atomcount NUMERIC(4,1),
 	concepts VARCHAR(256)
@@ -51,16 +54,20 @@ cat ${DATADIR}/${FNAME} |sed '1d' \
 	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
 psql -d "${DBNAME}" -c "COMMENT ON TABLE ${DBSCHEMA}.${TNAME} IS 'Loaded from ${FNAME}'"
 #
+psql -d "${DBNAME}" -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD COLUMN provenance VARCHAR(24) NULL"
+psql -d "${DBNAME}" -c "UPDATE ${DBSCHEMA}.${TNAME} SET provenance = 'NM_LOD_42'"
+#
 ###
 # CMS List of CPT codes, from
 # https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/list-cpt-hcpcs-codes
 TNAME="cms_cpt"
 psql -d $DBNAME <<__EOF__
 CREATE TABLE ${DBSCHEMA}.${TNAME} (
-	cpt_id VARCHAR(12) PRIMARY KEY,
+	cpt_id VARCHAR(12),
 	cpt_description VARCHAR(256) NOT NULL
 )
 __EOF__
+psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
 FNAME="2026_DHS_Code_List_Addendum_12_01_2025.tsv"
 cat ${DATADIR}/${FNAME} \
@@ -70,4 +77,15 @@ cat ${DATADIR}/${FNAME} \
 	|sort -u \
 	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
 psql -d "${DBNAME}" -c "COMMENT ON TABLE ${DBSCHEMA}.${TNAME} IS 'Loaded from ${FNAME}'"
+#
+#
+FNAME="2026_DHS_Code_List_Addendum_12_01_2025_bioclients-umls-api-out-selectedcols.tsv"
+TNAME="umls_cpt"
+cat ${DATADIR}/${FNAME} |sed '1d' \
+	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} (cpt_id, source, name, obsolete, atomcount, concepts) FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
+#
+psql -d "${DBNAME}" -c "UPDATE ${DBSCHEMA}.${TNAME} SET provenance = 'DHS_LIST_2026' WHERE provenance IS NULL"
+###
+# Should fail due to duplicates.
+psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
