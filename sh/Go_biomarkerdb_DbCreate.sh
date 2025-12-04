@@ -5,7 +5,7 @@
 # in accordance with NM statute (2023 HB073).
 ###
 #
-set -e
+#set -e
 set -x
 #
 DBNAME="biomarkerdb"
@@ -51,6 +51,7 @@ __EOF__
 #
 FNAME="Biomarker-Testing-Codes_bioclients-umls-api-out-selectedcols.tsv"
 cat ${DATADIR}/${FNAME} |sed '1d' \
+	|sed 's/""/\&quot;/g' \
 	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
 psql -d "${DBNAME}" -c "COMMENT ON TABLE ${DBSCHEMA}.${TNAME} IS 'Loaded from ${FNAME}'"
 #
@@ -74,6 +75,7 @@ cat ${DATADIR}/${FNAME} \
 	|sed 's/Psa screening$/PSA screening/' \
 	|sed 's/bld-bsd bimrk$/bld-bsd biomrk/' \
 	|sed 's/Eia hiv-1/hiv-2 screen$/EIA HIV-1/HIV-2 screen/' \
+	|sed 's/""/\&quot;/g' \
 	|sort -u \
 	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
 psql -d "${DBNAME}" -c "COMMENT ON TABLE ${DBSCHEMA}.${TNAME} IS 'Loaded from ${FNAME}'"
@@ -87,5 +89,21 @@ cat ${DATADIR}/${FNAME} |sed '1d' \
 psql -d "${DBNAME}" -c "UPDATE ${DBSCHEMA}.${TNAME} SET provenance = 'DHS_LIST_2026' WHERE provenance IS NULL"
 ###
 # Should fail due to duplicates.
+psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
+#
+psql -d $DBNAME <<__EOF__
+SELECT COUNT(t.cpt_id) duplicate_cpt_id_count
+FROM (SELECT cpt_id FROM $TNAME GROUP BY cpt_id HAVING COUNT(cpt_id) > 1) t ;
+__EOF__
+#
+# Delete duplicates (via temporary table).
+# Semicolon-delimited concepts (CUIs) need to be ordered for de-duplication.
+psql -d $DBNAME -c "ALTER TABLE ${TNAME} DROP COLUMN provenance"
+psql -d $DBNAME -c "ALTER TABLE ${TNAME} DROP COLUMN concepts"
+psql -d $DBNAME -c "CREATE TABLE ${TNAME}_temp AS SELECT DISTINCT * FROM ${TNAME} ORDER BY cpt_id"
+psql -d $DBNAME -c "DROP TABLE ${TNAME}"
+psql -d $DBNAME -c "ALTER TABLE ${TNAME}_temp RENAME TO ${TNAME}"
+#
+# Should succeed due to deletion of duplicates.
 psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
