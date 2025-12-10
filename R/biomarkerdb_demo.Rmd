@@ -1,0 +1,102 @@
+---
+title: "BiomarkerDB Demo"
+author: "Jeremy Yang"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# BiomarkerDb
+
+UNM CHP Biomarker Review Team db, for use in reviewing biomarkers
+for NM HCA Medicaid coverage decisions, based on medical and scientific evidence,
+in accordance with NM statute (2023 HB073).
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
+library(readr, quietly=T)
+library(data.table, quietly=T)
+library(RPostgreSQL, quietly=T)
+library(plotly, quietly = T)
+```
+
+## Connect to DB
+
+```{r opendb, echo=FALSE}
+dbcon <- dbConnect(PostgreSQL(), host="localhost", dbname="biomarkerdb", user = "jjyang", password = "assword")
+```
+
+## Letter of Direction (LOD) 42 CPT list
+
+```{r}
+results <- dbSendQuery(dbcon,"SELECT * FROM lod_42_cpt")
+lod_42_cpt <- dbFetch(results, colClasses="character")
+dbClearResult(results)
+setDT(lod_42_cpt)
+sprintf("LOD CPTs: %s", lod_42_cpt[, uniqueN(cpt_id)])
+```
+
+ 
+```{r}
+lod_42_cpt[sample(1:nrow(lod_42_cpt), 12)] %>% 
+  kbl(caption = "LOD_42", booktabs=T) %>%
+  kable_styling(c("striped", "hover"), full_width = F, position = "left")
+```
+
+## UMLS annotations for CPT codes
+
+```{r}
+results <- dbSendQuery(dbcon,"SELECT * FROM umls_cpt")
+umls_cpt <- dbFetch(results, colClasses="character")
+dbClearResult(results)
+setDT(umls_cpt)
+sprintf("UMLS CPTs: %s", umls_cpt[, uniqueN(cpt_id)])
+```
+
+
+```{r}
+umls_cpt[sample(1:nrow(umls_cpt), 12), .(cpt_id, name)] %>% 
+  kbl(caption = "UMLS_CPT", booktabs=T) %>%
+  kable_styling(c("striped", "hover"), full_width = F, position = "left")
+```
+
+## CMS CPT list
+
+From:  https://www.cms.gov/medicare/regulations-guidance/physician-self-referral/list-cpt-hcpcs-codes
+
+```{r}
+results <- dbSendQuery(dbcon,"SELECT * FROM cms_cpt")
+cms_cpt <- dbFetch(results, colClasses="character")
+dbClearResult(results)
+setDT(cms_cpt)
+sprintf("CMS CPTs: %s", cms_cpt[, uniqueN(cpt_id)])
+```
+```{r}
+cms_cpt[sample(1:nrow(cms_cpt), 12), .(cpt_id, cpt_description)] %>% 
+  kbl(caption = "UMLS_CPT", booktabs=T) %>%
+  kable_styling(c("striped", "hover"), full_width = F, position = "left")
+```
+
+## LOD CPT list with UMLS annotations (verbose descriptions)
+
+```{r}
+sql <- "SELECT
+  lod.cpt_id,
+  lod.cpt_description,
+  umls.name
+FROM
+  lod_42_cpt lod
+  JOIN umls_cpt umls ON umls.cpt_id = lod.cpt_id"
+results <- dbSendQuery(dbcon, sql)
+lod_umls_cpt <- dbFetch(results, colClasses="character")
+dbClearResult(results)
+setDT(lod_umls_cpt)
+```
+
+```{r}
+lod_umls_cpt[sample(1:nrow(lod_umls_cpt), 12), .(cpt_id, cpt_description, name)] %>% 
+  kbl(caption = "LOD CPTs with UMLS annotations", booktabs=T) %>%
+  kable_styling(c("striped", "hover"), full_width = F, position = "left")
+```
+

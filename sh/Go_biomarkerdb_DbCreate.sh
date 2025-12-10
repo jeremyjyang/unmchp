@@ -68,17 +68,18 @@ CREATE TABLE ${DBSCHEMA}.${TNAME} (
 	cpt_description VARCHAR(256) NOT NULL
 )
 __EOF__
-psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
 FNAME="2026_DHS_Code_List_Addendum_12_01_2025.tsv"
 cat ${DATADIR}/${FNAME} \
 	|sed 's/Psa screening$/PSA screening/' \
 	|sed 's/bld-bsd bimrk$/bld-bsd biomrk/' \
-	|sed 's/Eia hiv-1/hiv-2 screen$/EIA HIV-1/HIV-2 screen/' \
+	|sed 's/Eia hiv-1\/hiv-2 screen$/EIA HIV-1\/HIV-2 screen/' \
 	|sed 's/""/\&quot;/g' \
 	|sort -u \
 	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
 psql -d "${DBNAME}" -c "COMMENT ON TABLE ${DBSCHEMA}.${TNAME} IS 'Loaded from ${FNAME}'"
+#
+psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
 #
 FNAME="2026_DHS_Code_List_Addendum_12_01_2025_bioclients-umls-api-out-selectedcols.tsv"
