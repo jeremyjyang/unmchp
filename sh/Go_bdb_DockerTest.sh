@@ -10,8 +10,7 @@ cwd=$(pwd)
 INAME_DB="biomarkerdb"
 TAG="latest"
 #
-APPPORT_DB=5432
-DOCKERPORT_DB=5433
+DOCKERPORT_DB=5435
 #
 docker container ls -a
 docker container logs "${INAME_DB}_container"

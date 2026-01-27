@@ -5,18 +5,13 @@
 ###
 set -e
 #
-if [ $(whoami) != "root" ]; then
-	echo "${0} should be run as root or via sudo."
-	exit
-fi
-#
 cwd=$(pwd)
 #
 INAME_DB="biomarkerdb"
 TAG="latest"
 #
 APPPORT_DB=5432
-DOCKERPORT_DB=5433
+DOCKERPORT_DB=5435
 #
 # Note that "run" is equivalent to "create" + "start".
 docker run -dit --restart always \
