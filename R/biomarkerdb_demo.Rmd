@@ -24,7 +24,13 @@ library(plotly, quietly = T)
 ## Connect to DB
 
 ```{r opendb, echo=FALSE}
-dbcon <- dbConnect(PostgreSQL(), host="localhost", dbname="biomarkerdb", user = "jjyang", password = "assword")
+DBHOST <- "ec2-52-54-90-172.compute-1.amazonaws.com"
+DBPORT <- 5435
+DBNAME <- "biomarkerdb"
+DBUSER <- "bio"
+DBPW <- "marker"
+message(sprintf("DBHOST: %s; DBPORT: %d; DBNAME: %s; DBUSER: %s; DBPW: %s", DBHOST, DBPORT, DBNAME, DBUSER, DBPW))
+dbcon <- dbConnect(PostgreSQL(), host=DBHOST, port = DBPORT, dbname=DBNAME, user = DBUSER, password = DBPW)
 ```
 
 ## Letter of Direction (LOD) 42 CPT list
