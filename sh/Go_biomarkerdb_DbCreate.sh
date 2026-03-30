@@ -108,3 +108,51 @@ psql -d $DBNAME -c "ALTER TABLE ${TNAME}_temp RENAME TO ${TNAME}"
 # Should succeed due to deletion of duplicates.
 psql -d $DBNAME -c "ALTER TABLE ${DBSCHEMA}.${TNAME} ADD PRIMARY KEY (cpt_id)"
 #
+###
+# CLIA 
+#
+FNAME="clia_detail.tsv"
+TNAME="clia_detail"
+#
+psql -d $DBNAME <<__EOF__
+CREATE TABLE ${DBSCHEMA}.${TNAME} (
+	document_number VARCHAR(12) NOT NULL,
+	test_system_id VARCHAR(12),
+	test_system_name VARCHAR(256),
+	qualifier1 VARCHAR(512),
+	qualifier2 VARCHAR(512),
+	analyte_id VARCHAR(12),
+	analyte_name VARCHAR(128),
+	specialty_id VARCHAR(12),
+	complexity VARCHAR(12),
+	date_effective VARCHAR(32)
+)
+__EOF__
+#
+cat ${DATADIR}/${FNAME} |sed '1d' \
+	|perl -pe 's/\r\n*/\n/g' \
+	|iconv -f 'ISO-8859-15' -t 'UTF-8' \
+	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} (document_number,test_system_id,test_system_name,qualifier1,qualifier2,analyte_id,analyte_name,specialty_id,complexity,date_effective) FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
+#
+FNAME="clia_cdc.tsv"
+TNAME="clia_cdc"
+#
+psql -d $DBNAME <<__EOF__
+CREATE TABLE ${DBSCHEMA}.${TNAME} (
+	id VARCHAR(12),
+	document_number VARCHAR(12),
+	test_system_id VARCHAR(12),
+	test_system_name VARCHAR(256),
+	qualifier1 VARCHAR(256),
+	qualifier2 VARCHAR(256),
+	analyte_id VARCHAR(12),
+	analyte_name VARCHAR(128),
+	specialty_id VARCHAR(12),
+	complexity VARCHAR(12),
+	date_effective VARCHAR(32)
+)
+__EOF__
+#
+cat ${DATADIR}/${FNAME} |sed '1d' \
+	|psql -d $DBNAME -c "COPY ${DBSCHEMA}.${TNAME} (id,document_number,test_system_id,test_system_name,qualifier1,qualifier2,analyte_id,analyte_name,specialty_id,complexity,date_effective) FROM STDIN WITH (FORMAT CSV,DELIMITER E'\t', HEADER FALSE)"
+#
