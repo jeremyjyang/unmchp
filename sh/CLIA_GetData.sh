@@ -11,6 +11,13 @@
 # Test systems categorized by the CDC prior to February 2, 2000:
 # https://www.accessdata.fda.gov/premarket/ftparea/clia_cdc.zip
 #
+###
+# Documents can be found via fda.gov, e.g.:
+# https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfClia/Results.cfm?start_search=1&Document_Number=CR180749
+# ... which has a link to:
+# https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCLIA/Detail.cfm?ID=56388
+# BUT! WHAT TYPE OF ID IS THAT?
+#
 set -e
 #
 cwd=$(pwd)
